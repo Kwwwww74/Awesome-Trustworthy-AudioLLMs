@@ -73,9 +73,7 @@ We welcome contributions from researchers and practitioners!
 
 ## Acknowledgement
 
-- Organizers: [Kevin Luo (罗凯文)](https://tianshuocong.github.io/), [Xinlei He (何新磊)](https://xinleihe.github.io/), [Zhengyu Zhao (赵正宇)](https://zhengyuzhao.github.io/), [Yugeng Liu (刘禹更)](https://liu.ai/), [Delong Ran (冉德龙)](https://github.com/eggry)
-
-- This project is inspired by [LLM Security](https://llmsecurity.net/), [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security), [LLM Security & Privacy](https://github.com/chawins/llm-sp),             [UR2-LLMs](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness), [PLMpapers](https://github.com/thunlp/PLMpapers), [EvaluationPapers4ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT)
+- Organizers: [Kevin Luo (罗凯文)](https://scholar.google.com/citations?user=XnZXByMAAAAJ&hl=en), [Liang Lin (林亮)](https://scholar.google.com/citations?user=XQNpChIAAAAJ&hl=en)
 
 <p align="center">
   <img src="./images/school.jpg" alt="Awesome Trustworthy Audio-LLMs" width="80%">
