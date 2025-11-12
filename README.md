@@ -11,7 +11,7 @@
 
 With the rapid developmenst of **Audio Large Language Models (Audio-LLMs)**, ensuring their **trustworthiness and safety** has become an essential research frontier.  
 
-This repository serves as a **comprehensive and community-driven hub** for tracking progress in the field of **trustworthy audio intelligence**. 
+This repository(TALLM) serves as a **comprehensive and community-driven hub** for tracking progress in the field of **trustworthy audio intelligence**. 
 
 It highlights research on:
 - 🛡️ **Safety**
@@ -43,9 +43,8 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
 ---
 
 ## 🗞️ Recent News  
-- **[2025.11]** Repository launched — initial release of *AudioSafe*, *HIN*, *TALEBench*, and *Fine-Mixing* resources.  
-- **[2025.10]** Added new section on *multimodal reasoning safety* (video + audio).  
-- **[2025.09]** Integrated backdoor detection and evaluation scripts for *AudioJailBench*.  
+- **[2025.11.12]** 🐣TALLM is released!!! 
+
 
 ---
 
