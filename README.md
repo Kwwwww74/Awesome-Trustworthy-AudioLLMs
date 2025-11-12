@@ -3,11 +3,11 @@
   <img src="./images/logo.jpg" alt="Awesome Trustworthy Audio-LLMs" width="80%">
 </p>
 
-*A curated and continuously evolving collection of research, benchmarks, datasets, and open resources on **Trustworthy Audio Large Language Models (Audio-LLMs)** — spanning the entire spectrum of **safety, robustness, alignment, security, interpretability, and ethical governance** across **speech perception, generation, and multimodal intelligence.***
+*A curated and continuously evolving collection of research, benchmarks, datasets, and open resources on **Trustworthy Audio Large Language Models (Audio-LLMs)** — spanning the entire spectrum of **ALLM Safety**.*
 
 ---
 
-## 🌍 Introduction  
+## Introduction  
 
 With the rapid rise of **Audio Large Language Models (Audio-LLMs)** — systems capable of understanding, reasoning, and generating human speech — ensuring their **trustworthiness and safety** has become an essential research frontier.  
 
@@ -21,12 +21,6 @@ It highlights research on:
 - 🧠 **Interpretability, transparency, and governance** in speech AI  
 
 Together, these works aim toward a future where Audio-LLMs are **not only capable of understanding voices — but also worthy of being trusted**.
-
-- Model:
-        - ![LLM](https://img.shields.io/badge/LLM_(Large_Language_Model)-589cf4)
-        - ![VLM](https://img.shields.io/badge/VLM_(Vision_Language_Model)-c7688b) 
-        - ![SLM](https://img.shields.io/badge/SLM_(Speech_Language_Model)-39c5bb) 
-        - ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 
 ---
 
