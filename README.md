@@ -22,6 +22,12 @@ It highlights research on:
 
 Together, these works aim toward a future where Audio-LLMs are **not only capable of understanding voices — but also worthy of being trusted**.
 
+- Model:
+        - ![LLM](https://img.shields.io/badge/LLM_(Large_Language_Model)-589cf4)
+        - ![VLM](https://img.shields.io/badge/VLM_(Vision_Language_Model)-c7688b) 
+        - ![SLM](https://img.shields.io/badge/SLM_(Speech_Language_Model)-39c5bb) 
+        - ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+
 ---
 
 ## 🧭 Table of Contents  
