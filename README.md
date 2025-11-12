@@ -25,85 +25,56 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
 
 ---
 
-## 🧭 Table of Contents  
+## 🧭 Research Collections  
 
-- [Overview](#overview)
-- [Recent News](#recent-news)
-- [Research Collections](#research-collections)
-  - [Surveys & Overviews](#surveys--overviews)
-  - [Attacks & Risks](#attacks--risks)
-  - [Defense & Safety Alignment](#defense--safety-alignment)
-  - [Benchmarks & Evaluation](#benchmarks--evaluation)
-  - [Datasets](#datasets)
-- [How to Contribute](#how-to-contribute)
-- [Acknowledgement](#acknowledgement)
-- [Citation](#citation)
-- [License](#license)
+- [Safety](./papers/safety)
+  - [Surveys & Overviews](./papers/safety/surveys--overviews)
+  - [Attacks & Risks](./papers/safety/attacks--risks)
+  - [Defense & Safety Alignment](./papers/safety/defense--safety-alignment)
+  - [Benchmarks & Evaluation](./papers/safety/benchmarks--evaluation)
+- [Fairness](./papers/fairness)
+  - [Surveys & Overviews](./papers/fairness/surveys--overviews)
+  - [Attacks & Risks](./papers/fairness/attacks--risks)
+  - [Defense & Safety Alignment](./papers/fairness/defense--safety-alignment)
+  - [Benchmarks & Evaluation](./papers/fairness/benchmarks--evaluation)
+- [Hallucination](./papers/hallucination)
+  - [Surveys & Overviews](./papers/hallucination/surveys--overviews)
+  - [Attacks & Risks](./papers/hallucination/attacks--risks)
+  - [Defense & Safety Alignment](./papers/hallucination/defense--safety-alignment)
+  - [Benchmarks & Evaluation](./papers/hallucination/benchmarks--evaluation)
+- [Privacy](./papers/privacy)
+  - [Surveys & Overviews](./papers/privacy/surveys--overviews)
+  - [Attacks & Risks](./papers/privacy/attacks--risks)
+  - [Defense & Safety Alignment](./papers/privacy/defense--safety-alignment)
+  - [Benchmarks & Evaluation](./papers/privacy/benchmarks--evaluation)
+- [Robustness](./papers/robustness)
+  - [Surveys & Overviews](./papers/robustness/surveys--overviews)
+  - [Attacks & Risks](./papers/robustness/attacks--risks)
+  - [Defense & Safety Alignment](./papers/robustness/defense--safety-alignment)
+  - [Benchmarks & Evaluation](./papers/robustness/benchmarks--evaluation)
+- [Authentication](./papers/authentication)
+  - [Surveys & Overviews](./papers/authentication/surveys--overviews)
+  - [Attacks & Risks](./papers/authentication/attacks--risks)
+  - [Defense & Safety Alignment](./papers/authentication/defense--safety-alignment)
+  - [Benchmarks & Evaluation](./papers/authentication/benchmarks--evaluation)
 
 ---
 
 ## 🗞️ Recent News  
 - **[2025.11.12]** 🐣TALLM is released!!! 
 
-
----
-
-## 📚 Research Collections  
-
-### 🧾 Surveys & Overviews  
-| Year | Title | Venue | Keywords |
-|------|--------|--------|----------|
-| 2025 | *A Survey on Trustworthy Audio-LLMs: Capabilities and Threats* | KDD (under review) | Survey, Trustworthiness, Audio LLMs |
-| 2024 | *Safety and Alignment in Speech-Driven LLMs* | arXiv | Safety, Alignment |
-| 2024 | *Audio Deepfake Forensics in the Era of Generative AI* | ACM TOMM | Deepfake, Detection, Ethics |
-
----
-
-### ⚔️ Attacks & Risks  
-| Year | Title | Venue | Focus |
-|------|--------|--------|-------|
-| 2025 | **Hidden in the Noise (HIN): Audio Backdoor Attacks on Audio-LLMs** | AAAI (under review) | Backdoor, Trigger, Poisoning |
-| 2024 | **AudioJailBench: Jailbreak Attacks on Speech-Driven LLMs** | arXiv | Jailbreak, Prompt Injection |
-| 2024 | *Adversarial Whispering: Covert Speech Prompts for Multimodal LLMs* | arXiv | Adversarial Attack, Audio Prompt |
-| 2023 | *Listen to My Voice: Attacking End-to-End ASR via Adversarial Speech* | IEEE S&P | Adversarial ASR, Security |
-
----
-
-### 🛡️ Defense & Safety Alignment  
-| Year | Title | Venue | Strategy |
-|------|--------|--------|-----------|
-| 2025 | **Fine-Mixing: Robust LoRA Fine-Tuning for Audio Safety Alignment** | NeurIPS | PEFT Defense, Alignment |
-| 2024 | *AudioGuard: Detecting and Defending Audio-LLM Backdoors* | arXiv | Detection, Defense |
-| 2024 | *MMDefend: Multimodal Jailbreak Defense Framework* | CVPR | Multimodal Defense |
-
----
-
-### 📊 Benchmarks & Evaluation  
-| Benchmark | Description | Focus |
-|------------|--------------|--------|
-| **AudioSafe (2025)** | A large-scale benchmark for assessing safety, robustness, and risk of Audio-LLMs under 9 categories. | Safety Evaluation |
-| **TALEBench (2024)** | Task-Agnostic LLM Evaluation Benchmark for Long Audio Reasoning. | Comprehension, Long-Context |
-| **AudioJailBench (2024)** | Benchmark for audio jailbreak and instruction-following failures. | Prompt Safety |
-| **ASVspoof / AV-Deepfake1M++** | Classic audio deepfake and spoofing detection datasets. | Deepfake Detection |
-
----
-
-### 🎙️ Datasets  
-| Dataset | Description | Source |
-|----------|--------------|--------|
-| **ALLM_long_TTS** | Synthetic long-form audio for dictation, comprehension, and localization tasks. | Custom |
-| **LAV-DF** | Multimodal audio-visual deepfake dataset. | Research |
-| **VoxCeleb2** | Large-scale speaker corpus for voice identity verification. | Public |
-| **FF++ Audio Extended** | Audio-augmented FaceForensics++ for multimodal forgery. | Derived |
-
 ---
 
 ## 🤝 How to Contribute  
 
 We welcome contributions from researchers and practitioners!  
-You can add new papers, datasets, or benchmarks via **Pull Request** or open an **Issue**.
 
-**Entry format example (Markdown table row):**
-```markdown
-| 2025 | Paper Title | Venue | Keywords |
+---
 
+## Acknowledgement
+
+- Organizers: [Kevin Luo (罗凯文)](https://tianshuocong.github.io/), [Xinlei He (何新磊)](https://xinleihe.github.io/), [Zhengyu Zhao (赵正宇)](https://zhengyuzhao.github.io/), [Yugeng Liu (刘禹更)](https://liu.ai/), [Delong Ran (冉德龙)](https://github.com/eggry)
+
+- This project is inspired by [LLM Security](https://llmsecurity.net/), [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security), [LLM Security & Privacy](https://github.com/chawins/llm-sp),             [UR2-LLMs](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness), [PLMpapers](https://github.com/thunlp/PLMpapers), [EvaluationPapers4ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT)
+
+<p align="center"><img src="figure/logo.png" width="900" /></p>
