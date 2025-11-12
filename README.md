@@ -1,4 +1,5 @@
 # 🎧 Awesome Trustworthy Audio-LLMs  
+![Project Banner](./images/logo.png)
 
 *A curated and continuously evolving collection of research, benchmarks, datasets, and open resources on **Trustworthy Audio Large Language Models (Audio-LLMs)** — spanning the entire spectrum of **safety, robustness, alignment, security, interpretability, and ethical governance** across **speech perception, generation, and multimodal intelligence.***
 
