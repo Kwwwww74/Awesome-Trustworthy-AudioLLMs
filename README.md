@@ -7,18 +7,19 @@
 
 ---
 
-## Introduction  
+## 🌍Introduction  
 
-With the rapid rise of **Audio Large Language Models (Audio-LLMs)** — systems capable of understanding, reasoning, and generating human speech — ensuring their **trustworthiness and safety** has become an essential research frontier.  
+With the rapid developmenst of **Audio Large Language Models (Audio-LLMs)**, ensuring their **trustworthiness and safety** has become an essential research frontier.  
 
-This repository serves as a **comprehensive and community-driven hub** for tracking progress in the field of **trustworthy audio intelligence**, integrating advances from **AI safety**, **robust learning**, **speech security**, and **responsible multimodal modeling**.  
+This repository serves as a **comprehensive and community-driven hub** for tracking progress in the field of **trustworthy audio intelligence**. 
 
 It highlights research on:
-- 🧩 **Safety alignment** and instruction robustness in speech-driven LLMs  
-- ⚔️ **Adversarial and backdoor attacks** on audio and multimodal models  
-- 🛡️ **Defense and detection** strategies for secure model deployment  
-- 📊 **Benchmarks and evaluation** frameworks for risk assessment  
-- 🧠 **Interpretability, transparency, and governance** in speech AI  
+- 🛡️ **Safety**
+- ⚖️ **Fairness**  
+- 🔮 **Hallucination** 
+- 🔐 **Privacy** 
+- ⚙️ **Robustness**
+- 🔖 **Authentication**
 
 Together, these works aim toward a future where Audio-LLMs are **not only capable of understanding voices — but also worthy of being trusted**.
 
