@@ -67,13 +67,13 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
 
 ## 🤝 How to Contribute  
 
-We welcome contributions from researchers and practitioners!  
+*We welcome contributions from researchers and practitioners!  If you'd like to submit a piece of writing, please write an email to **kaiwenluo74@gmail.com**. Then we can add the article in.*
 
 ---
 
 ## Acknowledgement
 
-- Organizers: [Kevin Luo (罗凯文)](https://scholar.google.com/citations?user=XnZXByMAAAAJ&hl=en), [Liang Lin (林亮)](https://scholar.google.com/citations?user=XQNpChIAAAAJ&hl=en)
+- Organizers: [Kevin Luo (罗凯文)](https://scholar.google.com/citations?user=XnZXByMAAAAJ&hl=en), [Liang Lin (林亮)](https://scholar.google.com/citations?user=XQNpChIAAAAJ&hl=en), [Yibo Zhang (张奕博)], [Zhenhong Zhou(周振宏)](https://ydyjya.github.io)
 
 <p align="center">
   <img src="./images/school.jpg" alt="Awesome Trustworthy Audio-LLMs" width="80%">
