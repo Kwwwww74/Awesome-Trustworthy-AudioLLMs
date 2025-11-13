@@ -61,12 +61,12 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
       - [C9. Watermark & Copyright](./papers/privacy/watermark_and_copyright.md)
 
 ### More than the above：
-  - [Book](collection/book.md)
-  - [Competition](collection/competition.md)
-  - [Leaderboard](collection/leaderboard.md)
-  - [Toolkit](collection/toolkit.md)
-  - [Survey](collection/survey.md)
-  - [Technical Report for Audio Large Language Models](collection/technical_report.md)
+  - [Book](collections/book.md)
+  - [Competition](collections/competition.md)
+  - [Leaderboard](collections/leaderboard.md)
+  - [Toolkit](collections/toolkit.md)
+  - [Survey](collections/survey.md)
+  - [Technical Report for Audio Large Language Models](collections/technical_report.md)
 
 ---
 
