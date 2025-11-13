@@ -3,7 +3,7 @@
   <img src="./images/logo.jpg" alt="Awesome Trustworthy Audio-LLMs" width="80%">
 </p>
 
-*A curated and continuously evolving collection of research, benchmarks, datasets, and open resources on **Trustworthy Audio Large Language Models (Audio-LLMs)** — spanning the entire spectrum of **ALLM Safety**.*
+*A curated and continuously evolving collection of research, benchmarks, datasets, and open resources on **Trustworthy Audio Large Language Models (Audio-LLMs)** — spanning the entire spectrum of **ALLM Safety**. In addition, there are also related papers about audio large models.*
 
 ---
 
@@ -60,13 +60,10 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
       - [C8. Unlearning](./papers/privacy/unlearning.md)
       - [C9. Watermark & Copyright](./papers/privacy/watermark_and_copyright.md)
 
-### More than the above：
-  - [Book](collections/book.md)
-  - [Competition](collections/competition.md)
-  - [Leaderboard](collections/leaderboard.md)
-  - [Toolkit](collections/toolkit.md)
-  - [Survey](collections/survey.md)
-  - [Technical Report for Audio Large Language Models](collections/technical_report.md)
+### In addition to the above-mentioned ones:
+If you want to learn more about Audio Large Language Models, you can take a look at the following.
+  - 🚀 [Survey](collections/survey.md)
+  - 🚀 [Technical Report for Audio Large Language Models](collections/technical_report.md)
 
 ---
 
