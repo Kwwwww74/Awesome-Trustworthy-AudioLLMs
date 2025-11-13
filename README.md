@@ -30,7 +30,7 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
 
 ## 🧭 Research Collections  
 
-- [Safety](./papers/safety)
+- A.[Safety](./papers/safety)
   - [Surveys & Overviews](./papers/safety/surveys--overviews)
   - [Attacks & Risks](./papers/safety/attacks--risks)
   - [Defense & Safety Alignment](./papers/safety/defense--safety-alignment)
