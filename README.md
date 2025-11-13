@@ -60,7 +60,7 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
       - [C8. Unlearning](./papers/privacy/unlearning.md)
       - [C9. Watermark & Copyright](./papers/privacy/watermark_and_copyright.md)
 
-### More than these：
+### More than the above：
   - [Book](collection/book.md)
   - [Competition](collection/competition.md)
   - [Leaderboard](collection/leaderboard.md)
