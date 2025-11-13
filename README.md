@@ -84,6 +84,9 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
   - [Defense & Safety Alignment](./papers/watermark/defense_and_safety-alignment.md)
   - [Benchmarks & Evaluation](./papers/watermark/benchmarks_and_evaluation.md)
 
+### More than these
+- [Technical Report](./technical_report.md)
+
 ---
 
 ## 🗞️ Recent News  
