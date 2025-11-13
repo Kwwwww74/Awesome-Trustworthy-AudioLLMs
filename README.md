@@ -85,7 +85,7 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
   - [Benchmarks & Evaluation](./papers/watermark/benchmarks_and_evaluation.md)
 
 ### More than these
-- [Technical Report](./technical_report.md)
+- [Technical Report for Audio Large Language Models](./technical_report.md)
 
 ---
 
