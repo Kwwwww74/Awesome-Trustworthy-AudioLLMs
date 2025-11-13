@@ -20,6 +20,9 @@ It highlights research on:
 - 🔐 **Privacy** 
 - ⚙️ **Robustness**
 - 🔖 **Authentication**
+- 💡 **Interpretability**
+- 💻 **Security**
+- 🔍 **Watermark**
 
 Together, these works aim toward a future where Audio-LLMs are **not only capable of understanding voices — but also worthy of being trusted**.
 
@@ -57,6 +60,21 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
   - [Attacks & Risks](./papers/authentication/attacks--risks)
   - [Defense & Safety Alignment](./papers/authentication/defense--safety-alignment)
   - [Benchmarks & Evaluation](./papers/authentication/benchmarks--evaluation)
+- [Interpretability](./papers/interpretability)
+  - [Surveys & Overviews](./papers/interpretability/surveys--overviews)
+  - [Attacks & Risks](./papers/interpretability/attacks--risks)
+  - [Defense & Safety Alignment](./papers/interpretability/defense--safety-alignment)
+  - [Benchmarks & Evaluation](./papers/interpretability/benchmarks--evaluation)
+- [Security](./papers/security)
+  - [Surveys & Overviews](./papers/security/surveys--overviews)
+  - [Attacks & Risks](./papers/security/attacks--risks)
+  - [Defense & Safety Alignment](./papers/security/defense--safety-alignment)
+  - [Benchmarks & Evaluation](./papers/security/benchmarks--evaluation)
+- [Watermark](./papers/watermark)
+  - [Surveys & Overviews](./papers/watermark/surveys--overviews)
+  - [Attacks & Risks](./papers/watermark/attacks--risks)
+  - [Defense & Safety Alignment](./papers/watermark/defense--safety-alignment)
+  - [Benchmarks & Evaluation](./papers/watermark/benchmarks--evaluation)
 
 ---
 
