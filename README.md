@@ -41,6 +41,7 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
       - [A6. Hallucination](./papers/safety/hallucination.md)
       - [A7. Prompt Injection](./papers/safety/prompt_injection.md)
       - [A8. Toxicity](./papers/safety/toxicity.md)
+      - [A9. Interpretability](./papers/safety/interpretability.md)
   - B. Security
       - [B0. General](./papers/security/general.md)
       - [B1. Adversarial Examples](./papers/security/adversarial_examples.md)
@@ -48,6 +49,7 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
       - [B3. Poison & Backdoor](./papers/security/poison_and_backdoor.md)
       - [B4. Side-Channel](./papers/security/side_channel.md)
       - [B5. System](./papers/security/system.md)
+      - [B6. Interpretability](./papers/security/interpretability.md)
   - C. Privacy
       - [C0. General](./papers/privacy/general.md)
       - [C1. Contamination](./papers/privacy/contamination.md)
