@@ -37,11 +37,9 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
       - [A2. Alignment](./papers/safety/alignment.md)
       - [A3. Deepfake](./papers/safety/deepfake.md)
       - [A4. Ethics](./papers/safety/ethics.md)
-      - [A5. Fairness](./papers/safety/fairness.md)
-      - [A6. Hallucination](./papers/safety/hallucination.md)
-      - [A7. Prompt Injection](./papers/safety/prompt_injection.md)
-      - [A8. Toxicity](./papers/safety/toxicity.md)
-      - [A9. Interpretability](./papers/safety/interpretability.md)
+      - [A5. Hallucination](./papers/safety/hallucination.md)
+      - [A6. Prompt Injection](./papers/safety/prompt_injection.md)
+      - [A7. Toxicity](./papers/safety/toxicity.md)
   - B. Security
       - [B0. General](./papers/security/general.md)
       - [B1. Adversarial Examples](./papers/security/adversarial_examples.md)
@@ -49,7 +47,6 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
       - [B3. Poison & Backdoor](./papers/security/poison_and_backdoor.md)
       - [B4. Side-Channel](./papers/security/side_channel.md)
       - [B5. System](./papers/security/system.md)
-      - [B6. Interpretability](./papers/security/interpretability.md)
   - C. Privacy
       - [C0. General](./papers/privacy/general.md)
       - [C1. Contamination](./papers/privacy/contamination.md)
@@ -61,6 +58,10 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
       - [C7. Side-Channel](./papers/privacy/side_channel.md)
       - [C8. Unlearning](./papers/privacy/unlearning.md)
       - [C9. Watermark & Copyright](./papers/privacy/watermark_and_copyright.md)
+  - D. Interpretability
+      - [D1. General](./papers/interpretability/general.md)
+  - E. Fairness
+      - [D1. General](./papers/fairness/general.md)
 
 ### In addition to the above-mentioned ones:
 If you want to learn more about Audio Large Language Models, you can take a look at the following.
