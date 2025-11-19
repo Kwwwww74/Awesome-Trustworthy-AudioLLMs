@@ -1,1 +1,5 @@
-
+- 2025/10/04 [*Where are we in audio deepfake detection? A systematic analysis (SONAR)*](https://arxiv.org/abs/2410.04324)
+- 2025/02/14 [*Deepfake Audio Detection via Cross-Modal Consistency*](https://arxiv.org/abs/2502.03321)
+- 2024/09/15 [*A Comprehensive Survey with Critical Analysis for Deepfake Speech Detection*](https://arxiv.org/abs/2409.15180)
+- 2024/06/12 [*VoiceBox: Text-Guided Multilingual Universal Speech Generation at Scale (Safety Report)*](https://arxiv.org/abs/2306.15687)
+- 2024/01/20 [*Detecting Voice Cloning in the Era of GenAI: A Challenge*](https://arxiv.org/abs/2401.09876)
