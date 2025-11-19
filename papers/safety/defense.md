@@ -1,0 +1,1 @@
+- 2025/10/30 [*ALMGuard: Safety Shortcuts and Where to Find Them as Guardrails for Audio-Language Models*](https://arxiv.org/abs/2510.26096)
