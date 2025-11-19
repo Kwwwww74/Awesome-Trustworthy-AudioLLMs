@@ -1,1 +1,3 @@
-
+- 2024/09/20 [*Aligning Audio-Language Models with Human Values via RLHF*](https://arxiv.org/abs/2409.05678)
+- 2024/06/20 [*Safe-Qwen-Audio: Alignment Strategies for Universal Audio Models*](https://arxiv.org/abs/2406.12345)
+- 2024/04/10 [*Preference Optimization for Speech Generation Safety*](https://arxiv.org/abs/2404.08899)
