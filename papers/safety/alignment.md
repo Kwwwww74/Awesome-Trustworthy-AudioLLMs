@@ -1,4 +1,1 @@
-- 2025/11/12 [*StyleBreak: Revealing Alignment Vulnerabilities in Large Audio-Language Models via Style-Aware Audio Jailbreak*](https://arxiv.org/abs/2511.10692)
-- 2025/10/28 [*A Penny for Your Thoughts: Decoding Speech from Inexpensive Brain Signals*](https://arxiv.org/abs/2511.04691)
-- 2025/10/26 [*Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation*](https://arxiv.org/abs/2511.05516)
-- 
+
