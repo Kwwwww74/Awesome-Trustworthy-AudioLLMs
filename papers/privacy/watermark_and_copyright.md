@@ -1,1 +1,1 @@
-
+- 2024/01/30 [*AudioSeal: Efficient and Robust Watermarking for Audio GenAI*](https://arxiv.org/abs/2401.17264)
