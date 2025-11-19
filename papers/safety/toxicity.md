@@ -1,1 +1,3 @@
-
+- 2025/10/19 [*Investigating Safety Vulnerabilities of Large Audio-Language Models under Speaker Emotional Variations*](https://arxiv.org/abs/2510.16893)
+- 2024/06/01 [*Toxicity in Multimodal LLMs: The Audio Perspective*](https://arxiv.org/abs/2406.01122)
+- 2024/03/10 [*Auditory Toxicity Detection in Large Audio Models*](https://arxiv.org/abs/2403.09988)
