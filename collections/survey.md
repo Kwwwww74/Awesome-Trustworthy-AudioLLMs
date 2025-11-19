@@ -1,5 +1,6 @@
 # 🚀Surveys for ALLM!!!
 
+- 2025/11/13 [*Do Language Models Associate Sound with Meaning? A Multimodal Study of Sound Symbolism*](https://arxiv.org/abs/2511.10045)
 - 2025/10/11 [*Automatic Speech Recognition in the Modern Era: Architectures, Training, and Evaluation*](https://arxiv.org/abs/2510.12827)
 - 2025/05/21 [*Towards Holistic Evaluation of Large Audio-Language Models: A Comprehensive Survey*](https://arxiv.org/abs/2505.15957v3)
 - 2025/01/25 [*Audio-Language Models for Audio-Centric Tasks:A survey*](https://arxiv.org/abs/2501.15177)
