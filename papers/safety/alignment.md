@@ -1,1 +1,1 @@
-
+- 2025/11/12 [*StyleBreak: Revealing Alignment Vulnerabilities in Large Audio-Language Models via Style-Aware Audio Jailbreak*](https://arxiv.org/abs/2511.10692)
