@@ -1,9 +1,5 @@
-
-
-
----
-
 - 2025/11/08 [*Who Gets Heard? Rethinking Fairness in AI for Music Systems*](https://arxiv.org/abs/2511.05953)
 - 2025/10/19 [*Investigating Safety Vulnerabilities of Large Audio-Language Models under Speaker Emotional Variations*](https://www.arxiv.org/abs/2510.16893)
 - 2025/10/01 [*When Voice Matters: Evidence of Gender Disparity in Positional Bias of SpeechLLMs*](https://arxiv.org/abs/2510.02398)
 - 2025/09/27 [*Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations*](https://arxiv.org/abs/2510.02352)
+- 2024/11/30 [*Fairness and Bias in Large Audio Models: A Study on Accent Recognition*](https://arxiv.org/abs/2411.04567)
