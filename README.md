@@ -32,7 +32,6 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
   
 - Paper
    - A. Safety
-      - [A0. General](./papers/safety/general.md)
       - [A1. Jailbreak](./papers/safety/jailbreak.md)
       - [A2. Alignment](./papers/safety/alignment.md)
       - [A3. Deepfake](./papers/safety/deepfake.md)
@@ -41,14 +40,12 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
       - [A6. Prompt Injection](./papers/safety/prompt_injection.md)
       - [A7. Toxicity](./papers/safety/toxicity.md)
   - B. Security
-      - [B0. General](./papers/security/general.md)
       - [B1. Adversarial Examples](./papers/security/adversarial_examples.md)
       - [B2. Agent](./papers/security/agent.md)
       - [B3. Poison & Backdoor](./papers/security/poison_and_backdoor.md)
       - [B4. Side-Channel](./papers/security/side_channel.md)
       - [B5. System](./papers/security/system.md)
   - C. Privacy
-      - [C0. General](./papers/privacy/general.md)
       - [C1. Contamination](./papers/privacy/contamination.md)
       - [C2. Data Reconstruction](./papers/privacy/data_reconstruction.md)
       - [C3. Membership Inference Attacks](./papers/privacy/membership_inference_attacks.md)
