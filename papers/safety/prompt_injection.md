@@ -1,3 +1,1 @@
 - 2025/11/04 [*Whisper Leak: a side-channel attack on Large Language Models*](https://www.microsoft.com/en-us/research/publication/whisper-leak/)
-- 2024/07/15 [*Audio Prompt Injection: Controlling LLMs via Hidden Speech Commands*](https://arxiv.org/abs/2407.08890)
-- 2024/03/22 [*Inaudible Prompt Injection: Exploiting the Audio Channel*](https://arxiv.org/abs/2403.12345)
