@@ -27,7 +27,6 @@ It highlights research on:
 - 🔮 **Hallucination** 
 - 🔐 **Privacy** 
 - ⚙️ **Robustness**
-- 🔖 **Authentication**
 - 💡 **Interpretability**
 - 💻 **Security**
 - 🔍 **Watermark**
@@ -40,28 +39,28 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
   
 - Paper
    - A. Safety
-      - [A1. General](./papers/safety/general.md)
-      - [A2. Jailbreak](./papers/safety/jailbreak.md)
-      - [A3. Alignment](./papers/safety/alignment.md)
-      - [A4. Deepfake](./papers/safety/deepfake.md)
-      - [A5. Prompt Injection](./papers/safety/prompt_injection.md)
-      - [A6. Defense](./papers/safety/defense.md)
-      - [A7. Fairness](./papers/safety/fairness.md)
+      - [📖A1. General](./papers/safety/general.md)
+      - [✏️A2. Jailbreak](./papers/safety/jailbreak.md)
+      - [🏫A3. Alignment](./papers/safety/alignment.md)
+      - [📚A4. Deepfake](./papers/safety/deepfake.md)
+      - [🎒A5. Prompt Injection](./papers/safety/prompt_injection.md)
+      - [🧑‍🏫A6. Defense](./papers/safety/defense.md)
+      - [🧑‍🎓A7. Fairness](./papers/safety/fairness.md)
   - B. Security
-      - [B1. General](./papers/security/general.md)
-      - [B2. Adversarial Examples](./papers/security/adversarial_examples.md)
-      - [B3. Attack](./papers/security/attack.md)
-      - [B4. Poison & Backdoor](./papers/security/poison_and_backdoor.md)
+      - [📖B1. General](./papers/security/general.md)
+      - [✏️B2. Adversarial Examples](./papers/security/adversarial_examples.md)
+      - [🏫B3. Attack](./papers/security/attack.md)
+      - [📚B4. Poison & Backdoor](./papers/security/poison_and_backdoor.md)
   - C. Privacy
-      - [C1. General](./papers/privacy/general.md)
+      - [📖C1. General](./papers/privacy/general.md)
   - D. Interpretability
-      - [D1. General](./papers/interpretability/general.md)
+      - [📖D1. General](./papers/interpretability/general.md)
   - E. Fairness
-      - [E1. General](./papers/fairness/general.md)
+      - [📖E1. General](./papers/fairness/general.md)
   - F Hallucination
-      - [F1. General](./papers/hallucination/general.md)
+      - [📖F1. General](./papers/hallucination/general.md)
   - G Robustness
-      - [G1.General](./papers/robustness/general.md)
+      - [📖G1.General](./papers/robustness/general.md)
 
 ### In addition to the above-mentioned ones:
 If you want to learn more about Audio Large Language Models, you can take a look at the following.
