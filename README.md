@@ -1,10 +1,4 @@
 # 🎧 Awesome Trustworthy Audio-LLMs  
-<p align="center">
-  <a href=""> <img src="https://img.shields.io/github/stars/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Stars"></a>
-  <a href=""> <img src="https://img.shields.io/github/forks/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Forks"></a>
-  <a href=""> <img src="https://img.shields.io/github/issues/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Issues"></a>
-  <a href=""> <img src="https://img.shields.io/github/last-commit/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Last Commit"></a>
-</p>
 
 <div align="center">
   <img src="./images/logo.png" alt="Awesome Trustworthy Audio-LLMs" width="40%" style="margin-top: -20px; margin-bottom: -10px;">
@@ -27,7 +21,6 @@ It highlights research on:
 - ⚙️ **Robustness**
 - 💡 **Interpretability**
 - 💻 **Security**
-- 🔍 **Watermark**
 - ...
 
 Together, these works aim toward a future where Audio-LLMs are **not only capable of understanding voices — but also worthy of being trusted**.
