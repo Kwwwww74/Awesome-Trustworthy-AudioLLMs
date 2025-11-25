@@ -13,7 +13,6 @@
 *A curated and continuously evolving collection of research, benchmarks, datasets, and open resources on **Trustworthy Audio Large Language Models (Audio-LLMs)** — spanning the entire spectrum of **ALLM Safety**. In addition, there are also related papers about audio large models！*
 
 ---
-
 ## 🌍Introduction  
 
 With the rapid developmenst of **Audio Large Language Models (Audio-LLMs)**, ensuring their **trustworthiness and safety** has become an essential research frontier.  
