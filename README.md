@@ -85,9 +85,9 @@ If you want to learn more about Audio Large Language Models, you can take a look
 
 <div align="center">
 
-[Wechat Group](./resource/wechat.png) 
+[Wechat Group](./resource/wechat.jpg) 
 
-[My Wechat](./resource/kw.png)
+[My Wechat](./resource/kw.jpg)
 
 [Discord Group: TALLM](./resource/discord.md)
 
