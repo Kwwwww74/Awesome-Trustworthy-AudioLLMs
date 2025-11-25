@@ -1,1 +1,2 @@
-- 2025/11/13 [Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard](https://arxiv.org/abs/2511.10222)
+- 2025/11/13 [*Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard*](https://arxiv.org/abs/2511.10222)
+- 2025/10/01 [*Backdoor Attacks Against Speech Language Models*](https://arxiv.org/abs/2510.01157)
