@@ -2,4 +2,5 @@
 - 2025/10/19 [*Investigating Safety Vulnerabilities of Large Audio-Language Models under Speaker Emotional Variations*](https://www.arxiv.org/abs/2510.16893)
 - 2025/10/01 [*When Voice Matters: Evidence of Gender Disparity in Positional Bias of SpeechLLMs*](https://arxiv.org/abs/2510.02398)
 - 2025/09/27 [*Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations*](https://arxiv.org/abs/2510.02352)
+- 2025/09/26 [*Investigating Faithfulness in Large Audio Language Models*](https://arxiv.org/abs/2509.22363)
 - 2025/09/24 [*Do Bias Benchmarks Generalise? Evidence from Voice-based Evaluation of Gender Bias in SpeechLLMs*](https://arxiv.org/abs/2510.01254)
