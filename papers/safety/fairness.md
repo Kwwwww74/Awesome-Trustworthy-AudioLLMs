@@ -1,0 +1,1 @@
+- 2025/10/19 [*Investigating Safety Vulnerabilities of Large Audio-Language Models Under Speaker Emotional Variations*](https://arxiv.org/abs/2510.16893)
