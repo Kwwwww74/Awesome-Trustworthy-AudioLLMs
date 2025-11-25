@@ -36,23 +36,22 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
       - [A2. Jailbreak](./papers/safety/jailbreak.md)
       - [A3. Alignment](./papers/safety/alignment.md)
       - [A4. Deepfake](./papers/safety/deepfake.md)
-      - [A5. Ethics](./papers/safety/ethics.md)
-      - [A6. Hallucination](./papers/safety/hallucination.md)
-      - [A7. Prompt Injection](./papers/safety/prompt_injection.md)
-      - [A8. Toxicity](./papers/safety/toxicity.md)
+      - [A5. Prompt Injection](./papers/safety/prompt_injection.md)
+      - [A6. Defense](./papers/safety/defense.md)
+      - [A7. Fairness](./papers/safety/fairness.md)
   - B. Security
       - [B1. General](./papers/security/general.md)
       - [B2. Adversarial Examples](./papers/security/adversarial_examples.md)
-      - [B3. Agent](./papers/security/agent.md)
+      - [B3. Attack](./papers/security/attack.md)
       - [B4. Poison & Backdoor](./papers/security/poison_and_backdoor.md)
-      - [B5. Side-Channel](./papers/security/side_channel.md)
-      - [B6. System](./papers/security/system.md)
   - C. Privacy
       - [C1. General](./papers/privacy/general.md)
   - D. Interpretability
       - [D1. General](./papers/interpretability/general.md)
   - E. Fairness
-      - [D1. General](./papers/fairness/general.md)
+      - [E1. General](./papers/fairness/general.md)
+  - F Hallucination
+      - [F1. General](./papers/hallucination/general.md)
 
 ### In addition to the above-mentioned ones:
 If you want to learn more about Audio Large Language Models, you can take a look at the following.
