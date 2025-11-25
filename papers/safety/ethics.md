@@ -1,1 +1,0 @@
-- 2024/08/12 [*Ethical Considerations for Voice Synthesis in Mental Health Applications*](https://arxiv.org/abs/2408.11223)
