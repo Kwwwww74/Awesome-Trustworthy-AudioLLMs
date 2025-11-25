@@ -1,5 +1,5 @@
 # 🎧 Awesome Trustworthy Audio-LLMs  
-<p align="center">
+<p align="center" style="margin: 0;">
   <a href=""> <img src="https://img.shields.io/github/stars/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Stars"></a>
   <a href=""> <img src="https://img.shields.io/github/forks/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Forks"></a>
   <a href=""> <img src="https://img.shields.io/github/issues/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Issues"></a>
