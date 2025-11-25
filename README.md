@@ -6,7 +6,7 @@
   <a href=""> <img src="https://img.shields.io/github/last-commit/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Last Commit"></a>
 </p>
 
-<p align="center">
+<p align="center" style="margin: 0;">
   <img src="./images/logo.png" alt="Awesome Trustworthy Audio-LLMs" width="40%">
 </p>
 
