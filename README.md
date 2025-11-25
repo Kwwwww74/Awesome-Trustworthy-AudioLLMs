@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/logo.jpg" alt="Awesome Trustworthy Audio-LLMs" width="40%">
+  <img src="./images/logo.png" alt="Awesome Trustworthy Audio-LLMs" width="40%">
 </p>
 
 *A curated and continuously evolving collection of research, benchmarks, datasets, and open resources on **Trustworthy Audio Large Language Models (Audio-LLMs)** — spanning the entire spectrum of **ALLM Safety**. In addition, there are also related papers about audio large models！*
