@@ -1,7 +1,4 @@
 # 🎧 Awesome Trustworthy Audio-LLMs  
-<p align="center">
-  <img src="./images/logo.jpg" alt="Awesome Trustworthy Audio-LLMs" width="80%">
-</p>
 
 <p align="center">
   <a href="https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs">
@@ -18,6 +15,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="./images/logo.jpg" alt="Awesome Trustworthy Audio-LLMs" width="80%">
+</p>
 
 *A curated and continuously evolving collection of research, benchmarks, datasets, and open resources on **Trustworthy Audio Large Language Models (Audio-LLMs)** — spanning the entire spectrum of **ALLM Safety**. In addition, there are also related papers about audio large models！*
 
