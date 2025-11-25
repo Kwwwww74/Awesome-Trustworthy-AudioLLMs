@@ -32,29 +32,23 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
   
 - Paper
    - A. Safety
-      - [A1. Jailbreak](./papers/safety/jailbreak.md)
-      - [A2. Alignment](./papers/safety/alignment.md)
-      - [A3. Deepfake](./papers/safety/deepfake.md)
-      - [A4. Ethics](./papers/safety/ethics.md)
-      - [A5. Hallucination](./papers/safety/hallucination.md)
-      - [A6. Prompt Injection](./papers/safety/prompt_injection.md)
-      - [A7. Toxicity](./papers/safety/toxicity.md)
+      - [A1. General](./papers/safety/general.md)
+      - [A2. Jailbreak](./papers/safety/jailbreak.md)
+      - [A3. Alignment](./papers/safety/alignment.md)
+      - [A4. Deepfake](./papers/safety/deepfake.md)
+      - [A5. Ethics](./papers/safety/ethics.md)
+      - [A6. Hallucination](./papers/safety/hallucination.md)
+      - [A7. Prompt Injection](./papers/safety/prompt_injection.md)
+      - [A8. Toxicity](./papers/safety/toxicity.md)
   - B. Security
-      - [B1. Adversarial Examples](./papers/security/adversarial_examples.md)
-      - [B2. Agent](./papers/security/agent.md)
-      - [B3. Poison & Backdoor](./papers/security/poison_and_backdoor.md)
-      - [B4. Side-Channel](./papers/security/side_channel.md)
-      - [B5. System](./papers/security/system.md)
+      - [B1. General](./papers/security/general.md)
+      - [B2. Adversarial Examples](./papers/security/adversarial_examples.md)
+      - [B3. Agent](./papers/security/agent.md)
+      - [B4. Poison & Backdoor](./papers/security/poison_and_backdoor.md)
+      - [B5. Side-Channel](./papers/security/side_channel.md)
+      - [B6. System](./papers/security/system.md)
   - C. Privacy
-      - [C1. Contamination](./papers/privacy/contamination.md)
-      - [C2. Data Reconstruction](./papers/privacy/data_reconstruction.md)
-      - [C3. Membership Inference Attacks](./papers/privacy/membership_inference_attacks.md)
-      - [C4. Model Extraction](./papers/privacy/model_extraction.md)
-      - [C5. Privacy-Preserving Computation](./papers/privacy/privacy_preserving_computation.md)
-      - [C6. Property Inference Attacks](./papers/privacy/property_inference_attacks.md)
-      - [C7. Side-Channel](./papers/privacy/side_channel.md)
-      - [C8. Unlearning](./papers/privacy/unlearning.md)
-      - [C9. Watermark & Copyright](./papers/privacy/watermark_and_copyright.md)
+      - [C1. General](./papers/privacy/general.md)
   - D. Interpretability
       - [D1. General](./papers/interpretability/general.md)
   - E. Fairness
@@ -64,6 +58,7 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
 If you want to learn more about Audio Large Language Models, you can take a look at the following.
   - 🚀 [Survey](collections/survey.md)
   - 🚀 [Technical Report for Audio Large Language Models](collections/technical_report.md)
+  - 🚀 [Toolkits](collections/toolkit.md)
 
 ---
 
