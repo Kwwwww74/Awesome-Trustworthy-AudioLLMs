@@ -1,4 +1,0 @@
-- 2024/11/12 [*A Comprehensive Survey of Hallucination in Large Audio Foundation Models*](https://aclanthology.org/2024.findings-emnlp.685)
-- 2024/08/22 [*Alleviating Hallucinations in Large Audio Models via Hallucination-Aware DPO*](https://arxiv.org/abs/2408.05678)
-- 2024/05/09 [*Analyzing Hallucinations in Whisper-based ASR Models*](https://arxiv.org/abs/2405.09589)
-- 2024/02/10 [*Sounding True: Measuring Hallucination in Audio-Captioning Models*](https://arxiv.org/abs/2402.03456)
