@@ -1,10 +1,10 @@
 # 🎧 Awesome Trustworthy Audio-LLMs  
 
 <p align="center">
-  <a href=""> <img src="https://img.shields.io/github/stars/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Stars"> </a>
-  <a href=""> <img src="https://img.shields.io/github/forks/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Forks"> </a>
-  <a href=""> <img src="https://img.shields.io/github/issues/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Issues"> </a>
-  <a href=""> <img src="https://img.shields.io/github/last-commit/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Last Commit"> </a>
+  <a href=""> <img src="https://img.shields.io/github/stars/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Stars"></a>
+  <a href=""> <img src="https://img.shields.io/github/forks/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Forks"></a>
+  <a href=""> <img src="https://img.shields.io/github/issues/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Issues"></a>
+  <a href=""> <img src="https://img.shields.io/github/last-commit/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Last Commit"></a>
 </p>
 
 <p align="center">
