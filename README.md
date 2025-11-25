@@ -28,6 +28,7 @@ It highlights research on:
 - 💡 **Interpretability**
 - 💻 **Security**
 - 🔍 **Watermark**
+- ...
 
 Together, these works aim toward a future where Audio-LLMs are **not only capable of understanding voices — but also worthy of being trusted**.
 
