@@ -1,1 +1,1 @@
-
+- 2025/05/26 [*Reshaping Representation Space to Balance the Safety and Over-rejection in Large Audio Language Models*](https://arxiv.org/abs/2505.19670)
