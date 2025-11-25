@@ -1,1 +1,2 @@
 - 2025/10/30 [*ALMGuard: Safety Shortcuts and Where to Find Them as Guardrails for Audio-Language Models*](https://arxiv.org/abs/2510.26096)
+- 2025/10/20 [*SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering*](https://arxiv.org/abs/2510.17633)
