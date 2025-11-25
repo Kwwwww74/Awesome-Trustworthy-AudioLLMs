@@ -3,6 +3,22 @@
   <img src="./images/logo.jpg" alt="Awesome Trustworthy Audio-LLMs" width="80%">
 </p>
 
+<p align="center">
+  <a href="https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs">
+    <img src="https://img.shields.io/github/stars/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs/network/members">
+    <img src="https://img.shields.io/github/forks/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs/issues">
+    <img src="https://img.shields.io/github/issues/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Issues">
+  </a>
+  <a href="https://github.com/Kwwwww74/Awesome-Trustworthy-AudioLLMs/commits">
+    <img src="https://img.shields.io/github/last-commit/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Last Commit">
+  </a>
+</p>
+
+
 *A curated and continuously evolving collection of research, benchmarks, datasets, and open resources on **Trustworthy Audio Large Language Models (Audio-LLMs)** — spanning the entire spectrum of **ALLM Safety**. In addition, there are also related papers about audio large models！*
 
 ---
