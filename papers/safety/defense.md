@@ -1,3 +1,4 @@
 - 2025/11/10 [*E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis*](https://arxiv.org/abs/2511.07099)
 - 2025/10/30 [*ALMGuard: Safety Shortcuts and Where to Find Them as Guardrails for Audio-Language Models*](https://arxiv.org/abs/2510.26096)
 - 2025/10/20 [*SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering*](https://arxiv.org/abs/2510.17633)
+- 2025/06/20 [*ASRJam: Human-Friendly AI Speech Jamming to Prevent Automated Phone Scams*](https://arxiv.org/abs/2506.11125)
