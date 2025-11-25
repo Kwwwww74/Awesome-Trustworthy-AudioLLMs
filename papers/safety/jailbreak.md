@@ -1,3 +1,4 @@
+- 2025/11/12 [*StyleBreak: Revealing Alignment Vulnerabilities in Large Audio-Language Models via Style-Aware Audio Jailbreak*](https://arxiv.org/abs/2511.10692)
 - 2025/07/08 [*Multilingual and Multi-Accent Jailbreaking of Audio LLMs*](https://openreview.net/forum?id=yGa8CYT8kS)
 - 2025/05/23 [*JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models*](https://arxiv.org/abs/2505.17568)
 - 2025/05/20 [*AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models*](https://arxiv.org/abs/2505.14103)
