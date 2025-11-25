@@ -1,1 +1,2 @@
 - 2025/05/19 [*VocalAgent: Large Language Models for Vocal Health Diagnostics with Safety-Aware Evaluation*](https://arxiv.org/abs/2505.13577)
+- 2024/10/31 [*Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models*](https://arxiv.org/abs/2410.23861)
