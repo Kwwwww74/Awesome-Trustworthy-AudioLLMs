@@ -6,9 +6,9 @@
   <a href=""> <img src="https://img.shields.io/github/last-commit/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Last Commit"></a>
 </p>
 
-<p align="center">
+<div align="center">
   <img src="./images/logo.png" alt="Awesome Trustworthy Audio-LLMs" width="40%" style="margin-top: -20px; margin-bottom: -10px;">
-</p>
+</div>
 
 *A curated and continuously evolving collection of research, benchmarks, datasets, and open resources on **Trustworthy Audio Large Language Models (Audio-LLMs)** — spanning the entire spectrum of **ALLM Safety**. In addition, there are also related papers about audio large models！*
 
