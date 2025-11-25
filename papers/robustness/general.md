@@ -1,0 +1,1 @@
+- 2025/08/17 [*HuBERT-VIC: Improving Noise-Robust Automatic Speech Recognition of Speech Foundation Model via Variance-Invariance-Covariance Regularization*](https://arxiv.org/abs/2508.12292)
