@@ -1,1 +1,2 @@
 - 2025/08/17 [*HuBERT-VIC: Improving Noise-Robust Automatic Speech Recognition of Speech Foundation Model via Variance-Invariance-Covariance Regularization*](https://arxiv.org/abs/2508.12292)
+- 2025/05/20 [*Improving Noise Robustness of LLM-based Zero-shot TTS via Discrete Acoustic Token Denoising*](https://arxiv.org/abs/2505.13830)
