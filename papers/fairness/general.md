@@ -4,3 +4,4 @@
 - 2025/09/27 [*Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations*](https://arxiv.org/abs/2510.02352)
 - 2025/09/26 [*Investigating Faithfulness in Large Audio Language Models*](https://arxiv.org/abs/2509.22363)
 - 2025/09/24 [*Do Bias Benchmarks Generalise? Evidence from Voice-based Evaluation of Gender Bias in SpeechLLMs*](https://arxiv.org/abs/2510.01254)
+- 2025/07/14 [*The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents*](https://arxiv.org/abs/2507.10016)
