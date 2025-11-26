@@ -63,6 +63,11 @@ If you want to learn more about Audio Large Language Models, you can take a look
 
 ---
 
+## Recent Good Papers
+- 🏆 [Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard](https://arxiv.org/abs/2511.10222)
+- 🏆 [Hidden in the Noise: Unveiling Backdoors in Audio LLMs Alignment through Latent Acoustic Pattern Triggers](https://arxiv.org/abs/2508.02175v3)
+
+---
 ## 🗞️ Recent News  
 - **[2025.11.12]** 🐣TALLM is released!!!
 - **[2025.11.25]** ⛰️Version1 is open to everyone!!!
