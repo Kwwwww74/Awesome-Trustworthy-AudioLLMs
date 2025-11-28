@@ -76,7 +76,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 
 ## 🤝 How to Contribute  
 
-*We welcome contributions from researchers and practitioners!  If you'd like to submit a piece of writing, please write an email to **kaiwenluo74@gmail.com**. Then we can add the article in.*
+*We welcome contributions from researchers and practitioners!  If you'd like to submit a piece of writing, please write an email to **kaiwenluo74@gmail.com** or write your paper link in **issues part**. Then we can add the article in.*
 
 ---
 
