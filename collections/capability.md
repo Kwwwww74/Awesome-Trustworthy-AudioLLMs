@@ -7,3 +7,12 @@
 - 2025/10/26 [*Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation*](https://arxiv.org/abs/2511.05516)
 - 2025/10/23 [*Incentivizing Consistent, Effective and Scalable Reasoning Capability in Audio LLMs via Reasoning Process Rewards*](https://arxiv.org/abs/2510.20867)
 - 2025/10/21 [*Can large audio language models understand child stuttering speech? speech summarization, and source separation*](https://arxiv.org/abs/2510.20850)
+- 2025/10/17 [*Extending Audio Context for Long-Form Understanding in Large Audio-Language Models*](https://arxiv.org/abs/2510.15231)
+- 2025/10/16 [*SpeechLLM-as-Judges: Towards General and Interpretable Speech Quality Evaluation*](https://arxiv.org/abs/2510.14664)
+- 2025/10/15 [*Closing the Gap Between Text and Speech Understanding in LLMs*](https://arxiv.org/abs/2510.13632)
+- 2025/10/12 [*Do Audio LLMs Really LISTEN, or Just Transcribe? Measuring Lexical vs. Acoustic Emotion Cues Reliance*](https://arxiv.org/abs/2510.10444)
+- 2025/10/07 [*Sci-Phi: A Large Language Model Spatial Audio Descriptor*](https://arxiv.org/abs/2510.05542)
+- 2025/10/06 [*UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models*](https://arxiv.org/abs/2510.04593)
+- 2025/10/03 [*AudioToolAgent: An Agentic Framework for Audio-Language Models*](https://arxiv.org/abs/2510.02995)
+- 2025/10/02 [*Chronological Thinking in Full-Duplex Spoken Dialogue Language Models*](https://arxiv.org/abs/2510.05150)
+
