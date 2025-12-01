@@ -4,6 +4,14 @@
   <img src="./images/logo.png" alt="Awesome Trustworthy Audio-LLMs" width="40%" style="margin-top: -20px; margin-bottom: -10px;">
 </div>
 
+<p align="center">
+<a href=""> <img src="https://img.shields.io/github/stars/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub stars"></a>
+<a href=""> <img src="https://img.shields.io/github/forks/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub forks"></a>
+<a href=""> <img src="https://img.shields.io/github/issues/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub issues"></a>
+<a href=""> <img src="https://img.shields.io/github/last-commit/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Last commit"></a>
+</p>
+<div align="center">
+
 *A curated and continuously evolving collection of research papers, benchmarks, datasets, and open resources on Trustworthy Audio Large Language Models (Audio LLMs), covering the full spectrum of safety, robustness, and reliability in audio large models. The collection also includes representative works on audio large models beyond the safety domain.*
 
 ---
