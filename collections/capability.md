@@ -1,1 +1,2 @@
 - 2025/11/26 [*Towards Audio Token Compression in Large Audio Language Models*](https://arxiv.org/abs/2511.20973)
+- 2025/11/25 [*It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models*](https://arxiv.org/abs/2511.19877)
