@@ -10,7 +10,7 @@
 <a href=""> <img src="https://img.shields.io/github/issues/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub issues"></a>
 <a href=""> <img src="https://img.shields.io/github/last-commit/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Last commit"></a>
 </p>
-<div align="center">
+
 
 
 *A curated and continuously evolving collection of research papers, benchmarks, datasets, and open resources on Trustworthy Audio Large Language Models, covering the full spectrum of safety, robustness, and reliability in audio large models. The collection also includes representative works on audio large models beyond the safety domain.*
