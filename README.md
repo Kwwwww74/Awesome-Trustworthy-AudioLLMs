@@ -73,6 +73,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 - **[2025.11.12]** 🐣TALLM is released!!!
 - **[2025.11.25]** ⛰️Version1 is open to everyone!!!
 - **[2025.11.26]** 🍠TALLM has posted on xhs!!!
+- **[2025.12.1]** 📈General capabilities have been collected!!!
 
 ---
 
