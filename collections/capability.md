@@ -1,0 +1,1 @@
+- 2025/11/26 [*Towards Audio Token Compression in Large Audio Language Models*](https://arxiv.org/abs/2511.20973)
