@@ -30,12 +30,12 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
 ## 📌 Table of Content
 
 - [🧭 Research Collections](#-research-collections)
-- [🎒Good Papers](#good-papers)
+- [🎒Good Papers](#-good-papers)
 - [🗞️ Recent News](#-recent-news)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [💬 LLM Safety Discussion](#-llm-safety-discussion)
 - [🌟 Rising Stars](#-rising-stars)
-- [🙏Acknowledgement](#acknowledgement)
+- [🙏Acknowledgement](#-acknowledgement)
 
 
 ---
