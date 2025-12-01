@@ -1,2 +1,5 @@
 - 2025/11/26 [*Towards Audio Token Compression in Large Audio Language Models*](https://arxiv.org/abs/2511.20973)
 - 2025/11/25 [*It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models*](https://arxiv.org/abs/2511.19877)
+- 2025/11/20 [*Train Short, Infer Long: Speech-LLM Enables Zero-Shot Streamable Joint ASR and Diarization on Long Audio*](https://arxiv.org/abs/2511.16046)
+- 2025/11/18 [*TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation*](https://arxiv.org/abs/2511.14410)
+- 2025/11/17 [*Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs*](https://arxiv.org/abs/2511.13273)
