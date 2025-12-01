@@ -3,3 +3,5 @@
 - 2025/11/20 [*Train Short, Infer Long: Speech-LLM Enables Zero-Shot Streamable Joint ASR and Diarization on Long Audio*](https://arxiv.org/abs/2511.16046)
 - 2025/11/18 [*TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation*](https://arxiv.org/abs/2511.14410)
 - 2025/11/17 [*Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs*](https://arxiv.org/abs/2511.13273)
+- 2025/11/07 [*MERaLiON-SER: Robust Speech Emotion Recognition Model for English and SEA Languages*](https://arxiv.org/abs/2511.04914)
+- 2025/10/26 [*Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation*](https://arxiv.org/abs/2511.05516)
