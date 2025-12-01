@@ -17,3 +17,12 @@
 - 2025/10/02 [*Chronological Thinking in Full-Duplex Spoken Dialogue Language Models*](https://arxiv.org/abs/2510.05150)
 - 2025/10/02 [*Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage*](https://arxiv.org/abs/2510.02044)
 - 2025/09/29 [*Reasoning Beyond Majority Vote: An Explainable SpeechLM Framework for Speech Emotion Recognition*](https://arxiv.org/abs/2509.24187)
+- 2025/09/26 [*Investigating Faithfulness in Large Audio Language Models*](https://arxiv.org/abs/2509.22363)
+- 2025/09/26 [*StableToken: A Noise-Robust Semantic Speech Tokenizer for Resilient SpeechLLMs*](https://arxiv.org/abs/2509.22220)
+- 2025/09/26 [*Towards Cross-Task Suicide Risk Detection via Speech LLM*](https://arxiv.org/abs/2509.22153)
+- 2025/09/26 [*Comprehend and Talk: Text to Speech Synthesis via Dual Language Modeling*](https://arxiv.org/abs/2509.22062)
+- 2025/09/25 [*UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice*](https://arxiv.org/abs/2509.21144)
+- 2025/09/25 [*Investigating Modality Contribution in Audio LLMs for Music*](https://arxiv.org/abs/2509.20641)
+- 2025/09/24 [*From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training*](https://arxiv.org/abs/2509.20072)
+- 2025/09/24 [*MMedFD: A Real-world Healthcare Benchmark for Multi-turn Full-Duplex Automatic Speech Recognition*](https://arxiv.org/abs/2509.19817)
+- 
