@@ -88,7 +88,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 
 ## 🎒 Good Papers
 - 🏆 [Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard](https://arxiv.org/abs/2511.10222)
-- 🏆 [*AHa-Bench: Benchmarking Audio Hallucinations in Large Audio-Language Models*](https://openreview.net/forum?id=vCej5sO61x)
+- 🏆 [AHa-Bench: Benchmarking Audio Hallucinations in Large Audio-Language Models](https://openreview.net/forum?id=vCej5sO61x)
 - 🏆 [Hidden in the Noise: Unveiling Backdoors in Audio LLMs Alignment through Latent Acoustic Pattern Triggers](https://arxiv.org/abs/2508.02175v3)
 
 ---
