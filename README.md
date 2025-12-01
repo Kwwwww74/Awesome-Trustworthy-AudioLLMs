@@ -27,6 +27,20 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
 
 ---
 
+## 📌 Table of Contents
+
+- [🧭 Research Collections](#-research-colloections)
+- [📁 Repository Structure](#-repository-structure)
+- [📦 Dataset Description](#-dataset-description)
+- [🧪 Scripts Overview](#-scripts-overview)
+- [🚀 Quick Start](#-quick-start)
+- [📊 Benchmark Tasks](#-benchmark-tasks)
+- [📌 Citation](#-citation)
+- [🙏 Acknowledgements](#-acknowledgements)
+- [📬 Contact](#-contact)
+
+---
+
 ## 🧭 Research Collections 
   
 - Paper
