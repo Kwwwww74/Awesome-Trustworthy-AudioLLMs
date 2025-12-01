@@ -16,6 +16,7 @@
 - 2024/02/02 [*Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities*](https://arxiv.org/abs/2402.01831)
 
 ## Other Models:
+- 2025/11/03 [*SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia*](https://arxiv.org/abs/2511.01670)
 - 2024/12/13 [*MERaLiON-AudioLLM: Technical Report*](https://arxiv.org/html/2412.09818v1)
 - 2024/07/05 [*Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition*](https://arxiv.org/abs/2407.04675)
 - 2024/06/17 [*GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities*](https://arxiv.org/abs/2406.11768)
