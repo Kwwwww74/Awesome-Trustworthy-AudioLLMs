@@ -27,17 +27,16 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
 
 ---
 
-## 📌 Table of Contents
+## 📌 Table of Content
 
-- [🧭 Research Collections](#Research-Colloections)
-- [📁 Repository Structure](#-repository-structure)
-- [📦 Dataset Description](#-dataset-description)
-- [🧪 Scripts Overview](#-scripts-overview)
-- [🚀 Quick Start](#-quick-start)
-- [📊 Benchmark Tasks](#-benchmark-tasks)
-- [📌 Citation](#-citation)
-- [🙏 Acknowledgements](#-acknowledgements)
-- [📬 Contact](#-contact)
+- [🧭 Research Collections](#-research-collections)
+- [🎒Good Papers](#good-papers)
+- [🗞️ Recent News](#-recent-news)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💬 LLM Safety Discussion](#-llm-safety-discussion)
+- [🌟 Rising Stars](#-rising-stars)
+- [🙏Acknowledgement](#acknowledgement)
+
 
 ---
 
@@ -78,7 +77,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 
 ---
 
-## Good Papers
+## 🎒 Good Papers
 - 🏆 [Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard](https://arxiv.org/abs/2511.10222)
 - 🏆 [Hidden in the Noise: Unveiling Backdoors in Audio LLMs Alignment through Latent Acoustic Pattern Triggers](https://arxiv.org/abs/2508.02175v3)
 
@@ -115,7 +114,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 
 ---
 
-## Acknowledgement
+## 🙏 Acknowledgement
 
 - Organizers: [Kevin Luo (罗凯文)](https://scholar.google.com/citations?user=XnZXByMAAAAJ&hl=en), [Zhenhong Zhou(周振宏)](https://ydyjya.github.io), [Liang Lin (林亮)](https://scholar.google.com/citations?user=XQNpChIAAAAJ&hl=en)
 
