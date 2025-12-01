@@ -1,4 +1,4 @@
-# 🚀Technical Reports for ALLM！！！
+# 🚀Technical Reports for ALLM!!!
 ## Qwen：
 - 2024/07/15 [*Qwen2-Audio Technical Report*](https://arxiv.org/abs/2407.10759)
 - 2023/11/14 [*Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models*](https://arxiv.org/abs/2311.07919)
