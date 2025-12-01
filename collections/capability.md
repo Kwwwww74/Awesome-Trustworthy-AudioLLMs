@@ -15,4 +15,5 @@
 - 2025/10/06 [*UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models*](https://arxiv.org/abs/2510.04593)
 - 2025/10/03 [*AudioToolAgent: An Agentic Framework for Audio-Language Models*](https://arxiv.org/abs/2510.02995)
 - 2025/10/02 [*Chronological Thinking in Full-Duplex Spoken Dialogue Language Models*](https://arxiv.org/abs/2510.05150)
-
+- 2025/10/02 [*Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage*](https://arxiv.org/abs/2510.02044)
+- 2025/09/29 [*Reasoning Beyond Majority Vote: An Explainable SpeechLM Framework for Speech Emotion Recognition*](https://arxiv.org/abs/2509.24187)
