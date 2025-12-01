@@ -29,7 +29,7 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
 
 ## 📌 Table of Content
 
-- [📚 Research Collections](#-research-collections)
+- [🧭 Research Collections](#-research-collections)
 - [🎒Good Papers](#-good-papers)
 - [🗞️ Recent News](#-recent-news)
 - [🤝 How to Contribute](#-how-to-contribute)
@@ -40,7 +40,7 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
 
 ---
 
-## 📚 Research Collections 
+## 🧭 Research Collections 
   
 - Paper
    - A. Safety
