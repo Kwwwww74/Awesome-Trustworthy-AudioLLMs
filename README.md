@@ -9,6 +9,7 @@
 <a href=""> <img src="https://img.shields.io/github/forks/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub forks"></a>
 <a href=""> <img src="https://img.shields.io/github/issues/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub issues"></a>
 <a href=""> <img src="https://img.shields.io/github/last-commit/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub Last commit"></a>
+<a hred=""> <img src="https://visitor-badge.laobi.icu/badge?page_id=Kwwwww74.Awesome-Trustworthy-AudioLLMs" alt="访客统计" /></a>
 </p>
 
 
