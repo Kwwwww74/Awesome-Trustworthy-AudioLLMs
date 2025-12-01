@@ -60,6 +60,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
   - 🚀 [Technical Report for Audio Large Language Models](collections/technical_report.md)
   - 🚀 [Toolkit](collections/toolkit.md)
   - 🚀 [Benchmark](collections/benchmark.md)
+  - 🚀 [Capability](collections/capability.md)
 
 ---
 
