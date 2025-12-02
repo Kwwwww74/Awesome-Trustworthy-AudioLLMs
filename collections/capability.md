@@ -25,4 +25,8 @@
 - 2025/09/25 [*Investigating Modality Contribution in Audio LLMs for Music*](https://arxiv.org/abs/2509.20641)
 - 2025/09/24 [*From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training*](https://arxiv.org/abs/2509.20072)
 - 2025/09/24 [*MMedFD: A Real-world Healthcare Benchmark for Multi-turn Full-Duplex Automatic Speech Recognition*](https://arxiv.org/abs/2509.19817)
+- 2025/09/20 [*Audio-Conditioned Diffusion LLMs for ASR and Deliberation Processing*](https://arxiv.org/abs/2509.16622)
+- 2025/09/04 [*VoxRole: A Comprehensive Benchmark for Evaluating Speech-Based Role-Playing Agents*](https://arxiv.org/abs/2509.03940)
+- 2025/09/01 [*AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions*](https://arxiv.org/abs/2509.01787)
+- 2025/08/25 [*Enhancing Speech Large Language Models through Reinforced Behavior Alignment*](https://arxiv.org/abs/2509.03526)
 - 
