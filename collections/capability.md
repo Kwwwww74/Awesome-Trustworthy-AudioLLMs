@@ -29,4 +29,7 @@
 - 2025/09/04 [*VoxRole: A Comprehensive Benchmark for Evaluating Speech-Based Role-Playing Agents*](https://arxiv.org/abs/2509.03940)
 - 2025/09/01 [*AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions*](https://arxiv.org/abs/2509.01787)
 - 2025/08/25 [*Enhancing Speech Large Language Models through Reinforced Behavior Alignment*](https://arxiv.org/abs/2509.03526)
+- 2025/08/10 [*Incorporating Contextual Paralinguistic Understanding in Large Speech-Language Models*](https://arxiv.org/abs/2508.07273)
+- 2025/07/27 [*Self-Improvement for Audio Large Language Model using Unlabeled Speech*](https://arxiv.org/abs/2507.20169)
+- 2025/07/14 [*Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction*](https://arxiv.org/abs/2507.09834)
 - 
