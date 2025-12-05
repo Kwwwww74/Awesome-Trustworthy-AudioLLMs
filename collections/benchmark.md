@@ -4,4 +4,5 @@
 - 2025/09/27 [*AudioRole: An Audio Dataset for Character Role-Playing in Large Language Models*](https://arxiv.org/abs/2509.23435)
 - 2025/09/23 [*MusiCRS: Benchmarking Audio-Centric Conversational Recommendation*](https://arxiv.org/abs/2509.19469)
 - 2025/09/19 [*AHa-Bench: Benchmarking Audio Hallucinations in Large Audio-Language Models*](https://openreview.net/forum?id=vCej5sO61x)
+- 2025/06/27 [*WildSpeech-Bench: Benchmarking End-to-End SpeechLLMs in the Wild*](https://arxiv.org/abs/2506.21875)
 - 2025/05/22 [*AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models*](https://arxiv.org/abs/2505.16211)
