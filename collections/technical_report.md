@@ -17,6 +17,7 @@
 
 ## Other Models:
 - 2025/11/03 [*SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia*](https://arxiv.org/abs/2511.01670)
+- 2025/07/03 [*DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment*](https://arxiv.org/abs/2507.02768)
 - 2024/12/13 [*MERaLiON-AudioLLM: Technical Report*](https://arxiv.org/html/2412.09818v1)
 - 2024/07/05 [*Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition*](https://arxiv.org/abs/2407.04675)
 - 2024/06/17 [*GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities*](https://arxiv.org/abs/2406.11768)
