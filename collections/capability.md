@@ -32,4 +32,5 @@
 - 2025/08/10 [*Incorporating Contextual Paralinguistic Understanding in Large Speech-Language Models*](https://arxiv.org/abs/2508.07273)
 - 2025/07/27 [*Self-Improvement for Audio Large Language Model using Unlabeled Speech*](https://arxiv.org/abs/2507.20169)
 - 2025/07/14 [*Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction*](https://arxiv.org/abs/2507.09834)
+- 2025/06/17 [*Thinking in Directivity: Speech Large Language Model for Multi-Talker Directional Speech Recognition*](https://arxiv.org/abs/2506.14973)
 - 
