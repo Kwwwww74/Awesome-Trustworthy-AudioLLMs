@@ -1,0 +1,1 @@
+- 2025/12/02 [*ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation*](https://arxiv.org/abs/2512.03036)
