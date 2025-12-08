@@ -84,6 +84,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
   - 🚀 [Benchmark](collections/benchmark.md)
   - 🚀 [Capability](collections/capability.md)
   - 🚀 [TTS](collections/tts.md)
+  - 🚀 [Other in Audio](collections/other_in_audio.md)
 
 ---
 
@@ -99,6 +100,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 - **[2025.11.25]** ⛰️Version1 is open to everyone!!!
 - **[2025.11.26]** 🍠TALLM has posted on xhs!!!
 - **[2025.12.01]** 📈General capabilities have been collected!!!
+- **[2025.12.08]** 🌴TTS and Other in Audio have been collected!!!
 
 ---
 
