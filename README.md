@@ -131,7 +131,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 
 ## 🙏 Acknowledgement
 
-- Organizers: [Kevin Luo (罗凯文)](https://scholar.google.com/citations?user=XnZXByMAAAAJ&hl=en), [Zhenhong Zhou(周振宏)](https://ydyjya.github.io), [Liang Lin (林亮)](https://scholar.google.com/citations?user=XQNpChIAAAAJ&hl=en)
+- Organizers: [Kevin Luo (罗凯文)](https://kwwwww74.github.io), [Zhenhong Zhou(周振宏)](https://ydyjya.github.io), [Liang Lin (林亮)](https://scholar.google.com/citations?user=XQNpChIAAAAJ&hl=en)
 
 <p align="center">
   <img src="./images/school.jpg" alt="Awesome Trustworthy Audio-LLMs" width="80%">
