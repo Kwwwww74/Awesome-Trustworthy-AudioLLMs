@@ -24,6 +24,7 @@
 - 2025/09/25 [*UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice*](https://arxiv.org/abs/2509.21144)
 - 2025/09/25 [*Investigating Modality Contribution in Audio LLMs for Music*](https://arxiv.org/abs/2509.20641)
 - 2025/09/25 [*Guiding Audio Editing with Audio Language Model*](https://arxiv.org/abs/2509.21625)
+- 2025/09/25 [*Music Flamingo: Scaling Music Understanding in Audio Language Models*](https://arxiv.org/abs/2511.10289)
 - 2025/09/25 [*Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models*](https://arxiv.org/abs/2509.21060)
 - 2025/09/24 [*From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training*](https://arxiv.org/abs/2509.20072)
 - 2025/09/24 [*MMedFD: A Real-world Healthcare Benchmark for Multi-turn Full-Duplex Automatic Speech Recognition*](https://arxiv.org/abs/2509.19817)
