@@ -10,6 +10,7 @@
 - 2025/10/17 [*Extending Audio Context for Long-Form Understanding in Large Audio-Language Models*](https://arxiv.org/abs/2510.15231)
 - 2025/10/16 [*SpeechLLM-as-Judges: Towards General and Interpretable Speech Quality Evaluation*](https://arxiv.org/abs/2510.14664)
 - 2025/10/15 [*Closing the Gap Between Text and Speech Understanding in LLMs*](https://arxiv.org/abs/2510.13632)
+- 2025/10/13 [*UALM: Unified Audio Language Model for Understanding, Generation and Reasoning*](https://arxiv.org/abs/2510.12000)
 - 2025/10/12 [*Do Audio LLMs Really LISTEN, or Just Transcribe? Measuring Lexical vs. Acoustic Emotion Cues Reliance*](https://arxiv.org/abs/2510.10444)
 - 2025/10/07 [*Sci-Phi: A Large Language Model Spatial Audio Descriptor*](https://arxiv.org/abs/2510.05542)
 - 2025/10/06 [*UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models*](https://arxiv.org/abs/2510.04593)
