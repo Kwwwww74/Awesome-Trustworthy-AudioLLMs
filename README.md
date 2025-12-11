@@ -102,6 +102,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 - **[2025.11.26]** 🍠TALLM has posted on xhs!!!
 - **[2025.12.01]** 📈General capabilities have been collected!!!
 - **[2025.12.08]** 🌴TTS and Other in Audio have been collected!!!
+- **[2025.12.11]** 😈TALLM has 100+ Stars!!!
 
 ---
 
