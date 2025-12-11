@@ -125,7 +125,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 ---
 
 ## 🌟 Rising Stars
-[![Star History Chart](https://api.star-history.com/svg?repos=Kwwwww74/Awesome-Trustworthy-AudioLLMs&type=Date)](https://star-history.com/#Kwwwww74/Awesome-Trustworthy-AudioLLMs&Date)
+[![Star History Chart]()
 
 ---
 
