@@ -16,6 +16,7 @@
 - 2024/02/02 [*Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities*](https://arxiv.org/abs/2402.01831)
 
 ## Other Models:
+- 2025/12/23 [*Fun-Audio-Chat Technical Report*](https://arxiv.org/abs/2512.20156)
 - 2025/11/03 [*SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia*](https://arxiv.org/abs/2511.01670)
 - 2025/07/03 [*DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment*](https://arxiv.org/abs/2507.02768)
 - 2024/12/13 [*MERaLiON-AudioLLM: Technical Report*](https://arxiv.org/html/2412.09818v1)
