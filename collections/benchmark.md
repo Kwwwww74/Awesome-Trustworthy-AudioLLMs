@@ -1,3 +1,4 @@
+- 2025/12/16 [*Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization*](https://arxiv.org/abs/2512.14687)
 - 2025/11/28 [*HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding*](https://arxiv.org/abs/2511.23178)
 - 2025/10/27 [*ISA-Bench: Benchmarking Instruction Sensitivity for Large Audio Language Models*](https://arxiv.org/abs/2510.23558)
 - 2025/10/21 [*The MUSE Benchmark: Probing Music Perception and Auditory Relational Reasoning in Audio LLMS*](https://arxiv.org/abs/2510.19055)
