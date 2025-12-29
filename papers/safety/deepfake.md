@@ -1,3 +1,4 @@
+- 2025/12/06 [*DFALLM: Achieving Generalizable Multitask Deepfake Detection by Optimizing Audio LLM Components*](https://arxiv.org/abs/2512.08403)
 - 2025/11/13 [*Curved Worlds, Clear Boundaries: Generalizing Speech Deepfake Detection using Hyperbolic and Spherical Geometry Spaces*](https://arxiv.org/abs/2511.10793)
 - 2025/09/25 [*FoeGlass: When Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors*](https://openreview.net/forum?id=gwi2T2CsfK)
 - 2024/10/04 [*Where are we in audio deepfake detection? A systematic analysis over generative and detection models*](https://arxiv.org/abs/2410.04324)
