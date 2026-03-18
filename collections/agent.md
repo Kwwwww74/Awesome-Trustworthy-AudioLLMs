@@ -1,2 +1,2 @@
+- 2026/02/07 [*Aegis: Towards Governance, Integrity, and Security of AI Voice Agents*](https://arxiv.org/abs/2602.07379)
 - 2025/12/02 [*Spoken Conversational Agents with Large Language Models*](https://arxiv.org/abs/2512.02593)
-- 
