@@ -1,5 +1,6 @@
 - 2026/01/21 [*AQAScore: Evaluating Semantic Alignment in Text-to-Audio Generation via Audio Question Answering*](https://arxiv.org/abs/2601.14728)
 - 2026/01/08 [*ChronosAudio: A Comprehensive Long-Audio Benchmark for Evaluating Audio-Large Language Models*](https://arxiv.org/abs/2601.04876)
+- 2026/01/07 [*HearSay Benchmark: Do Audio LLMs Leak What They Hear?*](https://arxiv.org/abs/2601.03783)
 - 2026/01/07 [*The Sonar Moment: Benchmarking Audio-Language Models in Audio Geo-Localization*](https://arxiv.org/abs/2601.03227)
 - 2025/12/16 [*Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization*](https://arxiv.org/abs/2512.14687)
 - 2025/12/01 [*MAC-SLU: Multi-Intent Automotive Cabin Spoken Language Understanding Benchmark*](https://arxiv.org/abs/2512.01603)
