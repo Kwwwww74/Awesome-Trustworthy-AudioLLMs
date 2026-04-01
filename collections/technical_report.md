@@ -27,7 +27,7 @@
 - 2024/01/25 [*SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation*](https://arxiv.org/html/2401.13527v2)
 - 2023/12/06 [*SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities*](https://aclanthology.org/2023.findings-emnlp.1055/)
 - 2023/10/20 [*SALMONN: Towards Generic Hearing Abilities for Large Language Models*](https://arxiv.org/abs/2310.13289)
-- 2023/08/22 [*Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning*](https://arxiv.org/abs/2407.04675)
+- 2023/08/22 [*Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning*](https://arxiv.org/abs/2308.11276)
 - 2023/05/19 [*Pengi: An Audio Language Model for Audio Tasks*](https://arxiv.org/abs/2305.11834)
 - 2023/05/18 [*Listen, Think, and Understand*](https://arxiv.org/abs/2305.10790)
 - 2025/03/19 [*Vision-Speech Models: Teaching Speech Models to Converse about Images*](https://arxiv.org/abs/2503.15633)
