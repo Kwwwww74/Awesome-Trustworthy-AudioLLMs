@@ -2,6 +2,8 @@
 ## Qwen：
 - 2024/07/15 [*Qwen2-Audio Technical Report*](https://arxiv.org/abs/2407.10759)
 - 2023/11/14 [*Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models*](https://arxiv.org/abs/2311.07919)
+- 2025/09/22 [*Qwen3-Omni Technical Report*](https://arxiv.org/abs/2509.17765)
+- 2025/03/26 [*Qwen2.5-Omni Technical Report*](https://arxiv.org/abs/2503.20215)
 
 ## Kimi:
 - 2025/04/25 [*Kimi-Audio Technical Report*](https://arxiv.org/abs/2504.18425)
@@ -28,3 +30,17 @@
 - 2023/08/22 [*Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning*](https://arxiv.org/abs/2407.04675)
 - 2023/05/19 [*Pengi: An Audio Language Model for Audio Tasks*](https://arxiv.org/abs/2305.11834)
 - 2023/05/18 [*Listen, Think, and Understand*](https://arxiv.org/abs/2305.10790)
+- 2025/03/19 [*Vision-Speech Models: Teaching Speech Models to Converse about Images*](https://arxiv.org/abs/2503.15633)
+- 2026/01/25 [*AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation*](https://arxiv.org/abs/2601.17761)
+- 2026/01/14 [*SLAM-LLM: A Modular, Open-Source Multimodal Large Language Model Framework and Best Practice for Speech, Language, Audio and Music Processing*](https://arxiv.org/abs/2601.09385)
+- 2024/02/19 [*AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling*](https://arxiv.org/abs/2402.12226)
+- 2024/03/31 [*WavLLM: Towards Robust and Adaptive Speech Large Language Model*](https://arxiv.org/abs/2404.00656)
+- 2026/02/10 [*Covo-Audio Technical Report*](https://arxiv.org/abs/2602.09823)
+- 2025/03/03 [*Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs*](https://arxiv.org/abs/2503.01743)
+- 2025/09/09 [*Competitive Audio-Language Models with Data-Efficient Single-Stage Training on Public Data*](https://arxiv.org/abs/2509.07526)
+- 2025/01/10 [*MinMo: A Multimodal Large Language Model for Seamless Voice Interaction*](https://arxiv.org/abs/2501.06282)
+- 2024/12/03 [*GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot*](https://arxiv.org/abs/2412.02612)
+- 2024/11/01 [*Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM*](https://arxiv.org/abs/2411.00774)
+- 2024/09/10 [*LLaMA-Omni: Seamless Speech Interaction with Large Language Models*](https://arxiv.org/abs/2409.06666)
+- 2025/12/29 [*MiMo-Audio: Audio Language Models are Few-Shot Learners*](https://arxiv.org/abs/2512.23808)
+- 
