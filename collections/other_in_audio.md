@@ -4,13 +4,14 @@
 
 ## 📅 2026
 - **2026/04/13** | 🦩 [**Audio Flamingo Next: Next-Generation Open Audio-Language Models for Speech, Sound, and Music**](https://arxiv.org/abs/2604.10905) 🎵
-- **2026/04/13** | 🌴 [**Efficient Training for Cross-lingual Speech Language Models**](https://arxiv.org/abs/2604.11096) 🐦
+- **2026/04/13** | 🌴 [**Efficient Training for Cross-lingual Speech Language Models**](https://arxiv.org/abs/2604.11096) 🦜
+- **2026/04/13** | 🏔️ [**Ti-Audio: The First Multi-Dialectal End-to-End Speech LLM for Tibetan**](https://arxiv.org/abs/2604.11110) 🗣️
 
 ---
 
 ## 📅 2025
 - **2025/12/02** | 📹 [**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**](https://arxiv.org/abs/2512.03036) 🎧
-- **2025/11/18** | 🌐 [**TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation**](https://arxiv.org/abs/2511.14410) 🗣️
+- **2025/11/18** | 🌐 [**TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation**](https://arxiv.org/abs/2511.14410) ✍️
 - **2025/11/16** | 🧊 [**DenseAnnotate: Enabling Scalable Dense Caption Collection for Images and 3D Scenes via Spoken Descriptions**](https://arxiv.org/abs/2511.12452) 🎤
 - **2025/11/15** | 🎙️ [**VoiceCraft-X: Unifying Multilingual, Voice-Cloning Speech Synthesis and Speech Editing**](https://arxiv.org/abs/2511.12347) ✂️
 - **2025/11/15** | 🎨 [**Learning to Hear by Seeing: It's Time for Vision Language Models to Understand Artistic Emotion from Sight and Sound**](https://arxiv.org/abs/2511.12077) 👁️
