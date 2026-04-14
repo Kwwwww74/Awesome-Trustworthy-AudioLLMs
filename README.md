@@ -106,6 +106,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 - **[2025.12.11]** 😈TALLM has 100+ Stars!!!
 - **[2025.12.29]** 🆕2025.12 papers are collected!!!
 - **[2026.03.18]** 🆕2026.01 - 2026.03 papers are collected!!!
+- **[2026.04.14]** 🆕2026.04 papers are collected!!!
 
 ---
 
@@ -119,7 +120,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 
 <div align="center">
 
-[Wechat Group](./resource/wechat10.jpg) 
+[Wechat Group](./resource/wechat11.jpg) 
 
 
 [Discord Group: TALLM](./resource/discord.md)
