@@ -136,7 +136,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 
 ## 🙏 Acknowledgement
 
-- Organizers: [Kevin Luo](https://kwwwww74.github.io), [Zhenhong Zhou](https://ydyjya.github.io), [Liang Lin](https://scholar.google.com/citations?user=XQNpChIAAAAJ&hl=en), [Yuting Ruan](https://github.com/ryt173), [Yuanhe Zhang](https://scholar.google.com/citations?user=t1YN_XUAAAAJ&hl=en)
+- Organizers: [Kevin Luo](https://kwwwww74.github.io), [Zhenhong Zhou](https://ydyjya.github.io), [Liang Lin](https://scholar.google.com/citations?user=XQNpChIAAAAJ&hl=en), [Yuting Ruan](https://github.com/ryt173), [Yuanhe Zhang](https://scholar.google.com/citations?user=t1YN_XUAAAAJ&hl=en), [Tianyu Shao](https://github.com/aidawang-sys)
 - Thank you to all those who have followed this project. 
 
 <p align="center">
