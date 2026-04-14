@@ -6,6 +6,7 @@
 - **2026/04/13** | 🦩 [**Audio Flamingo Next: Next-Generation Open Audio-Language Models for Speech, Sound, and Music**](https://arxiv.org/abs/2604.10905) 🎵
 - **2026/04/13** | 🌴 [**Efficient Training for Cross-lingual Speech Language Models**](https://arxiv.org/abs/2604.11096) 🦜
 - **2026/04/13** | 🏔️ [**Ti-Audio: The First Multi-Dialectal End-to-End Speech LLM for Tibetan**](https://arxiv.org/abs/2604.11110) 🗣️
+- **2026/04/13** | 💦 [**Speaker Attributed Automatic Speech Recognition Using Speech Aware LLMS**](https://arxiv.org/abs/2604.11269) 🌽
 
 ---
 
