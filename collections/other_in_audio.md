@@ -4,6 +4,7 @@
 
 ## 📅 2026
 - **2026/04/13** | 🦩 [**Audio Flamingo Next: Next-Generation Open Audio-Language Models for Speech, Sound, and Music**](https://arxiv.org/abs/2604.10905) 🎵
+- **2026/04/13** | 🌴 [**Efficient Training for Cross-lingual Speech Language Models**](https://arxiv.org/abs/2604.11096) 🐦
 
 ---
 
