@@ -1,1 +1,2 @@
-- 2025/11/04 [*Whisper Leak: a side-channel attack on Large Language Models*](https://www.microsoft.com/en-us/research/publication/whisper-leak/)
+## 📅 2025
+- **2025/11/04** | 📡 [**Whisper Leak: a side-channel attack on Large Language Models**](https://www.microsoft.com/en-us/research/publication/whisper-leak/) 🔓
