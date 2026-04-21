@@ -1,1 +1,2 @@
-- 2025/09/09 [*AU-Harness: An Open-Source Toolkit for Holistic Evaluation of Audio LLMs*](https://arxiv.org/abs/2509.08031)
+## 📅 2025
+- **2025/09/09** | 🛠️ [**AU-Harness: An Open-Source Toolkit for Holistic Evaluation of Audio LLMs**](https://arxiv.org/abs/2509.08031) 📊
