@@ -1,39 +1,64 @@
-- 2025/11/26 [*Towards Audio Token Compression in Large Audio Language Models*](https://arxiv.org/abs/2511.20973)
-- 2025/11/25 [*It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models*](https://arxiv.org/abs/2511.19877)
-- 2025/11/20 [*Train Short, Infer Long: Speech-LLM Enables Zero-Shot Streamable Joint ASR and Diarization on Long Audio*](https://arxiv.org/abs/2511.16046)
-- 2025/11/18 [*TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation*](https://arxiv.org/abs/2511.14410)
-- 2025/11/17 [*Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs*](https://arxiv.org/abs/2511.13273)
-- 2025/11/07 [*MERaLiON-SER: Robust Speech Emotion Recognition Model for English and SEA Languages*](https://arxiv.org/abs/2511.04914)
-- 2025/10/26 [*Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation*](https://arxiv.org/abs/2511.05516)
-- 2025/10/23 [*Incentivizing Consistent, Effective and Scalable Reasoning Capability in Audio LLMs via Reasoning Process Rewards*](https://arxiv.org/abs/2510.20867)
-- 2025/10/21 [*Can large audio language models understand child stuttering speech? speech summarization, and source separation*](https://arxiv.org/abs/2510.20850)
-- 2025/10/17 [*Extending Audio Context for Long-Form Understanding in Large Audio-Language Models*](https://arxiv.org/abs/2510.15231)
-- 2025/10/16 [*SpeechLLM-as-Judges: Towards General and Interpretable Speech Quality Evaluation*](https://arxiv.org/abs/2510.14664)
-- 2025/10/15 [*Closing the Gap Between Text and Speech Understanding in LLMs*](https://arxiv.org/abs/2510.13632)
-- 2025/10/13 [*UALM: Unified Audio Language Model for Understanding, Generation and Reasoning*](https://arxiv.org/abs/2510.12000)
-- 2025/10/12 [*Do Audio LLMs Really LISTEN, or Just Transcribe? Measuring Lexical vs. Acoustic Emotion Cues Reliance*](https://arxiv.org/abs/2510.10444)
-- 2025/10/07 [*Sci-Phi: A Large Language Model Spatial Audio Descriptor*](https://arxiv.org/abs/2510.05542)
-- 2025/10/06 [*UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models*](https://arxiv.org/abs/2510.04593)
-- 2025/10/03 [*AudioToolAgent: An Agentic Framework for Audio-Language Models*](https://arxiv.org/abs/2510.02995)
-- 2025/10/02 [*Chronological Thinking in Full-Duplex Spoken Dialogue Language Models*](https://arxiv.org/abs/2510.05150)
-- 2025/10/02 [*Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage*](https://arxiv.org/abs/2510.02044)
-- 2025/09/29 [*Reasoning Beyond Majority Vote: An Explainable SpeechLM Framework for Speech Emotion Recognition*](https://arxiv.org/abs/2509.24187)
-- 2025/09/26 [*Investigating Faithfulness in Large Audio Language Models*](https://arxiv.org/abs/2509.22363)
-- 2025/09/26 [*StableToken: A Noise-Robust Semantic Speech Tokenizer for Resilient SpeechLLMs*](https://arxiv.org/abs/2509.22220)
-- 2025/09/26 [*Towards Cross-Task Suicide Risk Detection via Speech LLM*](https://arxiv.org/abs/2509.22153)
-- 2025/09/26 [*Comprehend and Talk: Text to Speech Synthesis via Dual Language Modeling*](https://arxiv.org/abs/2509.22062)
-- 2025/09/25 [*UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice*](https://arxiv.org/abs/2509.21144)
-- 2025/09/25 [*Investigating Modality Contribution in Audio LLMs for Music*](https://arxiv.org/abs/2509.20641)
-- 2025/09/25 [*Guiding Audio Editing with Audio Language Model*](https://arxiv.org/abs/2509.21625)
-- 2025/09/25 [*Music Flamingo: Scaling Music Understanding in Audio Language Models*](https://arxiv.org/abs/2511.10289)
-- 2025/09/25 [*Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models*](https://arxiv.org/abs/2509.21060)
-- 2025/09/24 [*From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training*](https://arxiv.org/abs/2509.20072)
-- 2025/09/24 [*MMedFD: A Real-world Healthcare Benchmark for Multi-turn Full-Duplex Automatic Speech Recognition*](https://arxiv.org/abs/2509.19817)
-- 2025/09/20 [*Audio-Conditioned Diffusion LLMs for ASR and Deliberation Processing*](https://arxiv.org/abs/2509.16622)
-- 2025/09/04 [*VoxRole: A Comprehensive Benchmark for Evaluating Speech-Based Role-Playing Agents*](https://arxiv.org/abs/2509.03940)
-- 2025/09/01 [*AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions*](https://arxiv.org/abs/2509.01787)
-- 2025/08/25 [*Enhancing Speech Large Language Models through Reinforced Behavior Alignment*](https://arxiv.org/abs/2509.03526)
-- 2025/08/10 [*Incorporating Contextual Paralinguistic Understanding in Large Speech-Language Models*](https://arxiv.org/abs/2508.07273)
-- 2025/07/27 [*Self-Improvement for Audio Large Language Model using Unlabeled Speech*](https://arxiv.org/abs/2507.20169)
-- 2025/07/14 [*Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction*](https://arxiv.org/abs/2507.09834)
-- 2025/06/17 [*Thinking in Directivity: Speech Large Language Model for Multi-Talker Directional Speech Recognition*](https://arxiv.org/abs/2506.14973)
+# 🎧 Research Papers: Audio-Language Model Frontiers
+
+---
+
+## 🏗️ Architecture, Tokens & Efficiency
+- **2025/11/26** | 📉 [**Towards Audio Token Compression in Large Audio Language Models**](https://arxiv.org/abs/2511.20973) 📦
+- **2025/10/15** | 🌉 [**Closing the Gap Between Text and Speech Understanding in LLMs**](https://arxiv.org/abs/2510.13632) 📝
+- **2025/09/26** | 🛡️ [**StableToken: A Noise-Robust Semantic Speech Tokenizer for Resilient SpeechLLMs**](https://arxiv.org/abs/2509.22220) 🧱
+- **2025/09/24** | ⚡ [**From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training**](https://arxiv.org/abs/2509.20072) 🔄
+- **2025/09/20** | 🌬️ [**Audio-Conditioned Diffusion LLMs for ASR and Deliberation Processing**](https://arxiv.org/abs/2509.16622) 🌪️
+- **2025/07/27** | ♻️ [**Self-Improvement for Audio Large Language Model using Unlabeled Speech**](https://arxiv.org/abs/2507.20169) 📈
+- **2025/07/14** | 🌀 [**Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction**](https://arxiv.org/abs/2507.09834) 🔢
+
+---
+
+## 🧬 Unified Models & Agentic Frameworks
+- **2025/10/26** | 🎨 [**Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation**](https://arxiv.org/abs/2511.05516) 🔄
+- **2025/10/13** | 🧬 [**UALM: Unified Audio Language Model for Understanding, Generation and Reasoning**](https://arxiv.org/abs/2510.12000) ✨
+- **2025/10/06** | 🔄 [**UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models**](https://arxiv.org/abs/2510.04593) 🗣️
+- **2025/10/03** | 🛠️ [**AudioToolAgent: An Agentic Framework for Audio-Language Models**](https://arxiv.org/abs/2510.02995) 🤖
+- **2025/09/26** | 🗣️ [**Comprehend and Talk: Text to Speech Synthesis via Dual Language Modeling**](https://arxiv.org/abs/2509.22062) 📖
+- **2025/09/25** | ✍️ [**Guiding Audio Editing with Audio Language Model**](https://arxiv.org/abs/2509.21625) ✂️
+- **2025/09/01** | 🎭 [**AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions**](https://arxiv.org/abs/2509.01787) 👺
+
+---
+
+## 🧠 Reasoning, Evaluation & Faithfulness
+- **2025/10/23** | 🏅 [**Incentivizing Consistent, Effective and Scalable Reasoning Capability in Audio LLMs via Reasoning Process Rewards**](https://arxiv.org/abs/2510.20867) 🧠
+- **2025/10/16** | 👨‍⚖️ [**SpeechLLM-as-Judges: Towards General and Interpretable Speech Quality Evaluation**](https://arxiv.org/abs/2510.14664) 📏
+- **2025/10/12** | 👂 [**Do Audio LLMs Really LISTEN, or Just Transcribe? Measuring Lexical vs. Acoustic Emotion Cues Reliance**](https://arxiv.org/abs/2510.10444) ❓
+- **2025/09/29** | 💡 [**Reasoning Beyond Majority Vote: An Explainable SpeechLM Framework for Speech Emotion Recognition**](https://arxiv.org/abs/2509.24187) 🗣️
+- **2025/09/26** | 💎 [**Investigating Faithfulness in Large Audio Language Models**](https://arxiv.org/abs/2509.22363) ✅
+- **2025/09/25** | ⚖️ [**Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models**](https://arxiv.org/abs/2509.21060) 🎯
+- **2025/08/25** | ⚙️ [**Enhancing Speech Large Language Models through Reinforced Behavior Alignment**](https://arxiv.org/abs/2509.03526) 🤝
+
+---
+
+## ⏳ Long-Form, Streaming & Dialogue
+- **2025/11/20** | 🏃 [**Train Short, Infer Long: Speech-LLM Enables Zero-Shot Streamable Joint ASR and Diarization on Long Audio**](https://arxiv.org/abs/2511.16046) ⏳
+- **2025/10/17** | 📜 [**Extending Audio Context for Long-Form Understanding in Large Audio-Language Models**](https://arxiv.org/abs/2510.15231) 📏
+- **2025/10/02** | 🕰️ [**Chronological Thinking in Full-Duplex Spoken Dialogue Language Models**](https://arxiv.org/abs/2510.05150) 🗣️
+- **2025/10/02** | ⚡ [**Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage**](https://arxiv.org/abs/2510.02044) 🛠️
+
+---
+
+## 🏥 Medical, Health & Human-Centric AI
+- **2025/11/25** | 🩺 [**It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models**](https://arxiv.org/abs/2511.19877) 👁️
+- **2025/11/07** | 🌍 [**MERaLiON-SER: Robust Speech Emotion Recognition Model for English and SEA Languages**](https://arxiv.org/abs/2511.04914) ✨
+- **2025/10/21** | 🎤 [**Can large audio language models understand child stuttering speech? speech summarization, and source separation**](https://arxiv.org/abs/2510.20850) 👶
+- **2025/09/26** | 🆘 [**Towards Cross-Task Suicide Risk Detection via Speech LLM**](https://arxiv.org/abs/2509.22153) 🧠
+- **2025/09/24** | 🏥 [**MMedFD: A Real-world Healthcare Benchmark for Multi-turn Full-Duplex Automatic Speech Recognition**](https://arxiv.org/abs/2509.19817) 🏥
+- **2025/08/10** | 🎭 [**Incorporating Contextual Paralinguistic Understanding in Large Speech-Language Models**](https://arxiv.org/abs/2508.07273) 🗣️
+
+---
+
+## 🎼 Music, Spatial & Perception
+- **2025/11/18** | 🌐 [**TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation**](https://arxiv.org/abs/2511.14410) 🗺️
+- **2025/11/17** | 🏃‍♂️ [**Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs**](https://arxiv.org/abs/2511.13273) 🌑
+- **2025/10/07** | 🌌 [**Sci-Phi: A Large Language Model Spatial Audio Descriptor**](https://arxiv.org/abs/2510.05542) 🛰️
+- **2025/09/25** | 🎻 [**Investigating Modality Contribution in Audio LLMs for Music**](https://arxiv.org/abs/2509.20641) 🎸
+- **2025/09/25** | 🦩 [**Music Flamingo: Scaling Music Understanding in Audio Language Models**](https://arxiv.org/abs/2511.10289) 🎶
+- **2025/09/25** | 🔄 [**UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice**](https://arxiv.org/abs/2509.21144) 🗣️
+- **2025/09/04** | 🎭 [**VoxRole: A Comprehensive Benchmark for Evaluating Speech-Based Role-Playing Agents**](https://arxiv.org/abs/2509.03940) 🧙
+- **2025/06/17** | 📍 [**Thinking in Directivity: Speech Large Language Model for Multi-Talker Directional Speech Recognition**](https://arxiv.org/abs/2506.14973) 🎯
