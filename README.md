@@ -106,7 +106,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 - **[2025.12.29]** 🆕2025.12 papers are collected!!!
 - **[2026.03.18]** 🆕2026.01 - 2026.03 papers are collected!!!
 - **[2026.04.14]** 🆕2026.04 papers are collected!!!
-- **[2026.04.22]** 🐶Version2 is open to everyone!!!
+- **[2026.04.25]** 🐶Version2 is open to everyone!!!
 
 ---
 
