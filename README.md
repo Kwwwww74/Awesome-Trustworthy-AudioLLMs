@@ -59,7 +59,6 @@ Together, these works aim toward a future where Audio-LLMs are **not only capabl
       - [📚A4. Deepfake](./papers/safety/deepfake.md)
       - [🎒A5. Prompt Injection](./papers/safety/prompt_injection.md)
       - [🧑‍🏫A6. Defense](./papers/safety/defense.md)
-      - [🧑‍🎓A7. Fairness](./papers/safety/fairness.md)
   - B. Security
       - [📖B1. General](./papers/security/general.md)
       - [✏️B2. Adversarial Examples](./papers/security/adversarial_examples.md)
