@@ -53,7 +53,7 @@
 - 2023/10/07 [*LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT*](https://arxiv.org/abs/2310.04673)
 - 2023/12/23 [*Paralinguistics-Enhanced Large Language Modeling of Spoken Dialogue*](https://arxiv.org/abs/2312.15316)
 - 2023/12/31 [*E-chat: Emotion-sensitive Spoken Dialogue System with Large Language Models*](https://arxiv.org/abs/2401.00475)
-- 2024/02/22 [*Advancing Large Language Models to Capture Varied Speaking Styles and Respond Properly in Spoken Conversations*](https://arxiv.org/abs/2402.12786)
+- 2024/02/20 [*Advancing Large Language Models to Capture Varied Speaking Styles and Respond Properly in Spoken Conversations*](https://arxiv.org/abs/2402.12786)
 - 2024/02/08 [*Spirit LM: Interleaved Spoken and Written Language Model*](https://arxiv.org/abs/2402.05755)
 - 2024/02/08 [*Paralinguistics-Aware Speech-Empowered Large Language Models for Natural Conversation*](https://arxiv.org/abs/2402.05706)
 - 2024/07/04 [*FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs*](https://arxiv.org/abs/2407.04051)
