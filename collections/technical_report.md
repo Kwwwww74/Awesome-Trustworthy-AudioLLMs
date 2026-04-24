@@ -4,6 +4,7 @@
 - 2023/11/14 [*Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models*](https://arxiv.org/abs/2311.07919)
 - 2025/09/22 [*Qwen3-Omni Technical Report*](https://arxiv.org/abs/2509.17765)
 - 2025/03/26 [*Qwen2.5-Omni Technical Report*](https://arxiv.org/abs/2503.20215)
+- 2026/01/29 [*Qwen3-ASR Technical Report*](https://arxiv.org/abs/2601.21337)
 
 ## Kimi:
 - 2025/04/25 [*Kimi-Audio Technical Report*](https://arxiv.org/abs/2504.18425)
@@ -11,6 +12,8 @@
 ## StepFun:
 - 2025/11/05 [*Step-Audio-EditX Technical Report*](https://arxiv.org/abs/2511.03601)
 - 2025/07/22 [*Step-Audio 2 Technical Report*](https://arxiv.org/abs/2507.16632)
+- 2025/11/19 [*Step-Audio-R1 Technical Report*](https://arxiv.org/abs/2511.15848)
+- 2026/01/14 [*Step-Audio-R1.1*](https://huggingface.co/stepfun-ai/Step-Audio-R1.1)
 
 ## NVIDIA:
 - 2025/07/10 [*Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models*](https://arxiv.org/abs/2507.08128)
@@ -78,7 +81,4 @@
 - 2025/05/06 [*VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model*](https://arxiv.org/abs/2505.03739)
 - 2025/09/08 [*FireRedChat: A Pluggable, Full-Duplex Voice Interaction System with Cascaded and Semi-Cascaded Implementations*](https://arxiv.org/abs/2509.06502)
 - 2025/09/09 [*Competitive Audio-Language Models with Data-Efficient Single-Stage Training on Public Data*](https://arxiv.org/abs/2509.07526)
-- 2025/11/19 [*Step-Audio-R1 Technical Report*](https://arxiv.org/abs/2511.15848)
-- 2026/01/14 [*Step-Audio-R1.1*](https://huggingface.co/stepfun-ai/Step-Audio-R1.1)
-- 2026/01/29 [*Qwen3-ASR Technical Report*](https://arxiv.org/abs/2601.21337)
 - 2026/02/15 [*Eureka-Audio: Triggering Audio Intelligence in Compact Language Models*](https://arxiv.org/abs/2602.13954)
