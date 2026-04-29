@@ -11,6 +11,7 @@
 - **2025/05/22** | 🔓 [**Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**](https://arxiv.org/abs/2505.15406) 🔓
 - **2025/05/20** | 💥 [**AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models**](https://arxiv.org/abs/2505.14103) ☣️
 - **2025/03/10** | 🧩 [**Speech-Audio Compositional Attacks on Multimodal LLMs**](https://arxiv.org/abs/2503.10222) 🏗️
+- **2025/02/03** | 🔓 [**"I am bad": Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models**](https://arxiv.org/abs/2502.00718) 👿
 - **2025/01/23** | 🔍 [**Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models**](https://arxiv.org/abs/2501.13772) 🧪
 
 ---
