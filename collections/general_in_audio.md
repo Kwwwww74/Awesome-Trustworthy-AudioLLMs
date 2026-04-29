@@ -1,0 +1,120 @@
+# 🎧 General Papers in Audio
+
+---
+
+## 📅 2026
+
+- **2026/04/13** | 🦩 [**Audio Flamingo Next: Next-Generation Open Audio-Language Models for Speech, Sound, and Music**](https://arxiv.org/abs/2604.10905) 🎵
+- **2026/04/13** | 🌴 [**Efficient Training for Cross-lingual Speech Language Models**](https://arxiv.org/abs/2604.11096) 🦜
+- **2026/04/13** | 🏔️ [**Ti-Audio: The First Multi-Dialectal End-to-End Speech LLM for Tibetan**](https://arxiv.org/abs/2604.11110) 🗣️
+- **2026/04/13** | 💦 [**Speaker Attributed Automatic Speech Recognition Using Speech Aware LLMS**](https://arxiv.org/abs/2604.11269) 🌽
+- **2026/03/30** | 🏆 [**The Interspeech 2026 Audio Encoder Capability Challenge for Large Audio Language Models**](https://arxiv.org/abs/2603.22728) 🦾
+- **2026/03/27** | ⚖️ [**ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition**](https://arxiv.org/abs/2603.21050) ⚧️
+- **2026/03/26** | 🧩 [**ALICE: A Multifaceted Evaluation Framework of Large Audio-Language Models' In-Context Learning Ability**](https://arxiv.org/abs/2603.20433) 🎓
+- **2026/03/25** | 🦴 [**How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation**](https://arxiv.org/abs/2603.19195) 🦴
+- **2026/03/19** | 🕹️ [**Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models**](https://arxiv.org/abs/2603.14636) 🧠
+- **2026/03/19** | 🇮🇷 [**PARSA-Bench: A Comprehensive Persian Audio-Language Model Benchmark**](https://arxiv.org/abs/2603.14456) 🇮🇷
+- **2026/03/16** | 🔍 [**Can LLMs Help Localize Fake Words in Partially Fake Speech?**](https://arxiv.org/abs/2603.11205) 🕵️
+- **2026/03/13** | 🧠 [**ALARM: Audio-Language Alignment for Reasoning Models**](https://arxiv.org/abs/2603.09556) ⏰
+- **2026/03/13** | 🕵️‍♂️ [**Towards Robust Speech Deepfake Detection via Human-Inspired Reasoning**](https://arxiv.org/abs/2603.10725) 🛡️
+- **2026/02/26** | 🎭 [**EmoOmni: Bridging Emotional Understanding and Expression in Omni-Modal LLMs**](https://arxiv.org/abs/2602.21900) 🌈
+- **2026/02/19** | 💭 [**The Interspeech 2026 Audio Reasoning Challenge: Evaluating Reasoning Process Quality for Audio Reasoning Models and Agents**](https://arxiv.org/abs/2602.14224) 🤖
+- **2026/02/09** | 👄 [**VOWELPROMPT: Hearing Speech Emotions from Text via Vowel-LEVEL Prosodic Augmentation**](https://arxiv.org/abs/2602.06270) 🗣️
+- **2026/02/06** | 📦 [**UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization**](https://arxiv.org/abs/2602.04683) 📦
+- **2026/02/05** | 🏰 [**HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing**](https://arxiv.org/abs/2602.04535) 🛡️
+- **2026/02/05** | 🎸 [**BASS: Benchmarking Audio LMs for Musical Structure and Semantic Reasoning**](https://arxiv.org/abs/2602.04085) 🎸
+- **2026/02/04** | 🌗 [**Decoding Ambiguous Emotions with Test-Time Scaling in Audio-Language Models**](https://arxiv.org/abs/2602.03873) 🎭
+- **2026/02/02** | ⚖️ [**Bias in the Ear of the Listener: Assessing Sensitivity in Audio Language Models Across Linguistic, Demographic, and Positional Variations**](https://arxiv.org/abs/2602.01030) 👂
+- **2026/02/02** | ⚗️ [**Attention-weighted Centered Kernel Alignment for Knowledge Distillation in Large Audio-Language Models Applied to Speech Emotion Recognition**](https://arxiv.org/abs/2602.01547) 🧪
+- **2026/01/26** | 🔊 [**Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models**](https://arxiv.org/abs/2601.23255) ⚠️
+- **2026/01/26** | 🔎 [**Towards Explicit Acoustic Evidence Perception in Audio LLMs for Speech Deepfake Detection**](https://arxiv.org/abs/2601.23066) 🛡️
+- **2026/01/21** | 🔐 [**VOXPRIVACY: A Benchmark for Evaluating Interactional Privacy of Speech Language Models**](https://arxiv.org/abs/2601.19956) 🤫
+- **2026/01/19** | 🧶 [**CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation**](https://arxiv.org/abs/2601.16547) 🧵
+- **2026/01/15** | ⏳ [**ChronosAudio: A Comprehensive Long-Audio Benchmark for Evaluating Audio-Large Language Models**](https://arxiv.org/abs/2601.04876) 🕰️
+- **2026/01/14** | 🗯️ [**When Tone and Words Disagree: Towards Robust Speech Emotion Recognition under Acoustic-Semantic Conflict**](https://arxiv.org/abs/2601.04564) 🎭
+- **2026/01/14** | 🔡 [**WESR: Scaling and Evaluating Word-level Event-Speech Recognition**](https://arxiv.org/abs/2601.04508) 🎹
+- **2026/01/13** | 🕵️ [**SpeakerSleuth: Evaluating Large Audio-Language Models as Judges for Multi-turn Speaker Consistency**](https://arxiv.org/abs/2601.04029) 👥
+- **2026/01/12** | 👤 [**PALM-Bench: A Comprehensive Benchmark for Personalized Audio-Language Models**](https://arxiv.org/abs/2601.03531) 🆔
+- **2026/01/12** | 📍 [**The Sonar Moment: Benchmarking Audio-Language Models in Audio Geo-Localization**](https://arxiv.org/abs/2601.03227) 🗺️
+- **2026/01/11** | ⚡ [**Discovering and Causally Validating Emotion-Sensitive Neurons in Large Audio-Language Models**](https://arxiv.org/abs/2601.03115) 🧠
+- **2026/01/10** | 🔋 [**MoE Adapter for Large Audio Language Models: Sparsity, Disentanglement, and Gradient-Conflict-Free**](https://arxiv.org/abs/2601.02967) 🔌
+- **2026/01/10** | 🌍 [**The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models**](https://arxiv.org/abs/2601.02954) 🎧
+- **2026/01/08** | ⌚ [**WearVox: An Egocentric Multichannel Voice Assistant Benchmark for Wearables**](https://arxiv.org/abs/2601.02391) ⌚
+
+---
+
+## 📅 2025
+
+- **2025/12/26** | 🧊 [**MiMo-Audio: Audio Language Models are Few-Shot Learners**](https://arxiv.org/abs/2512.23808) 🧊
+- **2025/12/23** | 🛠️ [**MMEDIT: A Unified Framework for Multi-Type Audio Editing via Audio Language Model**](https://arxiv.org/abs/2512.20339) ✂️
+- **2025/12/17** | 📝 [**Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization**](https://arxiv.org/abs/2512.14687) 💬
+- **2025/12/06** | 🪐 [**SPEECH WORLD MODEL: CAUSAL STATE–ACTION PLANNING WITH EXPLICIT REASONING FOR SPEECH**](https://arxiv.org/abs/2512.05933) 🚀
+- **2025/12/03** | 🚗 [**MAC-SLU: Multi-Intent Automotive Cabin Spoken Language Understanding Benchmark**](https://arxiv.org/abs/2512.01603) 🚘
+- **2025/12/02** | 📹 [**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**](https://arxiv.org/abs/2512.03036) 🎧
+- **2025/11/26** | 💎 [**Towards Audio Token Compression in Large Audio Language Models**](https://arxiv.org/abs/2511.20973) 🗜️
+- **2025/11/25** | 🩺 [**It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models**](https://arxiv.org/abs/2511.19877) 🏥
+- **2025/11/19** | ✂️ [**Segmentwise Pruning in Audio-Language Models**](https://arxiv.org/abs/2511.14293) 🍃
+- **2025/11/18** | 🌐 [**TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation**](https://arxiv.org/abs/2511.14410) ✍️
+- **2025/11/17** | 👓 [**Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs**](https://arxiv.org/abs/2511.13273) 🌀
+- **2025/11/16** | 🧊 [**DenseAnnotate: Enabling Scalable Dense Caption Collection for Images and 3D Scenes via Spoken Descriptions**](https://arxiv.org/abs/2511.12452) 🎤
+- **2025/11/15** | 🎙️ [**VoiceCraft-X: Unifying Multilingual, Voice-Cloning Speech Synthesis and Speech Editing**](https://arxiv.org/abs/2511.12347) ✂️
+- **2025/11/15** | 🎨 [**Learning to Hear by Seeing: It's Time for Vision Language Models to Understand Artistic Emotion from Sight and Sound**](https://arxiv.org/abs/2511.12077) 👁️
+- **2025/11/14** | 桥 [**Listening Between the Frames: Bridging Temporal Gaps in Large Audio-Language Models**](https://arxiv.org/abs/2511.11039) 🎞️
+- **2025/11/13** | 🦩 [**Music Flamingo: Scaling Music Understanding in Audio Language Models**](https://arxiv.org/abs/2511.10289) 🎵
+- **2025/11/12** | 🔓 [**StyleBreak: Revealing Alignment Vulnerabilities in Large Audio-Language Models via Style-Aware Audio Jailbreak**](https://arxiv.org/abs/2511.10692) 🛡️
+- **2025/11/11** | 🤝 [**PARAS2S: BENCHMARKING AND ALIGNING SPOKEN LANGUAGE MODELS FOR PARALINGUISTIC-AWARE SPEECH-TO-SPEECH INTERACTION**](https://arxiv.org/abs/2511.08723) 🗣️
+- **2025/11/11** | 🏁 [**SPEECHJUDGE: TOWARDS HUMAN-LEVEL JUDGMENT FOR SPEECH NATURALNESS**](https://arxiv.org/abs/2511.07931) ⚖️
+- **2025/11/11** | 🙋 [**End-to-end Contrastive Language-Speech Pretraining Model For Long-form Spoken Question Answering**](https://arxiv.org/abs/2511.09282) ❓
+- **2025/11/10** | 🔌 [**SPUR: A Plug-and-Play Framework for Integrating Spatial Audio Understanding and Reasoning into Large Audio-Language Models**](https://arxiv.org/abs/2511.06606) 📍
+- **2025/11/06** | 🇭🇰 [**CantoASR: Prosody-Aware ASR-LALM Collaboration for Low-Resource Cantonese**](https://arxiv.org/abs/2511.04139) 🗣️
+- **2025/11/03** | 🌏 [**SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia**](https://arxiv.org/abs/2511.01670) 🌏
+- **2025/11/02** | 🔄 [**Feedback-driven Retrieval-augmented Audio Generation with Large Audio Language Models**](https://arxiv.org/abs/2511.01091) 🔊
+- **2025/10/29** | 🎯 [**ISA-Bench: Benchmarking Instruction Sensitivity for Large Audio Language Models**](https://arxiv.org/abs/2510.23558) 🎯
+- **2025/10/28** | 🧠 [**A Penny for Your Thoughts: Decoding Speech from Inexpensive Brain Signals**](https://arxiv.org/abs/2511.04691) 🪙
+- **2025/10/28** | 🧡 [**ECHOMIND: AN INTERRELATED MULTI-LEVEL BENCHMARK FOR EVALUATING EMPATHETIC SPEECH LANGUAGE MODELS**](https://arxiv.org/abs/2510.22758) 🫂
+- **2025/10/26** | 📊 [**STAR-BENCH: PROBING DEEP SPATIO-TEMPORAL REASONING AS AUDIO 4D INTELLIGENCE**](https://arxiv.org/abs/2510.24693) 🌌
+- **2025/10/25** | 🏆 [**Incentivizing Consistent, Effective and Scalable Reasoning Capability in Audio LLMs via Reasoning Process Rewards**](https://arxiv.org/abs/2510.20867) 🥇
+- **2025/10/25** | 👶 [**Can large audio language models understand child stuttering speech? speech summarization, and source separation**](https://arxiv.org/abs/2510.20850) 🗣️
+- **2025/10/25** | 🎓 [**DATA-CENTRIC LESSONS TO IMPROVE SPEECH-LANGUAGE PRETRAINING**](https://arxiv.org/abs/2510.20860) 📚
+- **2025/10/23** | 🎻 [**The MUSE Benchmark: Probing Music Perception and Auditory Relational Reasoning in Audio LLMS**](https://arxiv.org/abs/2510.19055) 🎼
+- **2025/10/21** | 📝 [**SAKE: Towards Editing Auditory Attribute Knowledge of Large Audio-Language Models**](https://arxiv.org/abs/2510.16917) ✏️
+- **2025/10/20** | 🔗 [**CLOSING THE GAP BETWEEN TEXT AND SPEECH UNDERSTANDING IN LLMS**](https://arxiv.org/abs/2510.13632) 🌉
+- **2025/10/19** | 📜 [**Extending Audio Context for Long-Form Understanding in Large Audio-Language Models**](https://arxiv.org/abs/2510.15231) 📜
+- **2025/10/15** | 🌀 [**UALM : UNIFIED AUDIO LANGUAGE MODEL FOR UNDERSTANDING, GENERATION AND REASONING**](https://arxiv.org/abs/2510.12000) 🌀
+- **2025/10/13** | 👂 [**Do Audio LLMs Really LISTEN, or Just Transcribe? Measuring Lexical vs. Acoustic Emotion Cues Reliance**](https://arxiv.org/abs/2510.10444) ❓
+- **2025/10/10** | 💭 [**CAN SPEECH LLMS THINK WHILE LISTENING?**](https://arxiv.org/abs/2510.07497) 🤔
+- **2025/10/08** | 🪄 [**LATENT SPEECH-TEXT TRANSFORMER**](https://arxiv.org/abs/2510.06195) ✨
+- **2025/10/08** | 📍 [**Sci-Phi: A Large Language Model Spatial Audio Descriptor**](https://arxiv.org/abs/2510.05542) 📐
+- **2025/10/04** | 🤖 [**AudioToolAgent: An Agentic Framework for Audio-Language Models**](https://arxiv.org/abs/2510.02995) 🛠️
+- **2025/10/01** | 🔕 [**When Silence Matters: The Impact of Irrelevant Audio on Text Reasoning in Large Audio-Language Models**](https://arxiv.org/abs/2510.00626) 🤐
+- **2025/09/29** | 📐 [**OWL: GEOMETRY-AWARE SPATIAL REASONING FOR AUDIO LARGE LANGUAGE MODELS**](https://arxiv.org/abs/2509.26140) 🦉
+- **2025/09/29** | ⚡ [**EMO-TTA: Improving Test-Time Adaptation of Audio-Language Models for Speech Emotion Recognition**](https://arxiv.org/abs/2509.25495) 🎭
+- **2025/09/24** | 💡 [**Think Smart, Not Hard: Difficulty Adaptive Reasoning for Large Audio Language Models**](https://arxiv.org/abs/2509.21960) 🧠
+- **2025/09/24** | ⛓️ [**Thinking with Sound: Audio Chain-of-Thought Enables Multimodal Reasoning in Large Audio-Language Models**](https://arxiv.org/abs/2509.21749) 💭
+- **2025/09/24** | 🎨 [**Guiding Audio Editing with Audio Language Model**](https://arxiv.org/abs/2509.21625) 🪄
+- **2025/09/23** | ⚖️ [**Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models**](https://arxiv.org/abs/2509.21060) ⚖️
+- **2025/09/23** | 🧪 [**MI-Fuse: Label Fusion for Unsupervised Domain Adaptation with Closed-Source Large-Audio Language Model**](https://arxiv.org/abs/2509.20706) 🧪
+- **2025/09/23** | 🎸 [**Investigating Modality Contribution in Audio LLMs for Music**](https://arxiv.org/abs/2509.20641) 🎷
+- **2025/09/22** | 🗣️ [**From Text to Talk: Audio-Language Model Needs Non-Autoregressive Joint Training**](https://arxiv.org/abs/2509.20072) 💬
+- **2025/09/21** | 👤 [**Can Audio Large Language Models Verify Speaker Identity?**](https://arxiv.org/abs/2509.19755) 🆔
+- **2025/09/20** | ⚠️ [**Pay More Attention To Audio: Mitigating Imbalance of Cross-Modal Attention in Large Audio Language Models**](https://arxiv.org/abs/2509.18816) 📢
+- **2025/09/16** | 🌍 [**Direct Simultaneous Translation Activation for Large Audio-Language Models**](https://arxiv.org/abs/2509.15692) 🎙️
+- **2025/09/16** | 👁️ [**SightSound-R1: Cross-Modal Reasoning Distillation from Vision to Audio Language Models**](https://arxiv.org/abs/2509.15661) 👂
+- **2025/09/16** | 🎭 [**EMO-RL: Emotion-Rule-Based Reinforcement Learning Enhanced Audio-Language Model for Generalized Speech Emotion Recognition**](https://arxiv.org/abs/2509.15654) 🤖
+- **2025/09/13** | 📊 [**Can Large Audio Language Models Understand Audio Well? Speech, Scene and Events Understanding Benchmark for LALMs**](https://arxiv.org/abs/2509.13148) 🏆
+- **2025/09/08** | 🛠️ [**AU-Harness: An Open-Source Toolkit for Holistic Evaluation of Audio LLMs**](https://arxiv.org/abs/2509.08031) 🧰
+- **2025/08/25** | 🐳 [**WoW-Bench: Evaluating Fine-Grained Acoustic Perception in Audio-Language Models via Marine Mammal Vocalizations**](https://arxiv.org/abs/2508.20976) 🐋
+- **2025/08/18** | ⚖️ [**When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models**](https://arxiv.org/abs/2508.15407) 📢
+- **2025/08/08** | 🧠 [**Audio-Thinker: Guiding Audio Language Model When and How to Think via Reinforcement Learning**](https://arxiv.org/abs/2508.08039) 💭
+- **2025/08/02** | 📊 [**SpeechR: A Benchmark for Speech Reasoning in Large Audio-Language Models**](https://arxiv.org/abs/2508.02018) 🗣️
+- **2025/07/26** | 📈 [**Self-Improvement for Audio Large Language Model using Unlabeled Speech**](https://arxiv.org/abs/2507.20169) 🔝
+- **2025/07/22** | 📍 [**SALM: Spatial Audio Language Model with Structured Embeddings for Understanding and Editing**](https://arxiv.org/abs/2507.16724) 🌐
+- **2025/07/16** | ⚖️ [**AudioJudge: Understanding What Works in Large Audio Model Based Speech Evaluation**](https://arxiv.org/abs/2507.12705) 👨‍⚖️
+- **2025/07/07** | 📜 [**ContextASR-Bench: A Massive Contextual Speech Recognition Benchmark**](https://arxiv.org/abs/2507.05727) 📜
+- **2025/06/25** | 🩺 [**Zero-Shot Cognitive Impairment Detection from Speech Using AudioLLM**](https://arxiv.org/abs/2506.17351) 🏥
+- **2025/06/19** | 🧠 [**SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models**](https://arxiv.org/abs/2506.12935) 🧠
+- **2025/06/16** | 🧬 [**PAL: Probing Audio Encoders via LLMs - Audio Information Transfer into LLMs**](https://arxiv.org/abs/2506.10423) 🧪
+- **2025/06/14** | 🗣️ [**DrVoice: Parallel Speech-Text Voice Conversation Model via Dual-Resolution Speech Representations**](https://arxiv.org/abs/2506.09349) 🎭
+- **2025/06/14** | 🏥 [**Fine-Tuning Large Audio-Language Models with LoRA for Precise Temporal Localization of Prolonged Exposure Therapy Elements**](https://arxiv.org/abs/2506.09707) 🩺
+- **2025/05/23** | 🎨 [**DECLARATIVE AUDIO EDITING WITH AUDIO LANGUAGE MODEL**](https://openreview.net/attachment?id=eNmANCkefl&name=pdf) ✍️
+- **2025/05/23** | 💭 [**ECHO: TOWARDS ADVANCED AUDIO COMPREHENSION VIA AUDIO-INTERLEAVED REASONING**](https://openreview.net/attachment?id=xI6yOdOtga&name=pdf) 🗣️
