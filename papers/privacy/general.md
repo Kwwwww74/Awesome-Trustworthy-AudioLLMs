@@ -1,3 +1,9 @@
+## 📅 2026
+- **2026/01/21** | 🔐 [**VOXPRIVACY: A BENCHMARK FOR EVALUATING INTERACTIONAL PRIVACY OF SPEECH LANGUAGE MODELS**](https://arxiv.org/abs/2601.19956) 🤫
+- **2026/01/13** | 👂 [**HearSay Benchmark: Do Audio LLMs Leak What They Hear?**](https://arxiv.org/abs/2601.03783) 🤐
+
+---
+
 ## 📅 2025
 - **2025/12/06** | 👂 [**Protecting Bystander Privacy via Selective Hearing in Audio LLMs**](https://arxiv.org/abs/2512.06380) 🔒
 - **2025/07/11** | 🕒 [**When and How Long Did Therapy Happen? Soft-Supervising Temporal Localization Using Audio-Language Models**](https://arxiv.org/abs/2506.09707) 🩺
