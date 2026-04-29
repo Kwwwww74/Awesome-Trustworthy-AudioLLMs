@@ -83,7 +83,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
   - 🚀 [Benchmark](collections/benchmark.md)
   - 🚀 [Capability](collections/capability.md)
   - 🚀 [TTS](collections/tts.md)
-  - 🚀 [Other in Audio](collections/other_in_audio.md)
+  - 🚀 [General Papers in Audio](collections/general_in_audio.md)
 
 ---
 
