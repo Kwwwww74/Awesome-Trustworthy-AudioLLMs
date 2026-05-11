@@ -89,7 +89,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 ---
 
 ## 🎒 Good Papers
-- 🏆 [*ChronosAudio: A Comprehensive Long-Audio Benchmark for Evaluating Audio-Large Language Models*](https://arxiv.org/abs/2601.04876)
+- 🏆 [ChronosAudio: A Comprehensive Long-Audio Benchmark for Evaluating Audio-Large Language Models](https://arxiv.org/abs/2601.04876)
 - 🏆 [ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation](https://arxiv.org/abs/2512.03036)
 - 🏆 [Attacker's Noise Can Manipulate Your Audio-based LLM in the Real World](https://arxiv.org/abs/2507.06256)
 - 🏆 [Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard](https://arxiv.org/abs/2511.10222)
@@ -121,7 +121,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 
 <div align="center">
 
-[Wechat Group](./resource/wechat12.jpg) 
+[Wechat Group](./resource/wechat13.jpg) 
 
 
 [Discord Group: TALLM](./resource/discord.md)
