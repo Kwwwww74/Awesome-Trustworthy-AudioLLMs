@@ -40,7 +40,8 @@
 - **2026/01/10** | 🔋 [**MoE Adapter for Large Audio Language Models: Sparsity, Disentanglement, and Gradient-Conflict-Free**](https://arxiv.org/abs/2601.02967) 🔌
 - **2026/01/10** | 🌍 [**The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models**](https://arxiv.org/abs/2601.02954) 🎧
 - **2026/01/08** | ⌚ [**WearVox: An Egocentric Multichannel Voice Assistant Benchmark for Wearables**](https://arxiv.org/abs/2601.02391) ⌚
-
+- **2026/01/06** | 🐎 [**The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models**](https://arxiv.org/abs/2601.02954) 🔥
+  
 ---
 
 ## 📅 2025
