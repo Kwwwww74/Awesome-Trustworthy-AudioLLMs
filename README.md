@@ -26,7 +26,10 @@ This repository(TALLM) serves as a **comprehensive and community-driven hub** fo
 
 It highlights research on:
 - 🛡️ **Safety**
-- ⚖️ **Fairness** - 🔮 **Hallucination** - 🔐 **Privacy** - ⚙️ **Robustness**
+- ⚖️ **Fairness**
+- 🔮 **Hallucination**
+- 🔐 **Privacy**
+- ⚙️ **Robustness**
 - 💡 **Interpretability**
 - 💻 **Security**
 - ...
