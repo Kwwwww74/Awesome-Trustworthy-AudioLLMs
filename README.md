@@ -5,6 +5,8 @@
 </div>
 
 <p align="center">
+<a href="https://arxiv.org/abs/2605.20266"> <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat-square&logo=arxiv" alt="arXiv"></a>
+<a href="https://huggingface.co/papers/2605.20266"> <img src="https://img.shields.io/badge/Hugging%20Face-Resources-ffd21e?style=flat-square&logo=huggingface" alt="Hugging Face"></a>
 <a href=""> <img src="https://img.shields.io/github/stars/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub stars"></a>
 <a href=""> <img src="https://img.shields.io/github/forks/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub forks"></a>
 <a href=""> <img src="https://img.shields.io/github/issues/Kwwwww74/Awesome-Trustworthy-AudioLLMs?style=flat-square&logo=github" alt="GitHub issues"></a>
@@ -24,10 +26,7 @@ This repository(TALLM) serves as a **comprehensive and community-driven hub** fo
 
 It highlights research on:
 - 🛡️ **Safety**
-- ⚖️ **Fairness**  
-- 🔮 **Hallucination** 
-- 🔐 **Privacy** 
-- ⚙️ **Robustness**
+- ⚖️ **Fairness** - 🔮 **Hallucination** - 🔐 **Privacy** - ⚙️ **Robustness**
 - 💡 **Interpretability**
 - 💻 **Security**
 - ...
@@ -97,7 +96,7 @@ If you want to learn more about Audio Large Language Models, you can take a look
 - 🏆 [Hidden in the Noise: Unveiling Backdoors in Audio LLMs Alignment through Latent Acoustic Pattern Triggers](https://arxiv.org/abs/2508.02175v3)
 
 ---
-## 🗞️ Recent News  
+## 🗞️ Recent News   
 - **[2025.11.12]** 🐣TALLM is released!!!
 - **[2025.11.25]** ⛰️Version1 is open to everyone!!!
 - **[2025.11.26]** 🍠TALLM has posted on xhs!!!
@@ -108,10 +107,11 @@ If you want to learn more about Audio Large Language Models, you can take a look
 - **[2026.03.18]** 🆕2026.01 - 2026.03 papers are collected!!!
 - **[2026.04.14]** 🆕2026.04 papers are collected!!!
 - **[2026.04.25]** 🐶Version2 is open to everyone!!!
+- **[2026.05.21]** 📑Survey Paper is uploaded!!!
 
 ---
 
-## 🤝 How to Contribute  
+## 🤝 How to Contribute   
 
 *We welcome contributions from researchers and practitioners!  If you'd like to submit a piece of writing, please write an email to **kaiwenluo74@gmail.com** or write your paper link in **issues part**. Then we can add the article in.*
 
@@ -138,6 +138,4 @@ If you want to learn more about Audio Large Language Models, you can take a look
 ## 🙏 Acknowledgement
 
 - Organizers: [Kevin Luo](https://kwwwww74.github.io), [Zhenhong Zhou](https://ydyjya.github.io), [Liang Lin](https://scholar.google.com/citations?user=XQNpChIAAAAJ&hl=en), [Yuting Ruan](https://github.com/ryt173), [Yuanhe Zhang](https://scholar.google.com/citations?user=t1YN_XUAAAAJ&hl=en), [Tianyu Shao](https://github.com/aidawang-sys)
-- Thank you to all those who have followed this project. 
-
-
+- Thank you to all those who have followed this project.
