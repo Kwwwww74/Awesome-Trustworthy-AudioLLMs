@@ -24,6 +24,7 @@
 - **2026/02/05** | 🏰 [**HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing**](https://arxiv.org/abs/2602.04535) 🛡️
 - **2026/02/05** | 🎸 [**BASS: Benchmarking Audio LMs for Musical Structure and Semantic Reasoning**](https://arxiv.org/abs/2602.04085) 🎸
 - **2026/02/04** | 🌗 [**Decoding Ambiguous Emotions with Test-Time Scaling in Audio-Language Models**](https://arxiv.org/abs/2602.03873) 🎭
+- **2026/02/04** | 🌗 [**LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues**](https://arxiv.org/abs/2602.04796) 🎭
 - **2026/02/02** | ⚖️ [**Bias in the Ear of the Listener: Assessing Sensitivity in Audio Language Models Across Linguistic, Demographic, and Positional Variations**](https://arxiv.org/abs/2602.01030) 👂
 - **2026/02/02** | ⚗️ [**Attention-weighted Centered Kernel Alignment for Knowledge Distillation in Large Audio-Language Models Applied to Speech Emotion Recognition**](https://arxiv.org/abs/2602.01547) 🧪
 - **2026/01/26** | 🔊 [**Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models**](https://arxiv.org/abs/2601.23255) ⚠️
