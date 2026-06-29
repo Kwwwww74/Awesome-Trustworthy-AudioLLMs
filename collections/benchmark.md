@@ -3,6 +3,7 @@
 ---
 
 ## 📅 2026
+- **2026/06/24** | 🎧 [**From Sounds to Scenes: A Benchmark for Evaluating Context-Aware Auditory Scene Understanding in Large Audio Language Models**](https://arxiv.org/abs/2606.25391) 🧠
 - **2026/04/13** | 🎭 [**HumDial-EIBench: A Human-Recorded Multi-Turn Emotional Intelligence Benchmark for Audio Language Models**](https://arxiv.org/abs/2604.11594) 🧠
 - **2026/01/21** | 🎯 [**AQAScore: Evaluating Semantic Alignment in Text-to-Audio Generation via Audio Question Answering**](https://arxiv.org/abs/2601.14728) ⚖️
 - **2026/01/15** | 🏙️ [**RSA-Bench: Benchmarking Audio Large Models in Real-World Acoustic Scenarios**](https://arxiv.org/abs/2601.10384) 🎧
