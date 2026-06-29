@@ -4,6 +4,16 @@
 
 ## 📅 2026
 - **2026/06/24** | 🎧 [**From Sounds to Scenes: A Benchmark for Evaluating Context-Aware Auditory Scene Understanding in Large Audio Language Models**](https://arxiv.org/abs/2606.25391) 🧠
+- **2026/06/23** | 🎙️ [**ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for LALM-as-a-Judge**](https://arxiv.org/abs/2606.24648) ⚖️
+- **2026/06/09** | 👂 [**RAIL: Rethinking Auditory Intelligence in Large Audio-Language Models with a CHC-Grounded Benchmark**](https://arxiv.org/abs/2606.11260) 🧩
+- **2026/06/06** | 🌍 [**GlobeAudio: A Multilingual Multicultural Benchmark for Naturalistic Evaluation of Large Audio-Language Models**](https://arxiv.org/abs/2606.08194) 🎧
+- **2026/05/31** | 🌐 [**PolySpeech-100: A Large-Scale Benchmark for Speech Understanding Across 100+ Languages and Dialects**](https://arxiv.org/abs/2606.01016) 🗣️
+- **2026/05/28** | 🛡️ [**Audio Jailbreaks in Large Audio-Language Models: Taxonomy, Attack-Defense Analysis, and Cost-Aware Evaluation**](https://arxiv.org/abs/2605.30031) 🔒
+- **2026/05/28** | 👶 [**ChildVox: A Speech, Audio, and Large Audio-Language Model Benchmark in Understanding and Characterizing Sound across Childhood**](https://arxiv.org/abs/2605.29257) 🎙️
+- **2026/05/27** | 🦒 [**VoiceGiraffe: A Benchmark for Extreme Long-Context Audio-Language Understanding**](https://arxiv.org/abs/2605.27976) ⏳
+- **2026/05/26** | 🎭 [**Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox**](https://arxiv.org/abs/2605.27772) 👂
+- **2026/05/25** | 🎼 [**PitchBench: Measuring Pitch Hearing in Audio-Language Models**](https://arxiv.org/abs/2605.26176) 🎵
+- **2026/05/17** | 🎧 [**Can Large Audio Language Models Ignore Multilingual Distractors? An Evaluation of Their Selective Auditory Attention Capabilities**](https://arxiv.org/abs/2605.17225) 🌐
 - **2026/04/13** | 🎭 [**HumDial-EIBench: A Human-Recorded Multi-Turn Emotional Intelligence Benchmark for Audio Language Models**](https://arxiv.org/abs/2604.11594) 🧠
 - **2026/01/21** | 🎯 [**AQAScore: Evaluating Semantic Alignment in Text-to-Audio Generation via Audio Question Answering**](https://arxiv.org/abs/2601.14728) ⚖️
 - **2026/01/15** | 🏙️ [**RSA-Bench: Benchmarking Audio Large Models in Real-World Acoustic Scenarios**](https://arxiv.org/abs/2601.10384) 🎧
