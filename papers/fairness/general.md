@@ -1,5 +1,10 @@
 ## 📅 2026
+- **2026/05/02** | 🧭 [**Toward Fair Speech Technologies: A Comprehensive Survey of Bias and Fairness in Speech AI**](https://arxiv.org/abs/2605.01597) ⚖️
+- **2026/04/23** | 🎧 [**Do LLM Decoders Listen Fairly? Benchmarking How Language Model Priors Shape Bias in Speech Recognition**](https://arxiv.org/abs/2604.21276) 🧪
+- **2026/04/19** | 🗣️ [**VIBE: Voice-Induced open-ended Bias Evaluation for Large Audio-Language Models via Real-World Speech**](https://arxiv.org/abs/2604.17248) 📊
 - **2026/03/27** | ⚖️ [**ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in Multilingual Multimodal Speech-LLM Emotion Recognition**](https://arxiv.org/abs/2603.21050) ⚧️
+- **2026/03/15** | 🌐 [**The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs**](https://arxiv.org/abs/2603.16941) 🧬
+- **2026/03/11** | 🎚️ [**MOS-Bias: From Hidden Gender Bias to Gender-Aware Speech Quality Assessment**](https://arxiv.org/abs/2603.10723) 🧩
 - **2026/02/25** | ⚖️ [**Evaluation of Audio Language Models for Fairness, Safety, and Security**](https://arxiv.org/abs/2603.13262) 🛡️
 - **2026/02/02** | ⚖️ [**Bias in the Ear of the Listener: Assessing Sensitivity in Audio Language Models Across Linguistic, Demographic, and Positional Variations**](https://arxiv.org/abs/2602.01030) 👂
 - **2026/01/21** | 🔐 [**VOXPRIVACY: A Benchmark for Evaluating Interactional Privacy of Speech Language Models**](https://arxiv.org/abs/2601.19956) 🤫
@@ -19,7 +24,11 @@
 - **2025/09/27** | 🤝 [**Evaluating Bias in Spoken Dialogue LLMs for Real-World Decisions and Recommendations**](https://arxiv.org/abs/2510.02352) ⚖️
 - **2025/09/26** | 💎 [**Investigating Faithfulness in Large Audio Language Models**](https://arxiv.org/abs/2509.22363) 📖
 - **2025/09/24** | 📊 [**Do Bias Benchmarks Generalise? Evidence from Voice-based Evaluation of Gender Bias in SpeechLLMs**](https://arxiv.org/abs/2510.01254) 🚺
+- **2025/09/15** | 🧠 [**Preservation of Language Understanding Capabilities in Speech-aware Large Language Models**](https://arxiv.org/abs/2509.12171) 🎙️
+- **2025/08/29** | 📏 [**AHELM: A Holistic Evaluation of Audio-Language Models**](https://arxiv.org/abs/2508.21376) 🧰
+- **2025/08/19** | 🎤 [**Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM**](https://arxiv.org/abs/2508.13603) 🚻
 - **2025/07/14** | 🕵️‍♂️ [**The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents**](https://arxiv.org/abs/2507.10016) 🔒
 - **2025/05/28** | ⚖️ [**Reshaping Representation Space to Balance the Safety and Over-rejection in Large Audio Language Models**](https://arxiv.org/abs/2505.19670) 🛡️
 - **2025/05/27** | 🛡️ [**Towards Reliable Large Audio Language Model**](https://arxiv.org/abs/2505.19294) ✅
 - **2025/05/23** | 🛡️ [**AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large Language Models**](https://arxiv.org/abs/2505.16211) 🏗️
+- **2025/02/08** | 🗣️ [**Gender Bias in Instruction-Guided Speech Synthesis Models**](https://arxiv.org/abs/2502.05649) 🧬
