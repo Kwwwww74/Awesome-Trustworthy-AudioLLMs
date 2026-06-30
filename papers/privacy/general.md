@@ -1,4 +1,5 @@
 ## 📅 2026
+- **2026/03/12** | 🧠 [**Edge-Cloud Collaborative Speech Emotion Captioning via Token-Level Speculative Decoding in Audio-Language Models**](https://arxiv.org/abs/2603.11397) 🔐
 - **2026/01/21** | 🔐 [**VOXPRIVACY: A BENCHMARK FOR EVALUATING INTERACTIONAL PRIVACY OF SPEECH LANGUAGE MODELS**](https://arxiv.org/abs/2601.19956) 🤫
 - **2026/01/13** | 👂 [**HearSay Benchmark: Do Audio LLMs Leak What They Hear?**](https://arxiv.org/abs/2601.03783) 🤐
 
@@ -6,6 +7,7 @@
 
 ## 📅 2025
 - **2025/12/06** | 👂 [**Protecting Bystander Privacy via Selective Hearing in Audio LLMs**](https://arxiv.org/abs/2512.06380) 🔒
+- **2025/07/14** | 🕵️ [**The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents**](https://arxiv.org/abs/2507.10016) 🎙️
 - **2025/07/11** | 🕒 [**When and How Long Did Therapy Happen? Soft-Supervising Temporal Localization Using Audio-Language Models**](https://arxiv.org/abs/2506.09707) 🩺
 - **2025/01/30** | 🛡️ [**Exploring Audio Editing Features as User-Centric Privacy Defenses Against Large Language Model (LLM) Based Emotion Inference Attacks**](https://arxiv.org/abs/2501.18727) 🎭
 - **2025/01/23** | 🔐 [**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**](https://arxiv.org/abs/2501.13904) 🌐
