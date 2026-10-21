@@ -1,12 +1,125 @@
 # 📊 Benchmarks & Evaluation
 
 ---
-
 ## 📅 2026
+
+- **2026/10/20** | 🗣️ [**DuplexLedger: Benchmarking Transactional Memory in Full-Duplex Speech Agents**](https://arxiv.org/abs/2610.27581) ⏱️
+- **2026/10/16** | 🎙️ [**VocalGrad: Evaluating Acoustic Perception in Audio Language Models**](https://arxiv.org/abs/2610.23745) 💬
+- **2026/10/16** | 🎵 [**MUB: An Identity-Masked Benchmark for Music Understanding in Multimodal Language Models**](https://arxiv.org/abs/2610.22989) 🎼
+- **2026/10/15** | 🎧 [**TRACE: Trustworthy Reasoning from Acoustic Cues and Evidence**](https://arxiv.org/abs/2610.26894) 🧠
+- **2026/10/14** | 🎙️ [**MedSonor: Learning to Use Clinical Audio in Medical LLMs**](https://arxiv.org/abs/2610.22405) 💬
+- **2026/10/14** | 🗣️ [**MultiPartyTurnBench: Benchmarking Floor Control in Multi-Party Spoken Dialogue**](https://arxiv.org/abs/2610.20172) ⏱️
+- **2026/10/14** | 🎧 [**ACR-Net: Mitigating Semantic Dominance via Contrastive Acoustic-Semantic Decoupling**](https://arxiv.org/abs/2610.20114) 🧠
+- **2026/10/13** | 🗣️ [**DuplexAct: How Interactive Are Frontier Full-Duplex Spoken Language Models?**](https://arxiv.org/abs/2610.17738) ⏱️
+- **2026/10/12** | 🎧 [**ATTEST: Evidence-Grounded Reinforcement Learning for Long-Audio Temporal Understanding**](https://arxiv.org/abs/2610.17149) 🧠
+- **2026/10/12** | 🎧 [**SonicWorld: Source-Centric Latent Dynamics for Spatial Audio Reasoning**](https://arxiv.org/abs/2610.17131) 🧠
+- **2026/10/12** | 🎧 [**UA-Bench: Benchmarking Large Audio-Language Models on Underwater Acoustic Recognition**](https://arxiv.org/abs/2610.16942) 🧠
+- **2026/10/11** | 🎵 [**HMU-Bench: Hierarchical Music Understanding Benchmark for Omni Models**](https://arxiv.org/abs/2610.15773) 🎼
+- **2026/10/08** | 🗣️ [**SteerablePlex: Can We Steer Full-Duplex Models?**](https://arxiv.org/abs/2610.12201) ⏱️
+- **2026/10/07** | 🎧 [**BEANS-Next and ROOTS: Broadening Audio-Language Capabilities for Bioacoustics**](https://arxiv.org/abs/2610.10663) 🧠
+- **2026/10/07** | 🎙️ [**CARES: A Controlled Synthetic Benchmark of Speaker Reactions to Sound**](https://arxiv.org/abs/2610.10208) 💬
+- **2026/10/06** | 🗣️ [**PERSIST: Who-What-When Memory Across Sessions for Full-Duplex Spoken Dialogue**](https://arxiv.org/abs/2610.07725) ⏱️
+- **2026/10/05** | 🎧 [**Logbook: Extremely Long-form Audio Event Understanding**](https://arxiv.org/abs/2610.07338) 🧠
+- **2026/10/02** | 🎵 [**Extending Music Annotation Schemas: Zero-Shot Prediction or Few-Shot Adaptation?**](https://arxiv.org/abs/2610.06920) 🎼
+- **2026/09/30** | 🗣️ [**DuplexAct-Bench: Broadening Full-Duplex Speech Evaluation toward Proactive Interaction across Diverse Behavioral Requirements**](https://arxiv.org/abs/2609.39446) ⏱️
+- **2026/09/30** | 🎙️ [**Talk2Agent: Benchmarking Voice Interfaces for Text Agents**](https://arxiv.org/abs/2609.38867) 💬
+- **2026/09/29** | 🗣️ [**DuplexSpeechBench-Document Grounding: Benchmarking Document Grounding and Hallucinations in Voice Agents**](https://arxiv.org/abs/2610.00316) ⏱️
+- **2026/09/29** | 🗣️ [**VAmoS Part Deux: Harder, More Realistic Voice-Agent Simulation**](https://arxiv.org/abs/2609.38512) ⏱️
+- **2026/09/29** | 🎙️ [**Voices as Handles: Reasoning about Speaker Identity with Frozen Text LLMs**](https://arxiv.org/abs/2609.38501) 💬
+- **2026/09/29** | 🗣️ [**MultiTalk: Scaling Full-Duplex Speech Models to Long, Multi-Party, Bilingual Conversation**](https://arxiv.org/abs/2609.36903) ⏱️
+- **2026/09/28** | 🎙️ [**HEAR: Real Voices, Real Bias: A Large-Scale Human-Recorded, Demographically Diverse Benchmark for Audio Language Models**](https://arxiv.org/abs/2609.35952) 🛡️
+- **2026/09/28** | 🎧 [**Probing Large Audio-Language Models for Compositional Understanding of Sounding Actions**](https://arxiv.org/abs/2609.35345) 🧠
+- **2026/09/28** | 🗣️ [**APEX-Voice: Can Voice Agents Complete Professional Workflows Through Full-Duplex Interaction**](https://arxiv.org/abs/2609.34973) ⏱️
+- **2026/09/27** | 🎙️ [**NSV-Shift: A Contrastive Benchmark for Non-Speech Vocalization Understanding and Response Adaptation in Speech-to-Speech Models**](https://arxiv.org/abs/2609.33899) 💬
+- **2026/09/27** | 🎧 [**MISHAP-Bench: A Hallucination Benchmark for Large Audio-Language Models**](https://arxiv.org/abs/2609.33893) 🧠
+- **2026/09/26** | 🎧 [**VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models**](https://arxiv.org/abs/2609.32607) 🧠
+- **2026/09/26** | 🗣️ [**Do Audio LLMs Listen Before They Act? Diagnosing Acoustic-Context Gating in Voice Agents**](https://arxiv.org/abs/2609.32536) ⏱️
+- **2026/09/26** | 🎧 [**Toward Human-Aligned Judgement of Speech Emotion Similarity**](https://arxiv.org/abs/2609.32504) ⚖️
+- **2026/09/25** | 🗣️ [**IndicFDB: Benchmarking Full-Duplex Voice Agents across Indian Languages**](https://arxiv.org/abs/2609.31967) ⏱️
+- **2026/09/25** | 🗣️ [**Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialogue**](https://arxiv.org/abs/2609.31948) ⏱️
+- **2026/09/24** | 🗣️ [**When Intent Arrives Late: A Benchmark for Full-Duplex Speech Models under Delayed Intent Revelation**](https://arxiv.org/abs/2610.00272) ⏱️
+- **2026/09/24** | 🎵 [**AcoustiClaim: A Numeric Claim Benchmark with Instrument Ground Truth**](https://arxiv.org/abs/2609.30483) 🎼
+- **2026/09/24** | 🎙️ [**To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech**](https://arxiv.org/abs/2609.30227) 💬
+- **2026/09/23** | 🗣️ [**Neither Silence nor Overlap Is Failure: Intent-Conditioned Evaluation of Turn-Taking in Full-Duplex Spoken Dialogue Models**](https://arxiv.org/abs/2609.27372) ⏱️
+- **2026/09/21** | 🗣️ [**τ-Multilingual: Benchmarking Voice Agents Across Languages**](https://arxiv.org/abs/2609.35820) ⏱️
+- **2026/09/21** | 🎙️ [**MSI-Bench: Evaluating Multi-Speaker Voice Interaction for Collaborative AI Agents**](https://arxiv.org/abs/2609.24812) 💬
+- **2026/09/20** | 🎧 [**MuLA-Bench: A Multilingual Long-Form Audio Understanding Benchmark via Multi-Tier Auditing**](https://arxiv.org/abs/2609.23416) 🧠
+- **2026/09/19** | 🎙️ [**ParA-LLM: A Unified Approach to Paralinguistic and Acoustic Speech Understanding**](https://arxiv.org/abs/2609.22771) 💬
+- **2026/09/18** | 🎧 [**SEABED: SouthEast Asian Benchmark for Evaluating Audio Reasoning**](https://arxiv.org/abs/2609.22586) 🧠
+- **2026/09/18** | 🎧 [**Vox-Infinity: Benchmarking the Limits of Long-Context Spoken Language Models**](https://arxiv.org/abs/2609.22452) 🧠
+- **2026/09/17** | 🎧 [**VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering**](https://arxiv.org/abs/2609.19879) 🧠
+- **2026/09/16** | 🎙️ [**TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection**](https://arxiv.org/abs/2609.18748) 🛡️
+- **2026/09/16** | 🎙️ [**VoiceTrace: A Benchmark and Retrieval Framework for Who-Said-What Speech Retrieval**](https://arxiv.org/abs/2609.18521) 💬
+- **2026/09/15** | 🗣️ [**RoleBreak: Benchmarking Long-Horizon Role-Playing Robustness in Spoken Dialogue**](https://arxiv.org/abs/2609.16614) ⏱️
+- **2026/09/12** | 🎧 [**HARP: Agentic Hybrid Retrieval and Analysis for Long-Form Audio**](https://arxiv.org/abs/2609.14116) 🧠
+- **2026/09/11** | 🗣️ [**τ-Elicitation: Benchmarking multi-turn entity extraction in voice agents**](https://arxiv.org/abs/2609.13602) ⏱️
+- **2026/09/11** | 🗣️ [**MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant**](https://arxiv.org/abs/2609.13076) ⏱️
+- **2026/09/11** | 🗣️ [**SteerDuplex: Steerable Duplex Speech Dialogue Models**](https://arxiv.org/abs/2609.12623) ⏱️
+- **2026/09/10** | 🎧 [**AudioICL-Bench: A Benchmark for Large Audio Language Model In-Context Learning**](https://arxiv.org/abs/2609.11252) 🧠
+- **2026/09/09** | 🗣️ [**From Metrics to Natural Dialogue: French Full-Duplex Benchmark for Spoken Dialogue Models**](https://arxiv.org/abs/2609.10765) ⏱️
+- **2026/09/09** | 🎙️ [**SpeechAnnotator: A Context-Aware Multi-Agent Framework and Benchmark for Multidimensional Speech Annotation**](https://arxiv.org/abs/2609.09947) 💬
+- **2026/09/09** | 🎙️ [**NVV-Locator: From Transcript Tags to Acoustic Boundaries for Fine-Grained Nonverbal Vocalization Grounding**](https://arxiv.org/abs/2609.09940) 💬
+- **2026/09/09** | 🎙️ [**SEA-SpeechBench: A Large-Scale Multitask Benchmark for Speech Understanding Across Southeast Asia**](https://arxiv.org/abs/2609.09672) 💬
+- **2026/09/03** | 🎧 [**ToolDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection**](https://arxiv.org/abs/2609.03620) 🧠
+- **2026/09/03** | 🗣️ [**DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents**](https://arxiv.org/abs/2609.03423) ⏱️
+- **2026/09/02** | 🎧 [**Auditory Illusion Benchmark for Large Audio Language Models**](https://arxiv.org/abs/2609.02277) 🧠
+- **2026/09/01** | 🎧 [**TAG-Bench: Benchmarking Temporal Audio Grounding in Large Audio Language Models**](https://arxiv.org/abs/2609.01542) 🧠
+- **2026/09/01** | 🎙️ [**VoiceLongMemEval: Do Assistants Remember How You Sounded?**](https://arxiv.org/abs/2609.00570) 💬
+- **2026/08/30** | 🎧 [**TEMPO: Temporally-grounded Multi-task Post-training for Large Audio-Language Models**](https://arxiv.org/abs/2608.29999) 🧠
+- **2026/08/30** | 🎵 [**Note-Level Temporal Grounding of Musical Concepts in Large Audio-Language Models**](https://arxiv.org/abs/2608.29480) 🎼
+- **2026/08/29** | 🎙️ [**HEAR Who Said What: Unlocking Speaker-Attributed Reasoning via Counterfactual Voice Grounding**](https://arxiv.org/abs/2608.29120) 💬
+- **2026/08/28** | 🎙️ [**VocalAffectBench: Evaluating Vocal Emotion Recognition in AI Audio Models**](https://arxiv.org/abs/2608.28932) 💬
+- **2026/08/28** | 🎙️ [**A Shaky Voice Is Not Always a Dodge: Benchmarking Textual and Vocal Evasion Detection in Earnings Calls**](https://arxiv.org/abs/2608.28040) 🛡️
+- **2026/08/27** | 🎧 [**When Text Misleads: Inconsistent-Aware Reasoning for Audio-Grounded Dialogue**](https://arxiv.org/abs/2608.27176) 🧠
+- **2026/08/26** | 🎧 [**LongAudioSpan: Spanning the Duration and Depth of Audio Comprehension**](https://arxiv.org/abs/2608.26431) 🧠
+- **2026/08/25** | 🎙️ [**AudioLens: Multi-Perspective Speech Clustering with Reasoning Audio-Language Models**](https://arxiv.org/abs/2608.25177) 💬
+- **2026/08/25** | 🎙️ [**Lost in Speech: Trilingual Spoken Hallucination Detection Across Audio and Transcripts**](https://arxiv.org/abs/2608.24707) 💬
+- **2026/08/24** | 🎧 [**EXAM2: Extending Audio Understanding in Multilingual and Multimodal Analysis**](https://arxiv.org/abs/2608.23758) 🧠
+- **2026/08/23** | 🎧 [**MRMAD: A Multi-Round Multi-Audio Benchmark for Evaluating Acoustic Degradation Perception in Large Audio-Language Models**](https://arxiv.org/abs/2608.22236) 🧠
+- **2026/08/20** | 🎙️ [**Hear2Act: Benchmarking When Prosody Should Change What an Assistant Does**](https://arxiv.org/abs/2608.19515) 💬
+- **2026/08/18** | 🎙️ [**SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis**](https://arxiv.org/abs/2608.17931) 💬
+- **2026/08/18** | 🎵 [**UniVerse: Benchmarking and Enhancing LALMs on Culturally Inclusive Low-Resource Music Understanding**](https://arxiv.org/abs/2608.17852) 🎼
+- **2026/08/17** | 🎙️ [**INSPIRE: A Benchmark for Instruction-Aware Speech Retrieval**](https://arxiv.org/abs/2608.16203) 💬
+- **2026/08/12** | 🎙️ [**The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**](https://arxiv.org/abs/2608.12034) 💬
+- **2026/08/11** | 🗣️ [**DuplexWorld: Can voice agents help you get through the day?**](https://arxiv.org/abs/2608.10716) ⏱️
+- **2026/08/10** | 🎧 [**Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions**](https://arxiv.org/abs/2608.09930) ⚖️
+- **2026/08/10** | 🎙️ [**EmoS: A Theory-Grounded Framework for Evaluating and Aligning Emotional Intelligence in Spoken Language Models**](https://arxiv.org/abs/2608.09189) 💬
+- **2026/08/07** | 🗣️ [**PACE: A Playback-Aligned Context Engine for LLM-Based Full-Duplex Voice Dialogue**](https://arxiv.org/abs/2608.07631) ⏱️
+- **2026/08/06** | 🎙️ [**VocalCoachBench: Benchmarking Audio-Language Models on Expert Feedback for Singing**](https://arxiv.org/abs/2609.04241) 💬
+- **2026/08/06** | 🗣️ [**FormBharo: Designing and Evaluating a Voice Agent for Conversational Form Filling in Rural India**](https://arxiv.org/abs/2608.06027) ⏱️
+- **2026/08/04** | 🎧 [**Towards More Expressive Spoken LLMs: Fine-Grained Intent Benchmarking and Acoustic-Lexical Decoupled Policy Optimization**](https://arxiv.org/abs/2608.03054) 🧠
+- **2026/07/31** | 🗣️ [**M3-DuplexBench: A Multi-Turn, Multilingual, Multidomain Benchmark for Full-Duplex Spoken Dialogue Models**](https://arxiv.org/abs/2607.29125) ⏱️
+- **2026/07/30** | 🎧 [**TORUS: A Test of Rendering-Understanding Self-Coherence for Unified Audio Models**](https://arxiv.org/abs/2607.28896) 🧠
+- **2026/07/30** | 🎙️ [**Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents**](https://arxiv.org/abs/2607.28165) 🛡️
+- **2026/07/29** | 🗣️ [**VAmoS Bench: Voice Agent Simulation Bench**](https://arxiv.org/abs/2607.27453) ⏱️
+- **2026/07/29** | 🎧 [**MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning**](https://arxiv.org/abs/2607.27109) 🧠
+- **2026/07/29** | 🎙️ [**Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis**](https://arxiv.org/abs/2607.26541) 🛡️
+- **2026/07/26** | 🎧 [**Indic DiarBench: A Multilingual Joint Diarization and ASR Benchmark for Indian Languages**](https://arxiv.org/abs/2607.23808) 🧠
+- **2026/07/20** | 🎙️ [**ESCUCHA: A Spanish Speech Benchmark for Heterogeneous Acoustic Conditions**](https://arxiv.org/abs/2607.17812) 💬
+- **2026/07/16** | 🎙️ [**RW-Voice-EQ Bench: A Real World Benchmark for Evaluating Voice AI Systems**](https://arxiv.org/abs/2607.14846) 💬
+- **2026/07/07** | 🎵 [**Music I Care About: Automated Multimodal Benchmarking of LLM Music Perception Skills on (Almost) Any Music**](https://arxiv.org/abs/2607.06015) 🎼
+- **2026/07/06** | 🎙️ [**SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models**](https://arxiv.org/abs/2607.05365) 💬
+- **2026/07/05** | 🎧 [**Auto-AEG: Scalable Data Construction for Open-Vocabulary Audio Event Grounding**](https://arxiv.org/abs/2607.04383) 🧠
+- **2026/06/30** | 🎵 [**Beyond Binary Instrument QA: Probing Instrument Grounding in Music Audio-Language Models**](https://arxiv.org/abs/2606.31338) 🎼
+- **2026/06/28** | 🎙️ [**Preference-ASR: A Preference-Aware Test Set for Benchmarking ASR in the Era of Speech LLMs**](https://arxiv.org/abs/2606.29534) 💬
+- **2026/06/27** | 🎙️ [**StanceBench: A Benchmark for Audio LLM-Based Interpersonal Stance Evaluation from Speech**](https://arxiv.org/abs/2607.22658) 💬
+- **2026/06/25** | 🎙️ [**RedVox: Safety and Fairness Gaps in Speech Models Across Languages**](https://arxiv.org/abs/2606.26968) 🛡️
+- **2026/06/24** | 🎙️ [**SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models**](https://arxiv.org/abs/2606.25990) 💬
 - **2026/06/24** | 🎧 [**From Sounds to Scenes: A Benchmark for Evaluating Context-Aware Auditory Scene Understanding in Large Audio Language Models**](https://arxiv.org/abs/2606.25391) 🧠
 - **2026/06/23** | 🎙️ [**ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for LALM-as-a-Judge**](https://arxiv.org/abs/2606.24648) ⚖️
+- **2026/06/22** | 🎙️ [**MSU-Bench: Towards Speaker-Centric Understanding in Conversational Multi-Speaker Scenarios**](https://arxiv.org/abs/2606.22868) 💬
+- **2026/06/19** | 🎙️ [**AOR-Bench: Do Large Audio Language Models Over-Refuse Pseudo-Harmful Queries?**](https://arxiv.org/abs/2606.21147) 🛡️
+- **2026/06/17** | 🗣️ [**IHBench: Evaluating Post-Interruption Recovery in Voice Agents with Structured Workflows**](https://arxiv.org/abs/2606.19595) ⏱️
+- **2026/06/17** | 🎧 [**IndicContextEval: A Benchmark for Evaluating Context Utilisation in Audio Large Language Models Across 8 Indic Languages**](https://arxiv.org/abs/2606.19157) 🧠
+- **2026/06/16** | 🎧 [**A Closer Look at Failure Modes in Temporal Understanding of Large Audio-Language Models**](https://arxiv.org/abs/2606.17417) 🧠
+- **2026/06/14** | 🎙️ [**Bridging the SEA Gap: An Initial Benchmark for Neural Audio Codec-Synthesized Speech Deepfakes in South-East Asian Languages**](https://arxiv.org/abs/2606.15968) 💬
+- **2026/06/12** | 🎧 [**Spatio-Temporal Audio Language Modeling for Dynamic Sound Sources**](https://arxiv.org/abs/2606.14141) 🧠
+- **2026/06/09** | 🗣️ [**Overcoming State Inertia in Full-Duplex Spoken Language Models via Activation Steering**](https://arxiv.org/abs/2606.11386) ⏱️
 - **2026/06/09** | 👂 [**RAIL: Rethinking Auditory Intelligence in Large Audio-Language Models with a CHC-Grounded Benchmark**](https://arxiv.org/abs/2606.11260) 🧩
-- **2026/06/06** | 🌍 [**GlobeAudio: A Multilingual Multicultural Benchmark for Naturalistic Evaluation of Large Audio-Language Models**](https://arxiv.org/abs/2606.08194) 🎧
+- **2026/06/07** | 🎧 [**AudioProcessBench: Benchmark for Identifying Process Errors in Audio-Grounded Reasoning**](https://arxiv.org/abs/2606.09925) 🧠
+- **2026/06/06** | 🎧 [**GlobeAudio: A Multilingual Multicultural Benchmark for Naturalistic Evaluation of Large Audio-Language Models**](https://arxiv.org/abs/2606.08194) 🧠
+- **2026/06/04** | 🎙️ [**SpeechJBB: Probing Safety Alignment and Comprehension in Large Audio Language Models under Code-Switched Speech**](https://arxiv.org/abs/2606.06037) 🛡️
+- **2026/06/02** | 🎧 [**AnyAudio-Judge: A Dynamic Rubric-Based Benchmark and Evaluator for Audio Instruction Following**](https://arxiv.org/abs/2606.03116) ⚖️
 - **2026/05/31** | 🌐 [**PolySpeech-100: A Large-Scale Benchmark for Speech Understanding Across 100+ Languages and Dialects**](https://arxiv.org/abs/2606.01016) 🗣️
 - **2026/05/28** | 🛡️ [**Audio Jailbreaks in Large Audio-Language Models: Taxonomy, Attack-Defense Analysis, and Cost-Aware Evaluation**](https://arxiv.org/abs/2605.30031) 🔒
 - **2026/05/28** | 👶 [**ChildVox: A Speech, Audio, and Large Audio-Language Model Benchmark in Understanding and Characterizing Sound across Childhood**](https://arxiv.org/abs/2605.29257) 🎙️
