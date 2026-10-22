@@ -1,6 +1,217 @@
 ## 📅 2026
+
+- **2026/10/21** | 🦖 [**Closed-Loop Dual-Reference Guidance for Accent Control in Cross-Lingual Voice Cloning**](https://arxiv.org/abs/2610.29351) 🛼
+- **2026/10/21** | 🧁 [**Decodability Is Not Controllability: Local and Anisotropic Speaker Control in Continuous-Latent TTS**](https://arxiv.org/abs/2610.29345) 🧸
+- **2026/10/21** | 🌵 [**Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach**](https://arxiv.org/abs/2610.29123) 🪐
+- **2026/10/20** | 🌵 [**LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS**](https://arxiv.org/abs/2610.28035) 🦊
+- **2026/10/19** | 🦄 [**Steering intonational tunes in text-to-speech synthesis**](https://arxiv.org/abs/2610.27403) 🍄
+- **2026/10/19** | 🧸 [**SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS**](https://arxiv.org/abs/2610.26252) 🐬
+- **2026/10/19** | 🐬 [**Speech LLMs That Breathe: Modeling Non-Verbal Vocalizations in Dialogue**](https://arxiv.org/abs/2610.25942) 🐳
+- **2026/10/18** | 🐙 [**MixiSpeech: Progressive State Distillation for One-Step Vietnamese TTS**](https://arxiv.org/abs/2610.25394) 🐬
+- **2026/10/18** | 🦩 [**Does Expert Supervision Improve Text-to-Speech? An Empirical Study of Preference Optimization**](https://arxiv.org/abs/2610.25292) 🎡
+- **2026/10/16** | 🪁 [**Pronouncing Hard Words: Phoneme Adaptation of a Pretrained Conversational Text to Speech Model**](https://arxiv.org/abs/2610.24164) 🍀
+- **2026/10/16** | 🦜 [**DriftTTS: One-stage Single Step Text-to-Speech via Generative Drifting**](https://arxiv.org/abs/2610.22960) 🦊
+- **2026/10/14** | 🪁 [**Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization**](https://arxiv.org/abs/2610.20181) 🧊
+- **2026/10/14** | 🦩 [**Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning**](https://arxiv.org/abs/2610.19774) 🦖
+- **2026/10/14** | 🐢 [**Speaking Longer Than Learned: Training-Free Long-Form Generation for Full-Stream Text-to-Speech**](https://arxiv.org/abs/2610.19553) 🧸
+- **2026/10/14** | 🧸 [**Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech**](https://arxiv.org/abs/2610.19499) 🦩
+- **2026/10/13** | 🦩 [**PhonoVoxtLM: Exploring Single-Codebook Phonological Tokens for Speech Understanding and Generation**](https://arxiv.org/abs/2610.18469) 🍋
+- **2026/10/13** | 🍉 [**Fish Audio Drama 3 Technical Report**](https://arxiv.org/abs/2610.18010) 🐙
+- **2026/10/13** | 🪐 [**Beyond Fixed Targets: On-Policy One-Shot Speaker Personalization for Autoregressive Text-To-Speech Models**](https://arxiv.org/abs/2610.17838) 🎡
+- **2026/10/11** | 🎡 [**AnyEdit: A Unified Framework for Speech and Singing Voice Editing with Real-World Environmental Consistency**](https://arxiv.org/abs/2610.15665) 🪴
+- **2026/10/10** | 🐙 [**Cross-Lingual TTS for Indian Languages: A Benchmark and Inference-Time Duration Estimation Strategies**](https://arxiv.org/abs/2610.14826) 🧁
+- **2026/10/10** | 🏕️ [**Training a Compact, Strong, and Realistic Text-to-Speech Model**](https://arxiv.org/abs/2610.14776) 🎠
+- **2026/10/10** | 🏝️ [**VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS**](https://arxiv.org/abs/2610.14694) 🏕️
+- **2026/10/10** | 🍋 [**AphaVoice: Text-to-Speech Model for Aphasia Patient Simulation**](https://arxiv.org/abs/2610.14479) 🌈
+- **2026/10/09** | 🍄 [**Multimodal Co-Generation With Continuous Bitstream Diffusion**](https://arxiv.org/abs/2610.14349) 🐝
+- **2026/10/09** | 🌻 [**E3-System: Expressive EmoData, Explicitly Controllable, Easy-to-Use TTS**](https://arxiv.org/abs/2610.12993) 🍀
+- **2026/10/09** | 🧸 [**Emo-BPO: Emotion Bidirectional Preference Optimization for Diffusion-based Emotional TTS**](https://arxiv.org/abs/2610.12958) 🍉
+- **2026/10/08** | 🧊 [**Beyond Speech Captions: Speech-Rewarded Style Planning for Conversational Text-to-Speech**](https://arxiv.org/abs/2610.11461) 🐙
+- **2026/10/08** | 🐳 [**Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS**](https://arxiv.org/abs/2610.11437) 🎡
+- **2026/10/07** | 🐬 [**Steerspeech: Activation Steering For Emotion Control In Generated Speech**](https://arxiv.org/abs/2610.10415) 🦊
+- **2026/10/07** | 🐙 [**Training-Free Instruction TTS Gender Bias Calibration Using Model-Adaptive Steering**](https://arxiv.org/abs/2610.09831) 🍉
+- **2026/10/07** | 🐝 [**Beyond Token Revision: Investigating Mask-and-Replace Diffusion for Zero-Shot Text-to-Speech**](https://arxiv.org/abs/2610.09448) 🪐
+- **2026/10/06** | 🧩 [**BanglaBox: A Phonetically-Balanced Corpus and Data-Efficient Foundation-Model Adaptation for Bangla Text-to-Speech with Zero-Shot Voice Cloning**](https://arxiv.org/abs/2610.09211) 🐢
+- **2026/10/06** | 🍉 [**Loud and Clear: Dynamic Activation Steering for Improving Speech Intelligibility in Noisy Environments**](https://arxiv.org/abs/2610.07647) 🦄
+- **2026/10/06** | 🧸 [**Pronunciation-Oriented Reinforcement Learning for Japanese Text-to-Speech with Kana-Domain ASR Rewards**](https://arxiv.org/abs/2610.07575) 🧊
+- **2026/10/05** | 🌈 [**Region-Aware Masking for Accent-Robust Cross-Lingual Text-to-Speech**](https://arxiv.org/abs/2610.07524) 🐝
+- **2026/10/05** | 🦊 [**Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model**](https://arxiv.org/abs/2610.06817) 🐢
+- **2026/10/05** | 🌈 [**UltraDub: Towards Authentic Dubbing by Unifying Visually-Steered Flow Learning and Trajectory Guidance**](https://arxiv.org/abs/2610.05932) 🌵
+- **2026/10/04** | 🥨 [**Tracing a Sparse Emotion-Control Circuit in LLM-Based Text-to-Speech**](https://arxiv.org/abs/2610.05080) 🎲
+- **2026/10/03** | 🐳 [**Prompt-Consistency Inference for Zero-Shot Flow-Matching Text-to-Speech Models**](https://arxiv.org/abs/2610.04757) 🌻
+- **2026/10/03** | 🎡 [**VoiceWeaver: Staged Learning of Structured Controls for Expressive Speech and Sound-Event Generation**](https://arxiv.org/abs/2610.04500) 🌻
+- **2026/10/03** | 🧊 [**Can LLM Agents Automate Reinforcement Learning for Text-to-Speech?**](https://arxiv.org/abs/2610.04488) 🌈
+- **2026/10/02** | 🐳 [**DriftTTS: Few-Step Text-to-Speech Without Distillation via Distribution-Matching Drift**](https://arxiv.org/abs/2610.03390) 🍋
+- **2026/10/02** | 🦊 [**Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS**](https://arxiv.org/abs/2610.03320) 🪁
+- **2026/10/01** | 🥨 [**Watch Your Speech: Text-aware Video-to-Speech Synthesis with Textual Conditioning**](https://arxiv.org/abs/2610.01012) 🛼
+- **2026/09/30** | 🧸 [**Articulatory Source-Filter TTS: Physically Grounded Control through Vocal Tract Kinematics**](https://arxiv.org/abs/2610.00735) 🌈
+- **2026/09/30** | 🎡 [**Balalaika-Longform: A Russian Speech Corpus for Continuous Long-Form Text-to-Speech**](https://arxiv.org/abs/2610.00658) 🦊
+- **2026/09/30** | 🐝 [**SCIC: Scope- and Codebook-Aware Instruction Conditioning for Speaker-Adapted Expressive TTS**](https://arxiv.org/abs/2609.39088) 🎡
+- **2026/09/29** | 🥭 [**JoyAI-Voice 2.0: A Full-Continuous Autoregressive Speech Generation Model with Semantic-Acoustic Joint Representation**](https://arxiv.org/abs/2610.08834) 🏕️
+- **2026/09/29** | 🥨 [**Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning**](https://arxiv.org/abs/2609.38658) 🍋
+- **2026/09/29** | 🪴 [**EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation**](https://arxiv.org/abs/2609.38157) 🐬
+- **2026/09/29** | 🍒 [**RAWD-TTS: Ratio-Free Reward Alignment for Discrete-Diffusion Voice Cloning**](https://arxiv.org/abs/2609.37028) 🍩
+- **2026/09/29** | 🎡 [**RVQ Position Aware Speculative Decoding for On Device Text to Speech**](https://arxiv.org/abs/2609.37007) 🌻
+- **2026/09/29** | 🧩 [**WenetSpeech-Min: A Large-Scale Minnan Speech Corpus with Dual Transcriptions for Dialectal Speech Processing**](https://arxiv.org/abs/2609.36834) 🥭
+- **2026/09/28** | 🦋 [**Distill Locally, Schedule Globally: Flow Maps for Few-Step Text-to-Speech**](https://arxiv.org/abs/2609.36324) 🍒
+- **2026/09/28** | 🎡 [**InstCharVoice: Grounding Natural-Language Instructions for Character-Level Control in Text-to-Speech**](https://arxiv.org/abs/2609.36287) 🥑
+- **2026/09/28** | 🍩 [**SEmoEdit: Probing and Harnessing the Editability of Pre-trained Speech Flows**](https://arxiv.org/abs/2609.34648) 🦖
+- **2026/09/28** | 🦖 [**Harmonizing Spectral Evolution in Conditional Flow Matching for TTS**](https://arxiv.org/abs/2609.34431) 🧁
+- **2026/09/27** | 🦩 [**Controlling Speaking Rate in Autoregressive TTS via Activation Steering**](https://arxiv.org/abs/2609.33810) 🎡
+- **2026/09/27** | 🦩 [**From Script to Drama: An Agentic Framework for Controllable Multi-Speaker Dialogue TTS**](https://arxiv.org/abs/2609.33362) 🍋
+- **2026/09/26** | 🎡 [**DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS**](https://arxiv.org/abs/2609.32777) 🛼
+- **2026/09/25** | 🦜 [**NVAlign: Direct-Gradient Optimization for Non-Verbal Control in Continuous Autoregressive Flow Matching Text-to-Speech**](https://arxiv.org/abs/2609.31892) 🦩
+- **2026/09/24** | 🦊 [**EditVoice: Variable-Length Non-Autoregressive Zero-Shot TTS and Speech Editing with Edit Flows**](https://arxiv.org/abs/2609.29889) 🌈
+- **2026/09/24** | 🍋 [**Depth through recurrence: Looped transformers for flow-matching TTS**](https://arxiv.org/abs/2609.29768) 🥭
+- **2026/09/24** | 🦄 [**BanglaKontho: Closing the Long-Form Gap in Bangla Text-to-Speech**](https://arxiv.org/abs/2609.29146) 🎡
+- **2026/09/24** | 🪐 [**Accent Analogy Guidance: More Speaker Similarity at Equal Accent in Cross-Lingual Voice Cloning**](https://arxiv.org/abs/2609.29123) 🪁
+- **2026/09/24** | 🧩 [**ReaFlow-TTS: Realization-Conditioned Flow Matching for High-Quality and Controllable Speech Synthesis**](https://arxiv.org/abs/2609.28906) 🏕️
+- **2026/09/23** | 🍩 [**EmphTTS: an emphasis-control TTS with reinforcement learning**](https://arxiv.org/abs/2609.27599) 🦩
+- **2026/09/23** | 🦩 [**Forget who you Forgot: Speaker Unlearning to Prevent Re-Identification in Zero-Shot Text-to-Speech**](https://arxiv.org/abs/2609.27399) 🐢
+- **2026/09/22** | 🌵 [**Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing**](https://arxiv.org/abs/2609.26486) 🥨
+- **2026/09/22** | 🏕️ [**From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS**](https://arxiv.org/abs/2609.25951) 🎡
+- **2026/09/22** | 🧊 [**Interactive TTS: Dynamic Speaking Style Adaptation for Expressive Speech Synthesis**](https://arxiv.org/abs/2609.25707) 🏝️
+- **2026/09/21** | 🧁 [**Learnable Classifier-Free Guidance Null Embeddings for Enhanced Controllable Speech Synthesis**](https://arxiv.org/abs/2609.25411) 🥑
+- **2026/09/21** | 🪴 [**CycleSpeech: Reciprocal Alignment for Instruction-Controlled Speech Synthesis and Paralinguistic Understanding**](https://arxiv.org/abs/2609.24771) 🧸
+- **2026/09/21** | 🍒 [**Morpho-VITS: Variational Inference with Morphological Modeling for End-to-End Speech Synthesis of a Tonal Bantu Language**](https://arxiv.org/abs/2609.24310) 🐙
+- **2026/09/21** | 🐬 [**Structure Before Sampling: Community-Aware Core-Set Selection for Data-Efficient Text-to-Speech**](https://arxiv.org/abs/2609.24275) 🦊
+- **2026/09/21** | 🥭 [**Listen, Critique, and Refine: RL-Based Self-Refinement for Instruction-Following Speech Synthesis**](https://arxiv.org/abs/2609.24163) 🦖
+- **2026/09/19** | 🐝 [**COT-TTS: Audio Context-Aware Text-to-Speech with Chain-of-Thought Reasoning**](https://arxiv.org/abs/2609.22697) 🦄
+- **2026/09/18** | 🍋 [**Listen Before You Speak: Response Planning from Listener Facial Reactions for Conversational Speech Generation**](https://arxiv.org/abs/2609.21683) 🍉
+- **2026/09/16** | 🥨 [**GrainSpeech: Less Context, More Detail for Compact Speech Synthesis**](https://arxiv.org/abs/2609.18856) 🦩
+- **2026/09/15** | 🪐 [**Self-Distilled Pronunciation and Accent Control for Neural Text-to-Speech**](https://arxiv.org/abs/2609.17234) 🧩
+- **2026/09/15** | 🐬 [**Taming Long-form Text-to-Speech**](https://arxiv.org/abs/2609.16989) 🥑
+- **2026/09/14** | 🍉 [**Cross-Lingual F5-TTS 2: A Simplified Framework for Language-Agnostic Voice Cloning**](https://arxiv.org/abs/2609.15184) 🐙
+- **2026/09/13** | 🍀 [**Bridging Data, Reasoning, and Alignment: A Unified Framework for Context-Aware Instruction-Following TTS**](https://arxiv.org/abs/2609.14740) 🐢
+- **2026/09/13** | 🌵 [**Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations**](https://arxiv.org/abs/2609.14231) 🦩
+- **2026/09/12** | 🥑 [**DiTAR+: Dual Optimization for Robust Autoregressive Diffusion Speech Synthesis**](https://arxiv.org/abs/2609.13909) 🏕️
+- **2026/09/11** | 🧊 [**StepAudio 3 Gen Technical Report**](https://arxiv.org/abs/2609.12945) 🧁
+- **2026/09/11** | 🐝 [**AlignDPO: Preference-Gated Alignment for Reducing Hallucination in Decoder-Only TTS**](https://arxiv.org/abs/2609.12855) 🪴
+- **2026/09/11** | 🐳 [**X-Pred MeanFlow for Streaming Token-to-Mel Speech Decoding**](https://arxiv.org/abs/2609.12728) 🧸
+- **2026/09/10** | 🧸 [**Continuous-Time Acoustic Modelling with Neural Controlled Differential Equations**](https://arxiv.org/abs/2609.11725) 🐙
+- **2026/09/10** | 🍋 [**Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language**](https://arxiv.org/abs/2609.11523) 🌻
+- **2026/09/09** | 🪐 [**Deterministic Prompting for Speaker-Stable Low-Resource Greek TTS**](https://arxiv.org/abs/2609.10022) 🐢
+- **2026/09/09** | 🍄 [**X2-NativeCursor: Native-Token Text Progress Tracking for Incremental-Text Streaming Codec TTS**](https://arxiv.org/abs/2609.09677) 🧸
+- **2026/09/08** | 🛼 [**AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing**](https://arxiv.org/abs/2609.08936) 🧁
+- **2026/09/08** | 🐢 [**TontaubeV1: Streaming Text-to-Speech with Hierarchical Codec Modeling and Bounded Context**](https://arxiv.org/abs/2609.08703) 🏕️
+- **2026/09/08** | 🧊 [**Stabilizing Instruction Supervision for Instruct-TTS via Controllable Diversification and Drift Filtering**](https://arxiv.org/abs/2609.08204) 🥑
+- **2026/09/07** | 🍒 [**KABURI-TTS: Phoneme-Keyed Activity-conditioned Bi-channel Utterance Rendering for Interaction**](https://arxiv.org/abs/2609.07200) 🧸
+- **2026/09/04** | 🪐 [**Pushing CPU Speech Synthesis to the Wall: Extreme Inference Tuning under Serverless Architecture and Billing**](https://arxiv.org/abs/2610.00063) 🦄
+- **2026/09/03** | 🍄 [**Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis**](https://arxiv.org/abs/2609.03992) 🍩
+- **2026/09/03** | 🪐 [**Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech**](https://arxiv.org/abs/2609.03502) 🐝
+- **2026/09/02** | 🎡 [**Scalable Direction-Following TTS via Voice Impression-Guided Pseudo Triplet Construction**](https://arxiv.org/abs/2609.02623) 🍩
+- **2026/09/01** | 🍋 [**Phrase-Localized Language-Contrastive Guidance: Training-Free Localized Accent Control for Code-Switching Text-to-Speech**](https://arxiv.org/abs/2609.01016) 🍉
+- **2026/08/31** | 🥑 [**When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models**](https://arxiv.org/abs/2608.31035) 🎡
+- **2026/08/31** | 🌻 [**Sequential Trajectories and Simultaneous Blending: Multi-Emotion Modeling for Instruction-Following TTS**](https://arxiv.org/abs/2608.30325) 🏝️
+- **2026/08/29** | 🧁 [**Diagnose, Then Refine: A Closed-Loop TTS System with AudioLLM-Guided Correction**](https://arxiv.org/abs/2608.28970) 🏝️
+- **2026/08/25** | 🍉 [**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**](https://arxiv.org/abs/2608.24168) 🍋
+- **2026/08/25** | 🌈 [**Preference Optimization for Non-Verbal Vocalization Synthesis**](https://arxiv.org/abs/2608.24163) 🪐
+- **2026/08/24** | 🍩 [**EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis**](https://arxiv.org/abs/2608.23791) 🐳
+- **2026/08/19** | 🎲 [**X2Streaming-TTS: Causal Token-Level Text-to-Speech from Streaming Text with Speech-State Inheritance**](https://arxiv.org/abs/2608.18661) 🪴
+- **2026/08/18** | 🦋 [**FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations**](https://arxiv.org/abs/2608.17492) 🧁
+- **2026/08/17** | 🌻 [**Agentic-DuplexGen: Decoupling Content, Timing, and Acoustics for Synthetic Dialogue Speech**](https://arxiv.org/abs/2608.16053) 🥭
+- **2026/08/16** | 🦖 [**Iterative Self-Learning for Expressive Text-to-Speech Synthesis**](https://arxiv.org/abs/2608.15910) 🌈
+- **2026/08/16** | 🧸 [**Adding Voice Cloning to Text-to-Audio-Video Models with a Single Zero-Initialised Layer**](https://arxiv.org/abs/2608.15690) 🍩
+- **2026/08/13** | 🦄 [**VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents**](https://arxiv.org/abs/2608.13831) 🥭
+- **2026/08/13** | 🌵 [**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**](https://arxiv.org/abs/2608.12951) 🐳
+- **2026/08/12** | 🍄 [**VoiceDesigner: Text-to-Voice Generation and Editing via Unified Diffusion Modeling and Data Augmentation**](https://arxiv.org/abs/2608.13613) 🛼
+- **2026/08/12** | 🦖 [**MiDashengLM-Gen: Unified Audio Scene Generation via LLM-Driven Autoregressive Flow Matching**](https://arxiv.org/abs/2608.11804) 🍉
+- **2026/08/12** | 🍄 [**Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization**](https://arxiv.org/abs/2608.11737) 🦩
+- **2026/08/12** | 🏕️ [**Confucius4-TTS: Transcript-Free Cross-Lingual Zero-Shot TTS with a Learnable Speaker Encoder**](https://arxiv.org/abs/2608.11650) 🧁
+- **2026/08/12** | 🐳 [**Luna-TTS Family Technical Report**](https://arxiv.org/abs/2608.11593) 🦜
+- **2026/08/12** | 🍒 [**CookVoice: Unified Framework for Style Controllable Multi-Modal Human Voice Generation**](https://arxiv.org/abs/2608.11590) 🐝
+- **2026/08/11** | 🐬 [**TTS-Q: Speaker-Aware Post-Training Quantization of Text-to-Speech Diffusion Transformers**](https://arxiv.org/abs/2610.12474) 🌻
+- **2026/08/10** | 🐬 [**SonicWeave: Chunk-Routed Mixture-of-Experts for Unified Audio Scene Generation**](https://arxiv.org/abs/2608.09571) 🌈
+- **2026/08/09** | 🐬 [**CuteTTS: Efficient and High-Quality Speech Synthesis via Autoregressive Modeling of Continuous Latents**](https://arxiv.org/abs/2608.08638) 🪁
+- **2026/08/08** | 🦖 [**CtrlSpeech: Coarse-to-Fine Control for Expressive Speech Synthesis**](https://arxiv.org/abs/2608.08362) 🐝
+- **2026/08/07** | 🦖 [**SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation**](https://arxiv.org/abs/2608.07462) 🐢
+- **2026/08/05** | 🦖 [**Multi Codec Discrete Diffusion Model for Text Guided Speech Inpainting and Editing**](https://arxiv.org/abs/2608.06424) 🍄
+- **2026/08/04** | 🪴 [**GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model**](https://arxiv.org/abs/2608.03215) 🐬
+- **2026/08/04** | 🦋 [**Towards Real-world Environment-aware Zero-shot Text-to-speech Synthesis via Disentangled Audio Infilling**](https://arxiv.org/abs/2608.03011) 🐢
+- **2026/08/03** | 🏝️ [**SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks**](https://arxiv.org/abs/2608.02023) 🧊
+- **2026/08/02** | 🪁 [**dots.tts.edit: Precisely Controlled Speech Editing with a Continuous Autoregressive Model**](https://arxiv.org/abs/2608.02673) 🧩
+- **2026/08/02** | 🧩 [**Beyond One-Size-Fits-All: Personalized and Culturally Adaptive Emotional TTS via Interactive Optimization of Individual Emotion Perception Spaces**](https://arxiv.org/abs/2608.00998) 🥨
+- **2026/08/01** | 🛼 [**Experience-Calibrated Contrastive Decoding for Mitigating Hallucinations in LM-Based Text-to-Speech**](https://arxiv.org/abs/2608.00722) 🪁
+- **2026/08/01** | 🪴 [**Beyond Prompt Adherence: Auditing Attribute-Level Voice Control in Speech Generation**](https://arxiv.org/abs/2608.00545) 🍩
+- **2026/07/31** | 🥭 [**Stable Autoregressive Speech Generation with Low-Frame-Rate High-Dimensional Continuous Tokens**](https://arxiv.org/abs/2607.29363) 🦊
+- **2026/07/29** | 🏕️ [**Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model**](https://arxiv.org/abs/2607.26742) 🐝
+- **2026/07/28** | 🥭 [**Extracting Voice Styles from Frozen TTS Models via Gradient-Based Inverse Optimization**](https://arxiv.org/abs/2607.25351) 🌈
+- **2026/07/27** | 🐳 [**Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis**](https://arxiv.org/abs/2607.24430) 🪁
+- **2026/07/27** | 🦩 [**Qwen-Audio-3.0-TTS: Freely Controllable and Highly Robust Speech Synthesis with Multi-Stage Training Paradigm**](https://arxiv.org/abs/2607.23938) 🌻
+- **2026/07/26** | 🦄 [**Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers**](https://arxiv.org/abs/2607.23811) 🍄
+- **2026/07/25** | 🦩 [**Singlish, Can or Not? Fine-Tuning and Evaluating Zero-Shot TTS for Singapore English**](https://arxiv.org/abs/2607.23027) 🐙
+- **2026/07/23** | 🧸 [**Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs**](https://arxiv.org/abs/2607.21042) 🦖
+- **2026/07/22** | 🥭 [**StellarTTS: Sparse Temporal Embedding for Low-Latency and Robust Speech Synthesis**](https://arxiv.org/abs/2607.19859) 🐙
+- **2026/07/20** | 🦋 [**Harness TTS: Towards Context-Aware Expressive Speech Synthesis with Harness Layer**](https://arxiv.org/abs/2607.17900) 🛼
+- **2026/07/19** | 🍩 [**Staged Depth-Pruning Distillation of a Flow-Matching Text-to-Speech Teacher: A Compact Hindi Speech Synthesizer**](https://arxiv.org/abs/2607.18662) 🧁
+- **2026/07/17** | 🍩 [**AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis**](https://arxiv.org/abs/2607.15755) 🍀
+- **2026/07/14** | 🐝 [**sanoTTS: The Smallest Real-Time Neural TTS on a General-Purpose Microcontroller**](https://arxiv.org/abs/2608.21378) 🥨
+- **2026/07/14** | 🧊 [**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**](https://arxiv.org/abs/2607.12706) 🐙
+- **2026/07/10** | 🦖 [**FreyaTTS: A Compact Tokenizer-Free Flow-Matching Transformer for Turkish-First Speech Synthesis**](https://arxiv.org/abs/2607.09530) 🌈
+- **2026/07/10** | 🍩 [**ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models**](https://arxiv.org/abs/2607.09134) 🍋
+- **2026/07/07** | 🐳 [**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**](https://arxiv.org/abs/2607.06461) 🎲
+- **2026/07/07** | 🍒 [**BlueMagpie-TTS: A Token-Efficient Tokenizer, Language Model, and TTS for Taiwanese-Accent Code-Switching Speech**](https://arxiv.org/abs/2607.06054) 🦖
+- **2026/07/07** | 🧊 [**Fr\'echet Distance Loss on Speech Representations for Text-to-Speech Synthesis**](https://arxiv.org/abs/2607.06027) 🦄
+- **2026/07/06** | 🧸 [**ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions**](https://arxiv.org/abs/2607.05276) 🪴
+- **2026/07/06** | 🧊 [**Unified Audio Intelligence Without Regressing on Text Intelligence**](https://arxiv.org/abs/2607.05196) 🐢
+- **2026/07/05** | 🧸 [**Towards Digital Preservation of Efik: TTS for a Low-Resource African Language**](https://arxiv.org/abs/2607.04515) 🐙
+- **2026/07/05** | 🦖 [**DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech**](https://arxiv.org/abs/2607.04140) 🦩
+- **2026/07/04** | 🦋 [**GEPARD - Generative, Prosody-aware, Autoregressive text-to-speech model for Realtime Dialogue**](https://arxiv.org/abs/2609.04222) 🧊
+- **2026/07/02** | 🧊 [**GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech**](https://arxiv.org/abs/2607.02633) 🌵
+- **2026/07/01** | 🪴 [**A Geometric Perspective on Composable Emotion Steering in Text-to-Speech Models**](https://arxiv.org/abs/2607.00946) 🏝️
+- **2026/07/01** | 🌈 [**Enhancing Flow Matching with A Unified Guidance Framework for Efficient and Robust Speech Synthesis**](https://arxiv.org/abs/2607.00363) 🪐
+- **2026/06/30** | 🥭 [**Poly-InstructTTS: Learning In-the-Wild Expressive Speech Synthesis from Open-Ended Instructions**](https://arxiv.org/abs/2608.20387) 🍀
+- **2026/06/28** | 🏝️ [**Vagdhenu: A Vrutta (Meter) Aware Shloka-to-Chant (TTS) System for Sanskrit**](https://arxiv.org/abs/2608.26146) 🐳
+- **2026/06/26** | 🎡 [**HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech**](https://arxiv.org/abs/2606.28249) 🧸
+- **2026/06/25** | 🪐 [**Closing the Quality Gap in Low-Resource Text-to-Speech: LoRA Fine-Tuning of VoxCPM2 for Khmer and Korean**](https://arxiv.org/abs/2606.26618) 🥑
+- **2026/06/25** | 🏝️ [**VoiceTTA: Enhancing Zero-Shot Text-to-Speech via Reinforcement Learning-Based Test-Time Adaptation**](https://arxiv.org/abs/2606.26534) 🧸
+- **2026/06/24** | 🪴 [**Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS**](https://arxiv.org/abs/2606.25672) 🎲
+- **2026/06/24** | 🪁 [**Adaptive Oscillatory Inductive Bias for Modeling Sharp Prosodic Dynamics in Diffusion-Based TTS**](https://arxiv.org/abs/2606.25424) 🦊
+- **2026/06/24** | 🪐 [**CrossAccent-TTS: Cross-Lingual Accent-Intensity Controllable Text-to-Speech via Disentangled Speaker and Accent Representations**](https://arxiv.org/abs/2606.25403) 🍋
+- **2026/06/24** | 🎠 [**Sarashina2.2-TTS: Tackling Kanji Polyphony in Japanese Speech Generation via Data Scaling and Targeted Data Synthesis**](https://arxiv.org/abs/2606.25369) 🦊
+- **2026/06/22** | 🎡 [**FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech**](https://arxiv.org/abs/2606.23190) 🧸
+- **2026/06/22** | 🧸 [**Synthesizing the Lombard Effect: Multi-Level Control of Speech Clarity and Vocal Effort in TTS**](https://arxiv.org/abs/2606.23176) 🍒
+- **2026/06/22** | 🪴 [**AudioCALM: Continuous Autoregressive Language Modeling for Universal Audio Generation**](https://arxiv.org/abs/2606.23080) 🎠
 - **2026/06/22** | 🧭 [**Bagpiper-TTS: Natural Language Guided Universal Speech Synthesis**](https://arxiv.org/abs/2606.22811) 🗣️
+- **2026/06/20** | 🦖 [**Streaming T5-based Text-to-Speech Synthesis with Limited Lookahead**](https://arxiv.org/abs/2606.21882) 🎲
+- **2026/06/19** | 🥭 [**DLLM-TTS: Block Discrete Diffusion Language Model for Text-to-Speech Synthesis**](https://arxiv.org/abs/2608.00011) 🪐
+- **2026/06/19** | 🛼 [**Learning from Real Stuttering: Synthetic Mandarin Stuttering Speech for Data Augmentation in Speech Recognition**](https://arxiv.org/abs/2606.21457) 🦜
+- **2026/06/19** | 🎡 [**Imitation Learning for Elder-Facing Speech Synthesis**](https://arxiv.org/abs/2606.21053) 🎠
+- **2026/06/18** | 🦄 [**How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech**](https://arxiv.org/abs/2606.20532) 🐳
+- **2026/06/18** | 🎲 [**FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS**](https://arxiv.org/abs/2606.20518) 🐝
+- **2026/06/18** | 🦋 [**Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning**](https://arxiv.org/abs/2606.20266) 🐢
+- **2026/06/18** | 🌈 [**Exploring Pre-training Benefits on Phoneme Addition through Fine-tuning in Speech Synthesis**](https://arxiv.org/abs/2606.19792) 🪁
+- **2026/06/17** | 🦊 [**Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors**](https://arxiv.org/abs/2606.19325) 🎲
+- **2026/06/17** | 🍉 [**FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech**](https://arxiv.org/abs/2606.19209) 🍒
+- **2026/06/16** | 🪐 [**MagpieTTS-LF: Inference-Time Long-Form Speech Generation Without Training on Long-Form data**](https://arxiv.org/abs/2606.18485) 🪁
+- **2026/06/16** | 🧸 [**Reliable Neural-Codec Text-to-Speech by ASR Self-Verification and Distillation: Near-Zero Catastrophic Failures Across Models and Codecs**](https://arxiv.org/abs/2606.18323) 🌈
+- **2026/06/15** | 🐢 [**CraBERT: Efficient Phoneme Encoder Pre-Training via Cascade Fusion of Subword Representations for Text-to-Speech**](https://arxiv.org/abs/2606.16668) 🥨
+- **2026/06/15** | 🐳 [**Joycent: Multi-Accent TTS via Disentangled Accent Modeling and Layer-Specific Conditioning**](https://arxiv.org/abs/2606.16417) 🛼
+- **2026/06/14** | 🥨 [**Improving Code-Switching ASR with Code-Mixing Guided Synthetic Speech**](https://arxiv.org/abs/2606.19381) 🐬
+- **2026/06/13** | 🧊 [**Dynamic Prosody Prediction in LLM-based TTS for Improving Speaker Similarity**](https://arxiv.org/abs/2606.15267) 🦋
+- **2026/06/12** | 🏝️ [**An Empirical Study on Learning Latent Representations for Emotional Speech Synthesis**](https://arxiv.org/abs/2606.14922) 🧁
+- **2026/06/12** | 🍋 [**Mask, Sample, Revise: A Revisable CTMC Inference Stack for Guided Discrete Flow Matching Text-to-Speech**](https://arxiv.org/abs/2606.13989) 🦩
+- **2026/06/11** | 🦜 [**Emo-LiPO: Listwise Preference Optimization for Fine-Grained Emotion Intensity Control in LLM-based Text-to-Speech**](https://arxiv.org/abs/2606.13006) 🧁
+- **2026/06/10** | 🐝 [**UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction**](https://arxiv.org/abs/2606.11681) 🍒
+- **2026/06/08** | 🍄 [**EmoInstruct-TTS: Dual-Path Instruction-Guided Emotional Speech Synthesis**](https://arxiv.org/abs/2606.20650) 🪁
+- **2026/06/08** | 🧁 [**Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders**](https://arxiv.org/abs/2606.10029) 🍉
+- **2026/06/08** | 🦩 [**Optimality of FSQ Tokens for Continuous Diffusion for Categorical Data with Application to Text-to-Speech**](https://arxiv.org/abs/2606.09962) 🍀
+- **2026/06/08** | 🧸 [**OpenBibleTTS: Large-Scale Speech Resources and TTS Models for Low-Resource Languages**](https://arxiv.org/abs/2606.09553) 🥑
+- **2026/06/08** | 🌈 [**N\"ushuVoice: Reviving the Voice of Endangered N\"ushu with Pitch-Aware Text-to-Speech**](https://arxiv.org/abs/2606.09295) 🐳
+- **2026/06/08** | 🎲 [**End-to-End Training for Discrete Token LLM based TTS System**](https://arxiv.org/abs/2606.09234) 🧸
+- **2026/06/08** | 🏝️ [**FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation**](https://arxiv.org/abs/2606.09141) 🌵
+- **2026/06/08** | 🧊 [**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**](https://arxiv.org/abs/2606.09098) 🐢
+- **2026/06/08** | 🏝️ [**BareWave: Waveform-Native Flow-Matching Text-to-Speech**](https://arxiv.org/abs/2606.09048) 🌈
+- **2026/06/08** | 🎲 [**TLDR: Compressing Audio Tokens for Efficient Autoregressive Text-to-Speech**](https://arxiv.org/abs/2606.09019) 🍀
+- **2026/06/05** | 🥑 [**Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech**](https://arxiv.org/abs/2606.14750) 🦋
+- **2026/06/05** | 🥑 [**KIT's Submission to Cross-Lingual Voice Cloning in IWSLT 2026**](https://arxiv.org/abs/2606.07240) 🐬
 - **2026/06/05** | 🌊 [**dots.tts Technical Report**](https://arxiv.org/abs/2606.07080) ⚡
+- **2026/06/05** | 🌵 [**VoxCPM2 Technical Report**](https://arxiv.org/abs/2606.06928) 🍩
+- **2026/06/04** | 🍀 [**CoSTA: Cognitive-State-Conditioned TTS Data Augmentation Using ASR Transcripts for Alzheimer's Disease Detection**](https://arxiv.org/abs/2606.06170) 🌻
+- **2026/06/04** | 🍄 [**GLASS: GRPO-Trained LoRA for Acoustic Style Steering in Zero-Shot Text-to-Speech**](https://arxiv.org/abs/2606.05889) 🧁
+- **2026/06/04** | 🛼 [**UniVoice: A Unified Model for Speech and Singing Voice Generation**](https://arxiv.org/abs/2606.05852) 🦊
+- **2026/06/03** | 🧸 [**Task-Vector Arithmetic for Emotional Expressivity Control in Language-Model-Based Text-to-Speech**](https://arxiv.org/abs/2606.05367) 🏕️
+- **2026/06/02** | 🥭 [**WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling**](https://arxiv.org/abs/2606.03455) 🍄
 - **2026/05/29** | 🧱 [**Chatterbox-Flash: Prior-Calibrated Block Diffusion for Streaming Zero-Shot TTS**](https://arxiv.org/abs/2605.30748) 🚀
 - **2026/05/26** | 🧪 [**PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis**](https://arxiv.org/abs/2605.27258) 🎙️
 - **2026/05/23** | 🎛️ [**FC-TTS: Style and Timbre Control in Zero-Shot Text-to-Speech with Disentangled Speech Representations**](https://arxiv.org/abs/2605.24618) 🎭
@@ -14,6 +225,7 @@
 ---
 
 ## 📅 2025
+
 - **2025/12/21** | 🎭 [**Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis**](https://arxiv.org/abs/2512.18699) 🗺️
 - **2025/12/04** | 💎 [**M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis**](https://arxiv.org/abs/2512.04720) 🗣️
 - **2025/12/04** | 🏅 [**RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS**](https://arxiv.org/abs/2512.04552) ❤️
@@ -29,6 +241,7 @@
 ---
 
 ## 📅 2024
+
 - **2024/12/13** | 🌊 [**CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models**](https://arxiv.org/abs/2412.10117) ⚙️
 - **2024/10/09** | 🧚 [**F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching**](https://arxiv.org/abs/2410.06885) 🌀
 - **2024/09/05** | 🔥 [**FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications**](https://arxiv.org/abs/2409.03283) 🏗️
